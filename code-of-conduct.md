@@ -41,7 +41,7 @@ As administrators, we will seek to resolve conflicts peacefully and in a manner 
 
 ##Administrators
 
-The administrator(s) of Rands Leadership as of June 7, 2016:
+The administrator(s) of Rands Leadership as of Feburary 21st, 2017:
 
 Rands ([Michael Lopp](mailto:feedback@randsinrepose.com))
 
