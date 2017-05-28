@@ -1,6 +1,6 @@
 All participants in the Rands Leadership Slack are required to comply with the following code of conduct. Administrators (see below for definition of administrators) will enforce this code throughout the service ("Team"). 
 
-#The Short Version
+# The Short Version
 
 Be respectful of other people; respectfully ask people to stop if you are bothered; and if you can’t resolve an issue contact the administrators. If you are being a problem, it will be apparent and you may be asked to leave the Team.
 
