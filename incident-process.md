@@ -1,4 +1,4 @@
-When an incident occurs, I ask that per the Code of Conduct for those involved to resolve peacefully:
+When an incident occurs, I ask that per the [Code of Conduct](https://github.com/randsleadershipslack/documents-and-resources/blob/master/code-of-conduct.md) for those involved to resolve peacefully:
 
 “If you see someone violating any part of this Code of Conduct, we urge you to respectfully dissuade them from such behavior. Expect that others in the community wish to help keep the community respectful, and welcome your input in doing so.”
 
