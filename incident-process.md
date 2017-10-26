@@ -35,8 +35,7 @@ In cases the result in account suspension, the individual suspended may appeal t
 
 # FAQ:
 
-- “Is situation XYZ an incident?” Unsure if there’s a CoC violation? Ask #rands-slack-rules and/or DM me. We'll help.
-- “Are we still updating the Code of Conduct?” Yes, but including this entire incident process did not fit the intent of the CoC. The revised CoC will refer to this process. 
+- “Is situation XYZ an incident?” Unsure if there’s a CoC violation? Ask #rands-slack-rules and/or DM me. We'll help. 
 - “How many incidents have you handled since this place started?” Six as of Fall 2017.
 
 ## Administrators
