@@ -8,10 +8,10 @@ However, resolution amongst the individuals will not always be achievable. In th
 
 When ready and if appropriate, the reporter needs to send me a direct message. Based on past incidents, there are at least four things I need to understand:
 
-# What’s the nature of the incident and/or CoC violation? 
-# Who is involved in this incident?
-# What material supports this situation?
-# Any privacy concerns? (The reporter may choose to keep the incident private.)
+1. What’s the nature of the incident and/or CoC violation? 
+2. Who is involved in this incident?
+3. What material supports this situation?
+4. Any privacy concerns? (The reporter may choose to keep the incident private.)
 
 With this information in hand, I will strive to respond to the reporter as quickly as possible with an estimate of when I think I’ll be able to triage and resolve this incident. In extreme cases, I may suspend one or more accounts until I am able to triage and resolve an incident. 
 
