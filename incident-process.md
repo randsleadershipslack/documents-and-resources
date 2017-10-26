@@ -25,13 +25,13 @@ When ready and if appropriate, the reporter needs to send the adminstrator a dir
 3. What material supports this situation?
 4. Any privacy concerns? (The reporter may choose to keep the incident private.)
 
-With this information in hand, the administrator will strive to respond to the reporter as quickly as possible with an estimate of when they think they’ll be able to triage and resolve this incident. In extreme cases, the administrator may suspend one or more accounts until I am able to triage and resolve an incident. 
+With this information in hand, the administrator will strive to respond to the reporter as quickly as possible with an estimate of when they think they’ll be able to triage and resolve this incident. In extreme cases, the administrator may suspend one or more accounts until they are able to triage and resolve an incident. 
 
-Incident resolution can vary from hours to days depending on the availability of those involved. Once the incident is resolved, the administraor will communicate the resolution to the reporter and other other parties relevant to the incident. In extreme cases, the administrator will communicate the resolution with #rands-slack-rules with reporter permission.
+Incident resolution can vary from hours to days depending on the availability of those involved. Once the incident is resolved, the administrator will communicate the resolution to the reporter and other other parties relevant to the incident. In extreme cases, the administrator will communicate the resolution with #rands-slack-rules with reporter permission.
 
 ## Appeal of Account Suspension
 
-In cases the result in account suspension, the individual suspended may appeal the decision starting one week after the suspension by sending a mail to the administrator with justification for overturning the appeal. If an suspension is overturned, the contet will be shared with #rands-slack-rules
+In cases the result in account suspension, the individual suspended may appeal the decision starting one week after the suspension by sending a mail to the administrator with justification for overturning the appeal. If an suspension is overturned, the context will be shared with #rands-slack-rules
 
 # FAQ:
 
