@@ -31,7 +31,7 @@ Incident resolution can vary from hours to days depending on the availability of
 
 ## Appeal of Account Suspension
 
-In cases the result in account suspension, the individual suspended may appeal the decision starting one week after the suspension by sending a mail to the administrator with justification for overturning the appeal. If an suspension is overturned, the context will be shared with #rands-slack-rules
+In cases the result in account suspension, the individual suspended may appeal the decision starting one week after the suspension by sending a mail to the administrator with justification for overturning the appeal. If a suspension is overturned, the new context will be shared with #rands-slack-rules
 
 # FAQ:
 
