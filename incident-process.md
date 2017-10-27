@@ -2,7 +2,7 @@
 
 In any group of humans, things will sometimes go sideways. Whether it's simple unintentional miscommunication or more extreme unacceptable behavior, we need to have an agreed upon protocol to resolve these situations ourselves or to escalate in the case one-to-one resolutons in unachievable. 
 
-This is the process for incident resolution at Rands Leadership Slack. 
+This is the process for incident resolution at Rands Leadership Slack and process is [documented culture](http://randsinrepose.com/archives/the-process-myth/).
 
 # The Process
 
@@ -16,7 +16,7 @@ This is easier said than done, but this is Leadership Slack. Our expectations ar
 
 ## Escalation
 
-Resolution amongst the individuals will not always be achievable. In this case, the reporter and/observer of the incident has a choice. They can immediately raise the incident to the administrator (see below for specifics) or they can share the incident with #rands-slack-rules and seek feedback and perhaps resolution on the incident. We understand the need for the former workflow, but we highly encourage the latter because, again, this is a leadership Slack. Our hope is that the debate will help educate this sub-community of humans interested in the rules and culture that govern this small corner of the Internet. 
+Resolution amongst the individuals will not always be achievable. In this case, the reporter and/or observer of the incident has a choice. They can share the incident with #rands-slack rules to seek feedback and perhaps resolve the incident or they can raise the incident with the administrator (see below for specifics). We understand the need for the latter workflow, but we highly encourage the former because, again, this is a leadership Slack. Our hope is that the debate will help educate this sub-community of humans interested in the rules and culture that govern this small corner of the Internet. 
 
 When ready and if appropriate, the reporter needs to send the adminstrator a direct message with the following information. 
 
@@ -40,7 +40,7 @@ In cases the result in account suspension, the individual suspended may appeal t
 
 ## Administrators
 
-The administrator(s) of Rands Leadership as of Fall 2017:
+The administrator(s) of Rands Leadership as of October 27th, 2017:
 
 Rands ([Michael Lopp](mailto:feedback@randsinrepose.com))
 
