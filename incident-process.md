@@ -16,18 +16,18 @@ This is easier said than done, but this is Leadership Slack. Our expectations ar
 
 ## Escalation
 
-Resolution amongst the individuals will not always be achievable. In this case, the reporter of the incident has a choice. They can immediately raise the incident to the administrator (see below for specifics) or they can share the incident with #rands-slack-rules and seek feedback and perhaps resolution on the incident. We understand the need for the former workflow, but we highly encourage the latter because, again, this is a leadership Slack. Our hope is that the debate will help educate this sub-community of humans interested in the rules and culture that govern this small corner of the Internet. 
+Resolution amongst the individuals will not always be achievable. In this case, the reporter and/observer of the incident has a choice. They can immediately raise the incident to the administrator (see below for specifics) or they can share the incident with #rands-slack-rules and seek feedback and perhaps resolution on the incident. We understand the need for the former workflow, but we highly encourage the latter because, again, this is a leadership Slack. Our hope is that the debate will help educate this sub-community of humans interested in the rules and culture that govern this small corner of the Internet. 
 
 When ready and if appropriate, the reporter needs to send the adminstrator a direct message with the following information. 
 
 1. What’s the nature of the incident and/or CoC violation? 
 2. Who is involved in this incident?
 3. What material supports this situation?
-4. Any privacy concerns? (The reporter may choose to keep the incident private.)
+4. Any privacy concerns? (Reporter consent is required before sharing any information regaarding the incident)
 
 With this information in hand, the administrator will strive to respond to the reporter as quickly as possible with an estimate of when they think they’ll be able to triage and resolve this incident. In extreme cases, the administrator may suspend one or more accounts until they are able to triage and resolve an incident. 
 
-Incident resolution can vary from hours to days depending on the availability of those involved. Once the incident is resolved, the administrator will communicate the resolution to the reporter and other other parties relevant to the incident. In extreme cases, the administrator will communicate the resolution with #rands-slack-rules with reporter permission.
+Incident resolution can vary from hours to days depending on the availability of those involved. Once the incident is resolved, the administrator will communicate the resolution to the reporter and other other parties relevant to the incident. In exteme cases, the administrator will communicate the resolution with #rands-slack-rules with reporter permission. 
 
 ## Appeal of Account Suspension
 
