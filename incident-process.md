@@ -35,12 +35,12 @@ In cases the result in account suspension, the individual suspended may appeal t
 
 # FAQ:
 
-- “Is situation XYZ an incident?” Unsure if there’s a CoC violation? Ask #rands-slack-rules and/or DM me. We'll help. 
-- “How many incidents have you handled since this place started?” Six as of Fall 2017.
+- “Is situation XYZ an incident?” Unsure if there’s a CoC violation? Ask in #rands-slack-rules and/or DM the administrator. We'll help. 
+- “How many incidents have you handled since this place started?” Seven as of November 2017.
 
 ## Administrators
 
-The administrator(s) of Rands Leadership as of October 27th, 2017:
+The administrator(s) of Rands Leadership as of November 14th, 2017:
 
-Rands ([Michael Lopp](mailto:feedback@randsinrepose.com))
+@rands ([Michael Lopp](mailto:feedback@randsinrepose.com))
 
