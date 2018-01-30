@@ -40,7 +40,7 @@ In cases the result in account suspension, the individual suspended may appeal t
 
 ## Administrators
 
-The administrator(s) of Rands Leadership as of January 29, 2018:
+The administrator(s) of Rands Leadership as of January 29th, 2018:
 
 @rands ([Michael Lopp](mailto:feedback@randsinrepose.com))
 
