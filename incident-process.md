@@ -12,11 +12,11 @@ When an incident occurs, we ask that per the [Code of Conduct](https://github.co
 
 “If you see someone violating any part of this Code of Conduct, we urge you to respectfully dissuade them from such behavior. Expect that others in the community wish to help keep the community respectful, and welcome your input in doing so.”
 
-This is easier said than done, but this is Leadership Slack. Our expectations are that everyone here is hoping to learn about the craft of leadership; peaceful resolution of complex human situation is leadership 101.
+This is easier said than done, but this is Leadership Slack. Our expectations are that everyone here is hoping to learn about the craft of leadership; peaceful resolution of complex human situations is leadership 101.
 
 ## Escalation
 
-Resolution amongst the individuals will not always be achievable. In this case, the reporter and/or observer of the incident has a choice. They can share the incident with #rands-slack rules to seek feedback and perhaps resolve the incident or they can raise the incident with the administrator (see below for specifics). We understand the need for the latter workflow, but we highly encourage the former because, again, this is a leadership Slack. Our hope is that the debate will help educate this sub-community of humans interested in the rules and culture that govern this small corner of the Internet. 
+Resolution amongst the individuals will not always be achievable. In this case, the reporter and/or observer of the incident has a choice. They can share the incident with #rands-slack-rules to seek feedback and perhaps resolve the incident or they can raise the incident with the administrator (see below for specifics). We understand the need for the latter workflow, but we highly encourage the former because, again, this is a leadership Slack. Our hope is that the debate will help educate this sub-community of humans interested in the rules and culture that govern this small corner of the Internet. 
 
 When ready and if appropriate, the reporter needs to send the administrator a direct message with the following information. 
 
@@ -36,11 +36,11 @@ In cases the result in account suspension, the individual suspended may appeal t
 # FAQ:
 
 - “Is situation XYZ an incident?” Unsure if there’s a CoC violation? Ask in #rands-slack-rules and/or DM the administrator. We'll help. 
-- “How many incidents have you handled since this place started?” Seven as of November 2017.
+- “How many incidents have you handled since this place started?” Eight as of January 2018.
 
 ## Administrators
 
-The administrator(s) of Rands Leadership as of November 14th, 2017:
+The administrator(s) of Rands Leadership as of January 29, 2018:
 
 @rands ([Michael Lopp](mailto:feedback@randsinrepose.com))
 
