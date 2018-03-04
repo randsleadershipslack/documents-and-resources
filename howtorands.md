@@ -3,7 +3,7 @@ Hi, welcome to the team. I’m so glad you are here at $COMPANY.
 
 It’s going to take a solid quarter to figure this place out. I understand the importance of first impressions, and I know you want to get a check in the win column, but this is a complex place full of equally complex humans. Take your time, meet everyone, go to every meeting, write things down, and ask all the questions – especially about all those baffling acronyms and emoji.
 
-One of the working relationships we need to define is ours. The following is a user guide for me and how I work. It captures what you can expect out of the average week, how I like to work, and some of my, uh, nuance. I intend to accelerate our working relationship with this document.
+One of the working relationships we need to define is ours. The following is a user guide for me and how I work. It captures what you can expect out of the average week, how I like to work, my north star principles, and some of my, uh, nuance. My intent is to accelerate our working relationship with this document.
 
 ### Our Average Week
 
@@ -17,7 +17,7 @@ If I am traveling, I will give you notice of said travel in advance. All our mee
 
 I work a bit on the weekends. This is my choice. **I do not expect that you are going to work on the weekend.** I might Slack you things, but unless the thing says URGENT, it can always wait until work begins for you on Monday. 
 
-### Values and Biases
+### North Star Principles 
 
 **Humans first** I believe that happy, informed, and productive humans build fantastic product. I optimize for the humans. Other leaders will maximize the business, the technology, or any other number of important facets. Ideological diversity is key to an effective team. All perspectives are relevant, and we need all these leaders, but my bias is towards building productive humans. 
 
@@ -43,7 +43,7 @@ In our face-to-face meeting, we’ll discuss and agree on your goals for the nex
 
 Review periods are not the only time we’ll exchange feedback. This will be a recurring topic in our 1:1s. I am going to ask you for feedback in 1:1s regularly. I am never going to stop doing this no matter how many times you say you have no feedback for me.
 
-Disagreement is feedback and the sooner we learn how to efficiently disagree with each other, the sooner we’ll trust and respect each other more. 
+Disagreement is feedback and the sooner we learn how to efficiently disagree with each other, the sooner we’ll trust and respect each other more. Ideas don’t get better with agreement. 
 
 ### Meeting Protocol
 
@@ -51,7 +51,7 @@ I go to a lot of meetings. I deliberately run with my calendar publicly visible.
 
 My definition of a meeting includes an agenda, the appropriate amount of productive attendees, and a responsible party running the meeting to a schedule. If your definition is different, let’s chat.
 
-If I am attending a meeting, I’d prefer if it starts on time. If I am running a meeting, I will start that meeting on time. 
+If I am attending a meeting, I’d prefer starting on time. If I am running a meeting, I will start that meeting on time. 
 
 If you send me a presentation deck a reasonable amount of time before meeting, I will read it before the meeting and will have my questions at the ready. If I haven’t read the deck, I will tell you.
 
