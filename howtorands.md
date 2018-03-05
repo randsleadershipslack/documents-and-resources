@@ -3,7 +3,7 @@ Hi, welcome to the team. I’m so glad you are here at $COMPANY.
 
 It’s going to take a solid quarter to figure this place out. I understand the importance of first impressions, and I know you want to get a check in the win column, but this is a complex place full of equally complex humans. Take your time, meet everyone, go to every meeting, write things down, and ask all the questions – especially about all those baffling acronyms and emoji.
 
-One of the working relationships we need to define is ours. The following is a user guide for me and how I work. It captures what you can expect out of the average week, how I like to work, my north star principles, and some of my, uh, nuance. My intent is to accelerate our working relationship with this document.
+One of the working relationships we need to define is ours. The following is a user guide for me and how I work. It captures what you can expect out of the average week, how I like to work, my north star principles, and some of my, uh, nuance. My intent is to accelerate our working relationship with this document.[^1]
 
 ### Our Average Week
 
@@ -77,7 +77,9 @@ If a meeting completes it’s intended purpose before it’s scheduled to end, l
 
 **I am not writing about you.** I’ve been writing a blog for a long time and continue to write. While the topics might come from recent events, the humans involved in the writing are always made up. I am not writing about you. I write all the time.
 
-**This document is a living breathing thing** and likely incomplete. I will update it frequently and would appreciate your feedback. [^1]
+**This document is a [living breathing thing](https://github.com/randsleadershipslack/documents-and-resources/blob/master/howtorands.md)** and likely incomplete. I will update it frequently and would appreciate your feedback. 
 
-[^1]: Version 1.0: Initial draft.
+[^1]: Speculation: there is an idea in this document that’d you’d like your manager to do. Thesis: Just because I have a practice or a belief doesn’t mean it’s the right practice or belief fo your manager. Suggestion: Ask your manager if they think my practice or belief is a good idea and see what happens.
+
+
 
