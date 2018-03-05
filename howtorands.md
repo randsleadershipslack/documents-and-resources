@@ -7,7 +7,7 @@ One of the working relationships we need to define is ours. The following is a u
 
 ### Our Average Week
 
-We’ll have a 1:1 every week for 30 minutes no matter what. This meeting discusses topics of substance, not updates. I’ve created a private Slack channel for the two us of to capture future topics for our 1:1s. When you or I think of a topic, we dump it in that channel.
+We’ll have a 1:1 every week for at least 30 minutes no matter what. This meeting discusses topics of substance, not updates. I’ve created a private Slack channel for the two us of to capture future topics for our 1:1s. When you or I think of a topic, we dump it in that channel.
 
 We’ll have a staff meeting with your peers every week for 60 minutes no matter what. Unlike 1:1s, we have a shared document which captures agenda topics for the entire team. Similar to 1:1s, we aren’t discussing status at this meeting, but issues of substance that affect the whole team. 
 
@@ -25,11 +25,11 @@ I work a bit on the weekends. This is my choice. **I do not expect that you are 
 
 **I see things as systems.** I reduce all complex things (including humans) into systems. I think in flowcharts. I take great joy in attempting to understand how these systems and flowcharts all fit together. When I see large or small inefficiencies in systems, I’d like to fix them with your help.
 
+**It is important to me that humans are treated fairly.** I believe that most humans are trying to to do the right thing, but unconscious bias leads them astray. I work hard to understand and address my biases because I understand their ability to create inequity. 
+
 **I heavily bias towards action.** Long meetings where we are endlessly debating potential directions are often valuable, but I believe starting is the best way to begin learning and make progress. This is not always the correct strategy. This strategy annoys those who like to debate.
 
 **I believe in the compounding awesomeness of continually fixing small things.** I believe quality assurance is everyone’s responsibility and there are bugs to be fixed everywhere… all the time.
-
-**It is important to me that humans are treated fairly.** I believe that most humans are trying to to do the right thing, but unconscious bias leads them astray. I work hard to understand and address my biases because I understand their ability to create inequity. 
 
 **I start with an assumption of positive intent for all involved.** This has worked out well for me over my career. 
 
@@ -49,9 +49,7 @@ Disagreement is feedback and the sooner we learn how to efficiently disagree wit
 
 I go to a lot of meetings. I deliberately run with my calendar publicly visible. If you have a question about a meeting on my calendar, ask me. If a meeting is private or confidential, it’s title and attendees will be hidden from your view. The vast majority of my meetings are neither private nor confidential.
 
-My definition of a meeting includes an agenda, the appropriate amount of productive attendees, and a responsible party running the meeting to a schedule. If your definition is different, let’s chat.
-
-If I am attending a meeting, I’d prefer starting on time. If I am running a meeting, I will start that meeting on time. 
+My definition of a meeting includes an agenda and/or intended purpose, the appropriate amount of productive attendees, and a responsible party running the meeting to a schedule. If I am attending a meeting, I’d prefer starting on time. If I am running a meeting, I will start that meeting on time. 
 
 If you send me a presentation deck a reasonable amount of time before meeting, I will read it before the meeting and will have my questions at the ready. If I haven’t read the deck, I will tell you.
 
@@ -59,7 +57,7 @@ If a meeting completes it’s intended purpose before it’s scheduled to end, l
 
 ### Nuance and Errata
 
-**I am an introvert** and that means that I need time away from the humans because humans are exhausting for me. Meetings with three of us are perfect, three to eight are ok, and more than eight you will find that I am strangely quiet. Do not confuse my quiet with lack of engagement.
+**I am an introvert** and that means that prolonged exposure to humans is exhausting for me. Weird, huh? Meetings with three of us are perfect, three to eight are ok, and more than eight you will find that I am strangely quiet. Do not confuse my quiet with lack of engagement.
 
 **When the 1:1 feels over, and there is remaining time** I always have a couple of meaty topics to discuss. This is brainstorming, and the issues are usually front-of-mind hard topics that I am processing. It might feel like we’re shooting the shit, but we’re doing real work.
 
@@ -75,11 +73,8 @@ If a meeting completes it’s intended purpose before it’s scheduled to end, l
 
 **Humans who gossip** are a trigger for me.
 
-**I am not writing about you.** I’ve been writing a blog for a long time and continue to write. While the topics might come from recent events, the humans involved in the writing are always made up. I am not writing about you. I write all the time.
+**I am not writing about you.** I’ve been writing a blog for a long time and continue to write. While the topics might spring from recent events, the humans involved in the writing are always made up. I am not writing about you. I write all the time.
 
 **This document is a [living breathing thing](https://github.com/randsleadershipslack/documents-and-resources/blob/master/howtorands.md)** and likely incomplete. I will update it frequently and would appreciate your feedback. 
 
 [^1]: Speculation: there is an idea in this document that’d you’d like your manager to do. Thesis: Just because I have a practice or a belief doesn’t mean it’s the right practice or belief fo your manager. Suggestion: Ask your manager if they think my practice or belief is a good idea and see what happens.
-
-
-
