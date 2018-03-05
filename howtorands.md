@@ -77,4 +77,4 @@ If a meeting completes its intended purpose before it’s scheduled to end, let�
 
 **This document is a [living breathing thing](https://github.com/randsleadershipslack/documents-and-resources/blob/master/howtorands.md)** and likely incomplete. I will update it frequently and would appreciate your feedback. 
 
-[^1]: Speculation: there is an idea in this document that’d you’d like your manager to do. Thesis: Just because I have a practice or a belief doesn’t mean it’s the right practice or belief fo your manager. Suggestion: Ask your manager if they think my practice or belief is a good idea and see what happens.
+[^1]: Speculation: there is an idea in this document that’d you’d like your manager to do. Thesis: Just because I have a practice or a belief doesn’t mean it’s the right practice or belief for your manager. Suggestion: Ask your manager if they think my practice or belief is a good idea and see what happens.
