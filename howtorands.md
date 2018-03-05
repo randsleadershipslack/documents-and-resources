@@ -5,7 +5,7 @@ It’s going to take a solid quarter to figure this place out. I understand the 
 
 One of the working relationships we need to define is ours. The following is a user guide for me and how I work. It captures what you can expect out of the average week, how I like to work, my north star principles, and some of my, uh, nuance. My intent is to accelerate our working relationship with this document.[^1]
 
-**Our Average Week**
+## Our Average Week
 
 We’ll have a 1:1 every week for at least 30 minutes no matter what. This meeting discusses topics of substance, not updates. I’ve created a private Slack channel for the two us of to capture future topics for our 1:1s. When you or I think of a topic, we dump it in that channel.
 
@@ -17,7 +17,7 @@ If I am traveling, I will give you notice of said travel in advance. All our mee
 
 I work a bit on the weekends. This is my choice. **I do not expect that you are going to work on the weekend.** I might Slack you things, but unless the thing says URGENT, it can always wait until work begins for you on Monday. 
 
-**North Star Principles**
+## North Star Principles
 
 **Humans first** I believe that happy, informed, and productive humans build fantastic product. I optimize for the humans. Other leaders will maximize the business, the technology, or any other number of important facets. Ideological diversity is key to an effective team. All perspectives are relevant, and we need all these leaders, but my bias is towards building productive humans. 
 
@@ -33,7 +33,7 @@ I work a bit on the weekends. This is my choice. **I do not expect that you are 
 
 **I start with an assumption of positive intent for all involved.** This has worked out well for me over my career. 
 
-**Feedback Protocol**
+## Feedback Protocol
 
 I firmly believe that feedback is at the core of building trust and respect in a team. 
 
@@ -45,7 +45,7 @@ Review periods are not the only time we’ll exchange feedback. This will be a r
 
 Disagreement is feedback and the sooner we learn how to efficiently disagree with each other, the sooner we’ll trust and respect each other more. Ideas don’t get better with agreement. 
 
-**Meeting Protocol**
+## Meeting Protocol
 
 I go to a lot of meetings. I deliberately run with my calendar publicly visible. If you have a question about a meeting on my calendar, ask me. If a meeting is private or confidential, it’s title and attendees will be hidden from your view. The vast majority of my meetings are neither private nor confidential.
 
@@ -55,7 +55,7 @@ If you send me a presentation deck a reasonable amount of time before a meeting,
 
 If a meeting completes its intended purpose before it’s scheduled to end, let’s give the time back to everyone. If it’s clear the intended goal won’t be achieved in the allotted time, let’s stop the meeting before time is up and determine how to finish the meeting later.
 
-**Nuance and Errata**
+## Nuance and Errata
 
 **I am an introvert** and that means that prolonged exposure to humans is exhausting for me. Weird, huh? Meetings with three of us are perfect, three to eight are ok, and more than eight you will find that I am strangely quiet. Do not confuse my quiet with lack of engagement.
 
