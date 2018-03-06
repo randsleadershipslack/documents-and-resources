@@ -47,7 +47,7 @@ Disagreement is feedback and the sooner we learn how to efficiently disagree wit
 
 ## Meeting Protocol
 
-I go to a lot of meetings. I deliberately run with my calendar publicly visible. If you have a question about a meeting on my calendar, ask me. If a meeting is private or confidential, it’s title and attendees will be hidden from your view. The vast majority of my meetings are neither private nor confidential.
+I go to a lot of meetings. I deliberately run with my calendar publicly visible. If you have a question about a meeting on my calendar, ask me. If a meeting is private or confidential, its title and attendees will be hidden from your view. The vast majority of my meetings are neither private nor confidential.
 
 My definition of a meeting includes an agenda and/or intended purpose, the appropriate amount of productive attendees, and a responsible party running the meeting to a schedule. If I am attending a meeting, I’d prefer starting on time. If I am running a meeting, I will start that meeting on time. 
 
