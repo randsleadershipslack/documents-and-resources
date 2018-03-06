@@ -19,9 +19,9 @@ I work a bit on the weekends. This is my choice. **I do not expect that you are 
 
 ## North Star Principles
 
-**Humans first** I believe that happy, informed, and productive humans build fantastic product. I optimize for the humans. Other leaders will maximize the business, the technology, or any other number of important facets. Ideological diversity is key to an effective team. All perspectives are relevant, and we need all these leaders, but my bias is towards building productive humans. 
+**Humans first.** I believe that happy, informed, and productive humans build fantastic product. I optimize for the humans. Other leaders will maximize the business, the technology, or any other number of important facets. Ideological diversity is key to an effective team. All perspectives are relevant, and we need all these leaders, but my bias is towards building productive humans. 
 
-**Leadership comes from everywhere** My wife likes to remind me that I hated meetings for the first ten years of my professional career. She’s right. I’ve wasted a lot of time in poorly run meetings by bad managers.  As an engineer, I remain skeptical of managers even as a manager. While I believe managers are an essential part of a scaling organization, I don’t believe they have a monopoly on leadership, and I work hard to build other constructs and opportunities in our teams for non-managers to lead.
+**Leadership comes from everywhere.** My wife likes to remind me that I hated meetings for the first ten years of my professional career. She’s right. I’ve wasted a lot of time in poorly run meetings by bad managers.  As an engineer, I remain skeptical of managers even as a manager. While I believe managers are an essential part of a scaling organization, I don’t believe they have a monopoly on leadership, and I work hard to build other constructs and opportunities in our teams for non-managers to lead.
 
 **I see things as systems.** I reduce all complex things (including humans) into systems. I think in flowcharts. I take great joy in attempting to understand how these systems and flowcharts all fit together. When I see large or small inefficiencies in systems, I’d like to fix them with your help.
 
@@ -47,7 +47,7 @@ Disagreement is feedback and the sooner we learn how to efficiently disagree wit
 
 ## Meeting Protocol
 
-I go to a lot of meetings. I deliberately run with my calendar publicly visible. If you have a question about a meeting on my calendar, ask me. If a meeting is private or confidential, its title and attendees will be hidden from your view. The vast majority of my meetings are neither private nor confidential.
+I go to a lot of meetings. I deliberately run with my calendar publicly visible. If you have a question about a meeting on my calendar, ask me. If a meeting is private or confidential, it’s title and attendees will be hidden from your view. The vast majority of my meetings are neither private nor confidential.
 
 My definition of a meeting includes an agenda and/or intended purpose, the appropriate amount of productive attendees, and a responsible party running the meeting to a schedule. If I am attending a meeting, I’d prefer starting on time. If I am running a meeting, I will start that meeting on time. 
 
@@ -63,7 +63,7 @@ If a meeting completes its intended purpose before it’s scheduled to end, let�
 
 **When I ask you to do something that feels poorly defined** you should ask me for both clarification and a call on importance. I might still be brainstorming. These questions can save everyone a lot of time. 
 
-**Ask assertive versus tell assertive.** When you need to ask me to do something, ask me. I respond incredibly well to ask assertiveness (“Rands, can you help with X?”). I respond poorly to being told what to do (“Rands, do X.”) I have been this way since I’m was a kid and I probably need therapy.
+**Ask assertive versus tell assertive.** When you need to ask me to do something, ask me. I respond incredibly well to ask assertiveness (“Rands, can you help with X?”). I respond poorly to being told what to do (“Rands, do X.”) I have been this way since I was a kid and I probably need therapy.
 
 **I can be hyperbolic** but it’s almost always because I am excited about the topic. I also swear sometimes. Sorry.
 
@@ -77,4 +77,4 @@ If a meeting completes its intended purpose before it’s scheduled to end, let�
 
 **This document is a [living breathing thing](https://github.com/randsleadershipslack/documents-and-resources/blob/master/howtorands.md)** and likely incomplete. I will update it frequently and would appreciate your feedback. 
 
-[^1]: Speculation: there is an idea in this document that’d you’d like your manager to do. Thesis: Just because I have a practice or a belief doesn’t mean it’s the right practice or belief for your manager. Suggestion: Ask your manager if they think my practice or belief is a good idea and see what happens.
+[^1]: Speculation: there is an idea in this document that you’d like your manager to do. Thesis: Just because I have a practice or a belief doesn’t mean it’s the right practice or belief for your manager. Suggestion: Ask your manager if they think my practice or belief is a good idea and see what happens.
