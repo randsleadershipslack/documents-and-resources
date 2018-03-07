@@ -19,7 +19,7 @@ I work a bit on the weekends. This is my choice. **I do not expect that you are 
 
 ## North Star Principles
 
-**Humans first.** I believe that happy, informed, and productive humans build fantastic product. I optimize for the humans. Other leaders will maximize the business, the technology, or any other number of important facets. Ideological diversity is key to an effective team. All perspectives are relevant, and we need all these leaders, but my bias is towards building productive humans. 
+**Humans first.** I believe that happy, informed, and productive humans build fantastic products. I optimize for the humans. Other leaders will maximize the business, the technology, or any other number of important facets. Ideological diversity is key to an effective team. All perspectives are relevant, and we need all these leaders, but my bias is towards building productive humans. 
 
 **Leadership comes from everywhere.** My wife likes to remind me that I hated meetings for the first ten years of my professional career. She’s right. I’ve wasted a lot of time in poorly run meetings by bad managers.  As an engineer, I remain skeptical of managers even as a manager. While I believe managers are an essential part of a scaling organization, I don’t believe they have a monopoly on leadership, and I work hard to build other constructs and opportunities in our teams for non-managers to lead.
 
