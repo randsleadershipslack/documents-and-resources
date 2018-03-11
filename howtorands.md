@@ -15,7 +15,7 @@ You can Slack me 24 hours a day. I like responding quickly.
 
 If I am traveling, I will give you notice of said travel in advance. All our meetings still occur albeit with time zone considerations.
 
-I work a bit on the weekends. This is my choice. **I do not expect you to work on the weekend.** I might Slack you things, but unless the thing says URGENT, it can always wait until work begins for you on Monday.
+I work a bit on weekends. This is my choice. **I do not expect you to work on weekends.** I might Slack you things, but unless the thing says URGENT, it can always wait until work begins for you on Monday.
 
 ## North Star Principles
 
