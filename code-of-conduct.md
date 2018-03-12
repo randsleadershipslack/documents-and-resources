@@ -35,11 +35,11 @@ For attribution of specific content found on this Slack, we ask that you ask the
 
 This community is mostly not a place for commercial activity such as recruiting or marketing except in channels dedicated to that purpose which are:
 
-* #jobs
-* #consulting-gigs
 * #conferences
-* #services 
+* #consulting-gigs
+* #jobs
 * #remote-jobs
+* #services
 
 If you join this community to just sell things and not contribute and learn, the community will quickly notice. If you are wondering where you can post commercial things, ask in #rands-slack-rules. 
 
