@@ -39,6 +39,7 @@ This community is mostly not a place for commercial activity such as recruiting 
 * #consulting-gigs
 * #conferences
 * #services 
+* #remote-jobs
 
 If you join this community to just sell things and not contribute and learn, the community will quickly notice. If you are wondering where you can post commercial things, ask in #rands-slack-rules. 
 
