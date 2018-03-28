@@ -36,7 +36,7 @@ In cases that result in account suspension, the individual suspended may appeal 
 # FAQ:
 
 - “Is situation XYZ an incident?” Unsure if there’s a CoC violation? Ask in #rands-slack-rules and/or DM the administrator. We'll help. 
-- “How many incidents have you handled since this place started?” Nine as of Feburary 2019.
+- “How many incidents have you handled since this place started?” Nine as of Feburary 2018.
 
 ## Administrators
 
