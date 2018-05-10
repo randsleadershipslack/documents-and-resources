@@ -27,7 +27,9 @@ When ready and if appropriate, the reporter needs to send an Administrator a dir
 
 With this information in hand, the Administrators will strive to respond to the reporter as quickly as possible with an estimate of when they think they’ll be able to triage and resolve this incident. In extreme cases, the administrator may suspend one or more accounts until they are able to triage and resolve an incident. 
 
-Incident resolution can vary from hours to days depending on the availability of those involved. Once the incident is resolved, the Administrators will communicate the resolution to the reporter and other other parties relevant to the incident. In extreme cases, the Administrators will communicate the resolution with #rands-slack-rules with reporter permission. 
+Incident resolution can vary from hours to days depending on the availability of those involved. Once the incident is resolved, the Administrators will communicate the resolution to the reporter and other parties relevant to the incident. 
+
+Incidents are confidential. The administrator will not provide any information to parties not involved in an incidents. The lone exception is the case where an incident occurs in a public channel, the administrator will consult those involved in the incident before disclosing any information.
 
 ## Appeal of Account Suspension
 
@@ -36,16 +38,16 @@ In cases that result in account suspension, the individual suspended may appeal 
 # FAQ:
 
 - “Is situation XYZ an incident?” Unsure if there’s a CoC violation? Ask in #rands-slack-rules and/or DM the administrator. We'll help. 
-- “How many incidents have you handled since this place started?” Nine as of Feburary 2018.
+- “How many incidents have you handled since this place started?” Ten as of May 2018.
 
 ## Administrators
 
-The administrator(s) of Rands Leadership as of Feburary 19th, 2018:
+The administrator(s) of Rands Leadership as of May 19th, 2018:
 
 @rands ([Michael Lopp](mailto:feedback@randsinrepose.com))
 
 ## Version and Copyright
 
-V1.3 of this Code of Conduct was published on February 14th, 2018.
+V1.4 of this Code of Conduct was published on May 19th, 2018.
 
 This Code of Conduct is released under the [CC0 public domain license](https://creativecommons.org/publicdomain/zero/1.0/).
