@@ -16,6 +16,8 @@ If I am traveling, I will give you notice of said travel in advance. All our mee
 
 I work a bit on the weekends. This is my choice. **I do not expect that you are going to work on the weekend.** I might Slack you things, but unless the thing says URGENT, it can always wait until work begins for you on Monday.
 
+I take vacations. You should, too. Disconnected from work is when I do some of my best work. 
+
 ## North Star Principles
 **Humans first.** I believe that happy, informed, and productive humans build fantastic product. I optimize for the humans. Other leaders will maximize the business, the technology, or any other number of important facets. Ideological diversity is key to an effective team. All perspectives are relevant, and we need all these leaders, but my bias is towards building productive humans.
 
