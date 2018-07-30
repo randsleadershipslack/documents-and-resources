@@ -3,7 +3,7 @@ Hi, welcome to the team. I’m so glad you are here at $COMPANY.
 
 It’s going to take a solid quarter to figure this place out. I understand the importance of first impressions, and I know you want to get a check in the win column, but this is a complex place full of equally complex humans. Take your time, meet everyone, go to every meeting, write things down, and ask all the questions – especially about all those baffling acronyms and emoji.
 
-One of the working relationships we need to define is ours. The following is a user guide for me and how I work. It captures what you can expect out of the average week working with me, how I like to work, my north star principles, and some of my, uh, nuance. My intent is to accelerate our working relationship with this document.[^1]
+One of the working relationships we need to define is ours. The following is a user guide for me and how I work. It captures what you can expect out of the average week working with me, how I like to work, my north star principles, and some of my, uh, nuance. My intent is to accelerate our working relationship with this document. [<a href="#note1" id="note1ref">1</a>]
 
 ## Our Average Week
 We’ll have a 1:1 every week for at least 30 minutes no matter what. This meeting discusses topics of substance, not updates. I’ve created a private Slack channel for the two us of to capture future topics for our 1:1s as well as to provide a handy historic record of what we’ve discussed. When you or I think of a topic, we dump it in that channel. 
@@ -75,4 +75,4 @@ If a meeting completes its intended purpose before it’s scheduled to end, let�
 
 **This document is a [living breathing thing](https://github.com/randsleadershipslack/documents-and-resources/blob/master/howtorands.md)** and likely incomplete. I will update it frequently and would appreciate your feedback.
 
-[^1]: Speculation: there is an idea in this document that you’d like your manager to do. Thesis: Just because I have a practice or a belief doesn’t mean it’s the right practice or belief for your manager. Suggestion: Ask your manager if they think my practice or belief is a good idea and see what happens. Feedback is a gift. 
+[<a id="note1" href="#note1ref">1</a>]: Speculation: there is an idea in this document that you’d like your manager to do. Thesis: Just because I have a practice or a belief doesn’t mean it’s the right practice or belief for your manager. Suggestion: Ask your manager if they think my practice or belief is a good idea and see what happens. Feedback is a gift. 
