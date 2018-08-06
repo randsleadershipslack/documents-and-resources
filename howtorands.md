@@ -6,7 +6,7 @@ It’s going to take a solid quarter to figure this place out. I understand the 
 One of the working relationships we need to define is ours. The following is a user guide for me and how I work. It captures what you can expect out of the average week working with me, how I like to work, my north star principles, and some of my, uh, nuance. My intent is to accelerate our working relationship with this document.[^1]
 
 ## Our Average Week
-We’ll have a 1:1 every week for at least 30 minutes no matter what[^2]. This meeting discusses topics of substance, not updates. I’ve created a private Slack channel for the two us of to capture future topics for our 1:1s as well as to provide a handy historic record of what we’ve discussed. When you or I think of a topic, we dump it in that channel. 
+We’ll have a 1:1 every week for at least 30 minutes except during wartime (See below). This meeting discusses topics of substance, not updates. I’ve created a private Slack channel for the two us of to capture future topics for our 1:1s as well as to provide a handy historic record of what we’ve discussed. When you or I think of a topic, we dump it in that channel. 
 
 We’ll have a staff meeting with your peers every week for 60 minutes no matter what. Unlike 1:1s, we have a shared document which captures agenda topics for the entire team. Similar to 1:1s, we aren’t discussing status at this meeting, but issues of substance that affect the whole team.
 
@@ -32,6 +32,8 @@ I take vacations. You should, too. Disconnected from work is when I do some of m
 **I believe in the compounding awesomeness of continually fixing small things.** I believe quality assurance is everyone’s responsibility and there are bugs to be fixed everywhere… all the time.
 
 **I start with an assumption of positive intent for all involved.** This has worked out well for me over my career. 
+
+**I understand that sometimes we are in wartime and things will get strange.** There is an exception to many of my practices and principles and that is when we are at war. During wartime, my usual people, process, and product protocols are secondary to getting out of the war. If it is not obvious, I will alert you that I am in this state along with my best guess of when we'll be out of wartime. 
 
 ## Feedback Protocol
 I firmly believe that feedback is at the core of building trust and respect in a team.
@@ -77,4 +79,3 @@ If a meeting completes its intended purpose before it’s scheduled to end, let�
 
 [^1]: Speculation: there is an idea in this document that you’d like your manager to do. Thesis: Just because I have a practice or a belief doesn’t mean it’s the right practice or belief for your manager. Suggestion: Ask your manager if they think my practice or belief is a good idea and see what happens. Feedback is a gift. 
 
-[^2]: There is an exception to "no matter what" and that is wartime. During wartime, my usual people, process, and product protocols are secondary to getting out of the war. If it is not obvious, I will alert you that I am in this state along with my best guest of when we'll be out of wartime. 
