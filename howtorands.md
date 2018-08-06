@@ -33,7 +33,7 @@ I take vacations. You should, too. Disconnected from work is when I do some of m
 
 **I start with an assumption of positive intent for all involved.** This has worked out well for me over my career. 
 
-**I understand that sometimes we are in CODE RED and things will get strange.** There is an exception to many of my practices and principles and that is when we are in a CODE RED situation. Code Red conditions usually involve existential threats to our company. During this time, my usual people, process, and product protocols are secondary to countering this threat. If it is not obvious, I will alert you that I am in this state along with my best guess of when we'll be done. 
+**I need you to know that sometimes we are in CODE RED and things will get strange.** There is an exception to many of my practices and principles and that is when we are in a CODE RED situation. CODE RED conditions usually involve existential threats to our company. During this time, my usual people, process, and product protocols are secondary to countering this threat. If it is not obvious, I will alert you that I am in this state along with my best guess of when we'll be done.
 
 ## Feedback Protocol
 I firmly believe that feedback is at the core of building trust and respect in a team.
