@@ -33,12 +33,12 @@ I take vacations. You should, too. Disconnected from work is when I do some of m
 
 **I start with an assumption of positive intent for all involved.** This has worked out well for me over my career. 
 
-**I understand that sometimes we are in wartime and things will get strange.** There is an exception to many of my practices and principles and that is when we are at war. During wartime, my usual people, process, and product protocols are secondary to getting out of the war. If it is not obvious, I will alert you that I am in this state along with my best guess of when we'll be out of wartime. 
+**I understand that sometimes we are in wartime and things will get strange.** There is an exception to many of my practices and principles and that is when we are at war. Wartime conditions usually involve existential threats to your company. During wartime, my usual people, process, and product protocols are secondary to getting out of the war. If it is not obvious, I will alert you that I am in this state along with my best guess of when we'll be out of wartime. 
 
 ## Feedback Protocol
 I firmly believe that feedback is at the core of building trust and respect in a team.
 
-At $COMPANY, there is a formal feedback cycle which occurs twice a year. The first time we go through this cycle, we’ll draft a proposed set of OKRs for you for the next review period. These are not product or technology OKRs; these are professional growth OKRs for you. I’ll send you these draft OKRs as well as upward feedback from your team before we meet so you can review beforehand.
+At $COMPANY, there is a formal feedback cycle which occurs twice a year. The first time we go through this cycle, we’ll draft a proposed set of OKRs (Objects and Key Rules) for you for the next review period. These are not product or technology OKRs; these are professional growth OKRs for you. I’ll send you these draft OKRs as well as upward feedback from your team before we meet so you can review beforehand.
 
 In our face-to-face meeting, we’ll discuss and agree on your OKRs for the next period, and I’ll ask for feedback on my performance. At our following review, the process differs thusly: I’ll review you against our prior OKRs, and I’ll introduce new OKRs (if necessary). Rinse and repeat.
 
