@@ -38,16 +38,16 @@ In cases that result in account suspension, the individual suspended may appeal 
 # FAQ:
 
 - “Is situation XYZ an incident?” Unsure if there’s a CoC violation? Ask in #rands-slack-rules and/or DM the administrator. We'll help. 
-- “How many incidents have you handled since this place started?” Ten as of May 2018.
+- “How many incidents have you handled since this place started?” Twelve as of September 2018.
 
 ## Administrators
 
-The administrator(s) of Rands Leadership as of May 19th, 2018:
+The administrator(s) of Rands Leadership as of September 3rd, 2018:
 
 @rands ([Michael Lopp](mailto:feedback@randsinrepose.com))
 
 ## Version and Copyright
 
-V1.4 of this Code of Conduct was published on May 19th, 2018.
+V1.4 of this Code of Conduct was published on September 3rd, 2018.
 
 This Code of Conduct is released under the [CC0 public domain license](https://creativecommons.org/publicdomain/zero/1.0/).
