@@ -33,7 +33,7 @@ I take vacations. You should, too. Disconnected from work is when I do some of m
 
 **I start with an assumption of positive intent for all involved.** This has worked out well for me over my career. 
 
-**I need you to know that sometimes we are in HIGH ALERT and things will get strange.** There is an exception to many of my practices and principles and that is when we are in a HIGH ALERT situation. HIGH ALERT conditions usually involve existential threats to our company. During this time, my usual people, process, and product protocols are secondary to countering this threat. If it is not obvious, I will alert you that I am in this state along with my best guess of when we'll be done. If I am constanty in this state, something is fundamental wrong. 
+**I need you to know that sometimes we are in HIGH ALERT and things will get strange.** There is an exception to many of my practices and principles and that is when we are in a HIGH ALERT situation. HIGH ALERT conditions usually involve existential threats to our company. During this time, my usual people, process, and product protocols are secondary to countering this threat. If it is not obvious, I will alert you that I am in this state along with my best guess of when we'll be done. If I am constantly in this state, something is fundamentally wrong. 
 
 ## Feedback Protocol
 I firmly believe that feedback is at the core of building trust and respect in a team.
@@ -78,4 +78,3 @@ If a meeting completes its intended purpose before it’s scheduled to end, let�
 **This document is a [living breathing thing](https://github.com/randsleadershipslack/documents-and-resources/blob/master/howtorands.md)** and likely incomplete. I  update it frequently and would appreciate your feedback.
 
 [^1]: Speculation: there is an idea in this document that you’d like your manager to do. Thesis: Just because I have a practice or a belief doesn’t mean it’s the right practice or belief for your manager. Suggestion: Ask your manager if they think my practice or belief is a good idea and see what happens. Feedback is a gift. 
-
