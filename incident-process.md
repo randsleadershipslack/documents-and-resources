@@ -18,16 +18,20 @@ This is easier said than done, but this is Rands Leadership Slack. Our expectati
 
 Resolution amongst the individuals will not always be achievable. In this case, the reporter or observer of the incident has a choice. They can share the incident with #rands-slack-rules to seek feedback, and perhaps resolve the incident, or they can raise the incident with the Administrators (see below for specifics). We understand the need for the latter workflow, but we highly encourage the former because, again, this is a community focused on leadership. Our hope is that the debate will help educate this sub-community of humans interested in the rules and culture that govern this small corner of the Internet. 
 
-When ready and if appropriate, the reporter needs to send an Administrator a direct message with the following information. 
+There are two paths in reporting an incident to an Administrator: filing a formal complain and raising a concern. For a formal complaint, the reporter needs to send an Administrator a direct message with the following information:
 
-1. What’s the nature of the incident or Code of Conduct violation? 
+1. What’s the nature of the incident or Code of Conduct violation?
 2. Who is involved in this incident?
 3. What material supports this situation?
 4. Any privacy concerns? (Reporter consent is required before sharing any information regarding the incident)
 
-With this information in hand, the Administrators will strive to respond to the reporter as quickly as possible with an estimate of when they think they’ll be able to triage and resolve this incident. In extreme cases, the administrator may suspend one or more accounts until they are able to triage and resolve an incident. 
+The second reporting path is raising a concern. We ask the reporter provide the same information with the understanding the reporter *is not* looking for resolution, but wants to provide Administrators a heads up regarding behavior within the community. 
 
-Incident resolution can vary from hours to days depending on the availability of those involved. Once the incident is resolved, the Administrators will communicate the resolution to the reporter and other parties relevant to the incident. 
+For both paths, with this information in hand, the Administrators will strive to respond to the reporter as quickly as possible with an estimate of when they think they’ll be able to triage and resolve this incident. In the case of a raised concern, the understanding is there *may be no action* other than administrative awareness. 
+
+In extreme cases involving formal complaints, the Administrator may suspend one or more accounts until they are able to triage and resolve an incident.
+
+Incident resolution can vary from hours to days depending on the availability of those involved. Once the incident is resolved, the Administrators will communicate the resolution to the reporter and other parties relevant to the incident.
 
 Incidents are confidential. The administrator will not provide any information to parties not involved in an incidents. The lone exception is the case where an incident occurs in a public channel, the administrator will consult those involved in the incident before disclosing any information.
 
@@ -38,16 +42,16 @@ In cases that result in account suspension, the individual suspended may appeal 
 # FAQ:
 
 - “Is situation XYZ an incident?” Unsure if there’s a CoC violation? Ask in #rands-slack-rules and/or DM the administrator. We'll help. 
-- “How many incidents have you handled since this place started?” Twelve as of September 2018.
+- “How many incidents have you handled since this place started?” Fourteen as of March 2019.
 
 ## Administrators
 
-The administrator(s) of Rands Leadership as of September 3rd, 2018:
+The administrator(s) of Rands Leadership as of March 12th, 2019:
 
 @rands ([Michael Lopp](mailto:feedback@randsinrepose.com))
 
 ## Version and Copyright
 
-V1.4 of this Code of Conduct was published on September 3rd, 2018.
+V1.5 of this Code of Conduct was published on March 12th, 2019.
 
 This Code of Conduct is released under the [CC0 public domain license](https://creativecommons.org/publicdomain/zero/1.0/).
