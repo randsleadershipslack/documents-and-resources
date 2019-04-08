@@ -45,9 +45,9 @@ Additionally, geographically-focused channels (i.e. #colorado-connections, #new-
 
 Non-obvious commercial activity is less obvious. Well-intentioned user surveys of a specific channel are a common request and we ask that you:
 
-• Ask permission of the channel.
-• State clear intent for the purpose of the survey.
-• Listen to the response of your peers.
+* Ask permission of the channel.
+* State clear intent for the purpose of the survey.
+* Listen to the response of your peers.
 
 We believe the above protocol is a useful approach for other types of non-obvious commercial activity.
 
