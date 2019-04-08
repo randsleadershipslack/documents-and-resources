@@ -33,7 +33,7 @@ For attribution of specific content found on this Slack, we ask that you ask the
 
 ## Not For Profit
 
-This community is mostly not a place for commercial activity such as recruiting or marketing except in channels dedicated to that purpose which are:
+This community is mostly not a place for obvious commercial activity such as recruiting or marketing except in channels dedicated to that purpose which include:
 
 * #conferences
 * #consulting-gigs
@@ -41,7 +41,17 @@ This community is mostly not a place for commercial activity such as recruiting 
 * #remote-jobs
 * #services
 
-If you join this community to just sell things and not contribute and learn, the community will quickly notice. If you are wondering where you can post commercial things, ask in #rands-slack-rules. 
+Additionally, geographically-focused channels (i.e. #colorado-connections, #new-york-city, similar) have a higher tolerance for specific kinds of commercial activity focused on events based in that region.
+
+Non-obvious commercial activity is less obvious. Well-intentioned user surveys of a specific channel are a common request and we ask that you:
+
+• Ask permission of the channel.
+• State clear intent for the purpose of the survey.
+• Listen to the response of your peers.
+
+We believe the above protocol is a useful approach for other types of non-obvious commercial activity.
+
+If you join this community simply to take value from the community rather than contribute, the community will quickly notice and react. If you are wondering whether a specific action is commercial or not, please ask and calibrate in #rands-slack-rules.
 
 ## Resolve Peacefully
 
@@ -75,6 +85,6 @@ Thank you to every Rands Leadership Slack community member for helping to make o
 
 Special thanks to [Chicago Camps](http://chicagocamps.org/code-of-conduct/), YxYY ([Yes and Yes Yes](http://www.yesandyesyes.com/)), and Hillary Hartley for sharing their Code of Conduct with us. We consider them as examples to look up to and emulate. We also thank the YxYY community member [Tantek Çelik](http://tantek.com/), and the other organizers of [IndieWebCamp](http://indiewebcamp.com/) for creating and sharing the [Code of Conduct](http://indiewebcamp.com/code-of-conduct) on which this one is based. If you question the need for a Code of Conduct, please see [this](http://indiewebcamp.com/code-of-conduct-why).
 
-V2.2 of this Code of Conduct was published on February 14th, 2018.
+V2.2 of this Code of Conduct was published on April 9th, 2018.
 
 This Code of Conduct is released under the [CC0 public domain license](https://creativecommons.org/publicdomain/zero/1.0/).
