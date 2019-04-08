@@ -75,7 +75,7 @@ As Administrators, we will seek to resolve conflicts peacefully and in a manner 
 
 ## Administrators
 
-The administrator(s) of Rands Leadership as of September 25th, 2017:
+The administrator(s) of Rands Leadership as of April 8th, 2019:
 
 Rands ([Michael Lopp](mailto:feedback@randsinrepose.com))
 
@@ -85,6 +85,6 @@ Thank you to every Rands Leadership Slack community member for helping to make o
 
 Special thanks to [Chicago Camps](http://chicagocamps.org/code-of-conduct/), YxYY ([Yes and Yes Yes](http://www.yesandyesyes.com/)), and Hillary Hartley for sharing their Code of Conduct with us. We consider them as examples to look up to and emulate. We also thank the YxYY community member [Tantek Çelik](http://tantek.com/), and the other organizers of [IndieWebCamp](http://indiewebcamp.com/) for creating and sharing the [Code of Conduct](http://indiewebcamp.com/code-of-conduct) on which this one is based. If you question the need for a Code of Conduct, please see [this](http://indiewebcamp.com/code-of-conduct-why).
 
-V2.2 of this Code of Conduct was published on April 9th, 2018.
+V2.3 of this Code of Conduct was published on April 9th, 2019.
 
 This Code of Conduct is released under the [CC0 public domain license](https://creativecommons.org/publicdomain/zero/1.0/).
