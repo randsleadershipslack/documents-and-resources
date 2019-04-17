@@ -18,7 +18,7 @@ This is easier said than done, but this is Rands Leadership Slack. Our expectati
 
 Resolution amongst the individuals will not always be achievable. In this case, the reporter or observer of the incident has a choice. They can share the incident with #rands-slack-rules to seek feedback, and perhaps resolve the incident, or they can raise the incident with the Administrators (see below for specifics). We understand the need for the latter workflow, but we highly encourage the former because, again, this is a community focused on leadership. Our hope is that the debate will help educate this sub-community of humans interested in the rules and culture that govern this small corner of the Internet. 
 
-There are two paths in reporting an incident to an Administrator: filing a formal complain and raising a concern. For a formal complaint, the reporter needs to send an Administrator a direct message with the following information:
+There are two paths in reporting an incident to an Administrator: filing a formal complaint and raising a concern. For a formal complaint, the reporter needs to send an Administrator a direct message with the following information:
 
 1. What’s the nature of the incident or Code of Conduct violation?
 2. Who is involved in this incident?
