@@ -67,7 +67,7 @@ If a meeting completes its intended purpose before it’s scheduled to end, let�
 
 **I can be hyperbolic** but it’s almost always because I am excited about the topic. I also swear sometimes. Sorry.
 
-**I love to start new things** but I often lose interest when I can mentally see how the thing is going to finish which might be weeks or month the thing is actually done. Sorry. I’m getting better at this.
+**I love to start new things** but I often lose interest when I can mentally see how the thing is going to finish which might be weeks or month before the thing is actually done. Sorry. I’m getting better at this.
 
 **If I am on my phone during a meeting for more than 30 seconds, say something.** My attention wanders.
 
