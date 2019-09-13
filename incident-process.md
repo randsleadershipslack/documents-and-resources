@@ -27,13 +27,13 @@ There are two paths in reporting an incident to an Administrator: filing a forma
 
 The second reporting path is raising a concern. We ask the reporter provide the same information with the understanding the reporter *is not* looking for resolution, but wants to provide Administrators a heads up regarding behavior within the community. 
 
-For both paths, with this information in hand, the Administrators will strive to respond to the reporter as quickly as possible with an estimate of when they think they’ll be able to triage and resolve this incident. In the case of a raised concern, the understanding is there *may be no action* other than administrative awareness. 
+For both paths, with this information in hand, the Administrators will provide the concern or complaint to the other party along with the consequence. When this occurs, the reporter (and other parties named in the incident) will be alerted, and the incident will be considered resolved. The target goal for incident resolution is one workday.
 
-In extreme cases involving formal complaints, the Administrator may suspend one or more accounts until they are able to triage and resolve an incident.
+In the case of a raised concern, the understanding is there *may be no action* other than administrative awareness. 
 
-Incident resolution can vary from hours to days depending on the availability of those involved. Once the incident is resolved, the Administrators will communicate the resolution to the reporter and other parties relevant to the incident.
+In extreme cases involving formal complaints, the Administrator may suspend one or more accounts until they can triage and resolve an incident.
 
-Incidents are confidential. The administrator will not provide any information to parties not involved in an incidents. The lone exception is the case where an incident occurs in a public channel, the administrator will consult those involved in the incident before disclosing any information.
+Incidents are confidential. The Administrator will not provide any information to parties not involved in any incidents. The lone exception is the case where an incident occurs in a public channel; the Administrator will consult those involved in the incident before disclosing any information.
 
 ## Appeal of Account Suspension
 
@@ -42,11 +42,11 @@ In cases that result in account suspension, the individual suspended may appeal 
 # FAQ:
 
 - “Is situation XYZ an incident?” Unsure if there’s a CoC violation? Ask in #rands-slack-rules and/or DM the administrator. We'll help. 
-- “How many incidents have you handled since this place started?” Fifteen as of April 2019.
+- “How many incidents have you handled since this place started?” Eighteen as of September 2019.
 
 ## Administrators
 
-The administrator(s) of Rands Leadership as of April 19th, 2019:
+The administrator(s) of Rands Leadership as of September 13th, 2019:
 
 @rands ([Michael Lopp](mailto:feedback@randsinrepose.com))
 
