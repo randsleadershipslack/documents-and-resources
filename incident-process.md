@@ -42,16 +42,17 @@ In cases that result in account suspension, the individual suspended may appeal 
 # FAQ:
 
 - “Is situation XYZ an incident?” Unsure if there’s a CoC violation? Ask in #rands-slack-rules and/or DM the administrator. We'll help. 
-- “How many incidents have you handled since this place started?” Eighteen as of September 2019.
+- "I believe a CoC violation occured in a private channel/conversations, what do I do?" The CoC applies to this entire Slack. If you believe the CoC has been violated in a non-public space, you may be asked to provide content from that channel to explain and define the incident. Administrators will strive to respect the privacy of a channel and to request a minimum amount of content. As incidents are confidential, this content will not be shared outside of the administrators. 
+- “How many incidents have you handled since this place started?” Twenty as of November 2019.
 
 ## Administrators
 
-The administrator(s) of Rands Leadership as of September 13th, 2019:
+The administrator(s) of Rands Leadership as of November 7th, 2019:
 
 @rands ([Michael Lopp](mailto:feedback@randsinrepose.com))
 
 ## Version and Copyright
 
-V1.5 of this Code of Conduct was published on March 19th, 2019.
+V1.51 of this Code of Conduct was published on November 7th, 2019.
 
 This Code of Conduct is released under the [CC0 public domain license](https://creativecommons.org/publicdomain/zero/1.0/).
