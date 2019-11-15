@@ -80,6 +80,7 @@ The administrator(s) of Rands Leadership as of November 14th, 2019:
 * @moj-hoss
 * @pixeldiva
 * @piebob
+* @cjhuitt
 * @supine
 * @rands (also the workspace owner)
 
