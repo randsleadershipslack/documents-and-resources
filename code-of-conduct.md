@@ -75,9 +75,15 @@ As Administrators, we will seek to resolve conflicts peacefully and in a manner 
 
 ## Administrators
 
-The administrator(s) of Rands Leadership as of April 8th, 2019:
+The administrator(s) of Rands Leadership as of November 14th, 2019:
 
-Rands ([Michael Lopp](mailto:feedback@randsinrepose.com))
+* @moj-hoss
+* @pixeldiva
+* @piebob
+* @supine
+* @rands (also the workspace owner)
+
+The current term of the volunteer administrations is November 14th, 2019 until November 14th, 2020. 
 
 ## Thanks
 
