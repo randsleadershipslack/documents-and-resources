@@ -77,7 +77,7 @@ As Administrators, we will seek to resolve conflicts peacefully and in a manner 
 
 The administrator(s) of Rands Leadership as of November 14th, 2019:
 
-* @moj-hoss
+* @moj_hoss
 * @pixeldiva
 * @piebob
 * @cjhuitt
