@@ -33,25 +33,32 @@ For attribution of specific content found on this Slack, we ask that you ask the
 
 ## Not For Profit
 
-This community is mostly not a place for obvious commercial activity such as recruiting or marketing except in channels dedicated to that purpose which include:
+While this community is designed to help aspects of leadership, and that frequently benefit whatever company or individual a member is currently working for, this is not a place for obvious commercial activities such as recruiting, marketing, or other solicitation, except in channels dedicated to that purpose.
+
+Channels for commercial purposes include:
 
 * #conferences
 * #consulting-gigs
+* #forsale
+* #iwrotesomething
 * #jobs
 * #remote-jobs
 * #services
+* #wedidit
 
-Additionally, geographically-focused channels (i.e. #colorado-connections, #new-york-city, similar) have a higher tolerance for specific kinds of commercial activity focused on events based in that region.
+Even channels dedicated to commercial purposes are dedicated to a specific aspect of commercial purpose; it is just as unwelcome to post an unrelated commercial offering there as it is to post in non-commercial channels.
 
-Non-obvious commercial activity is less obvious. Well-intentioned user surveys of a specific channel are a common request and we ask that you:
+Additionally, some geographically-focused channels have a higher tolerance for specific kinds of commercial activity focused on events based in that region. We recommend the asking protocol below for these channels as well.
 
-* Ask permission of the channel.
-* State clear intent for the purpose of the survey.
-* Listen to the response of your peers.
+Non-obvious commercial activity includes things such as well-intentioned user surveys of a specific channel or responding to a request for tools or services with information about what your company provides.  In these situations, we ask that you:
 
-We believe the above protocol is a useful approach for other types of non-obvious commercial activity.
+* Ask permission of the channel *before* posting the solicitation or information
+* State clear intent for the purpose
+* Listen to the response of your peers
 
-If you join this community simply to take value from the community rather than contribute, the community will quickly notice and react. If you are wondering whether a specific action is commercial or not, please ask and calibrate in #rands-slack-rules.
+We believe the above protocol is generally useful and should be used when there are any doubts.
+
+If you join this community simply to take value rather than contribute, the community will quickly notice and react. If you are wondering whether a specific action is commercial or not, please ask and calibrate in one of the the channels dedicated to helping people find their way (#how-to-rands or #rands-slack-rules).
 
 ## Resolve Peacefully
 
