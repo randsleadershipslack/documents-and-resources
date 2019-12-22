@@ -87,7 +87,7 @@ The Administrators are committed to resolve incidents **within five working days
 
 ## Administrators
 
-The administrator(s) of Rands Leadership as of December 2020 are: 
+The administrator(s) of Rands Leadership as of December 2019 are: 
 
 * @moj_hoss
 * @pixeldiva
