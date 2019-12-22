@@ -83,7 +83,9 @@ With the defined incident and consequence in hand, the Administrator will presen
     * For Temporary Suspension, members will receive the time period when they can not be a part of RLS.
     * For Permanent Suspension, members will receive the content above and then permanent removed from RLS.
 
-The Administrators are committed to resolve incidents **within five working days**. The administrators of this Slack are: 
+The Administrators are committed to resolve incidents **within five working days**.
+
+The administrators of this Slack are: 
 
 ## Administrators
 
