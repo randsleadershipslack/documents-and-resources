@@ -61,7 +61,7 @@ With this information in hand, the Administrator will:
 With this information in hand, the Administrator will determine a consequence. Consequences include but are not limited to:
 
 1. A Strike
- * RLS operates on a three strike system whereby non-suspending CoC violations can result in one or more strikes. Administrators will use their judgement and historical precedent in determining what constitutes a strike. When a member receives three strikes, they will be suspended from RLS for a period of time or permanently depending on the violation. Multiple strikes can be assessed depending on the violation. 
+    * RLS operates on a three strike system whereby non-suspending CoC violations can result in one or more strikes. Administrators will use their judgement and historical precedent in determining what constitutes a strike. When a member receives three strikes, they will be suspended from RLS for a period of time or permanently depending on the violation. Multiple strikes can be assessed depending on the violation. 
  * We do not have a definition of what does and does not constitute a strike. However, as of November 2019, we are keeping a record of all administrative activity to help calibrate strikes. 
 2. Do Not Contact
  * A member may not contact (in any fashion, messages or emoji) either publicly or privately one more other members of the Slack for a predetermined period of time. 
