@@ -4,7 +4,7 @@ Our brief governing philosophy:
 
 **Please strive to resolve a non-heinous situation by yourself; if it’s a heinous situation, please contact an Admin immediately.**
 
-# Something is Off
+## Something is Off
 
 A significant part of the Administrator job is the management of incidents on the Rands Leadership Slack (“RLS”), but ideally the community (that’s you) has both the tools and the desire to resolve many situations without Admin support. 
 
