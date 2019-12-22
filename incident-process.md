@@ -1,4 +1,4 @@
-# Calm, Kind, and Fair: The RLS Incident Process
+# The Rands Leadership Incident Process
 
 Our brief governing philosophy: 
 
