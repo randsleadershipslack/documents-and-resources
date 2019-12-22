@@ -1,58 +1,95 @@
-# Things Sometimes Go Sideways
+# Calm, Kind, and Fair: The RLS Incident Process
 
-In any group of humans, things will sometimes go sideways. Whether it's simple unintentional miscommunication or more extreme unacceptable behavior, we need to have an agreed upon protocol to resolve these situations ourselves or to escalate in the case that one-to-one resolutions are unachievable. 
+Our brief governing philosophy: Please strive to resolve a non-heinous situation by yourself; if it’s a heinous situation, please contact an Admin immediately.
 
-This is the process for incident resolution at Rands Leadership Slack and process is [documented culture](http://randsinrepose.com/archives/the-process-myth/).
+# Something is Off
 
-# The Process
+A significant part of the Administrator job is the management of incidents on the Rands Leadership Slack (“RLS”), but ideally the community (that’s you) has both the tools and the desire to resolve many situations without Admin support. 
 
-## Resolve Peacefully 
+The Rands Code of Conduct (“CoC”) exists to give members a model idea of what is and isn’t acceptable in RLS including behavior, marketing activity, and etiquette. If you experience strange behavior in a channel and are wondering if it’s acceptable, please first consult the CoC.
 
-When an incident occurs, we ask that per the [Code of Conduct](https://github.com/randsleadershipslack/documents-and-resources/blob/master/code-of-conduct.md) for those involved to resolve peacefully:
+With CoC clarity in hand, please contact the member(s) and explain:
 
-“If you see someone violating any part of this Code of Conduct, we urge you to respectfully dissuade them from such behavior. Expect that others in the community wish to help keep the community respectful, and welcome your input in doing so.”
+1. This is the activity I saw which I have an issue with,
+2. It’s not allowed by the CoC, and,
+3. Let’s figure out how to resolve it. 
 
-This is easier said than done, but this is Rands Leadership Slack. Our expectations are that everyone here is hoping to learn about the craft of leadership; peaceful resolution of complex human situations is leadership 101.
+In any other Slack or community, the default first step is to contact an Administrator, but as this is a Leadership community we ask in non-heinous cases to start with member-driven resolution. If you are not comfortable with this approach, go ahead and jump to “It’s Admin O’Clock”.
 
-## Escalation
+Ideally, the above discussion can help resolve the situation. It often does. If does not, if you are not comfortable contacting the member(s), or if this is an obvious heinous situation, jump to “ It’s Admin O’Clock”.
 
-Resolution amongst the individuals will not always be achievable. In this case, the reporter or observer of the incident has a choice. They can share the incident with #rands-slack-rules to seek feedback, and perhaps resolve the incident, or they can raise the incident with the Administrators (see below for specifics). We understand the need for the latter workflow, but we highly encourage the former because, again, this is a community focused on leadership. Our hope is that the debate will help educate this sub-community of humans interested in the rules and culture that govern this small corner of the Internet. 
+## It’s Admin O’Clock
 
-There are two paths in reporting an incident to an Administrator: filing a formal complaint and raising a concern. For a formal complaint, the reporter needs to send an Administrator a direct message with the following information:
+Administrators can be contacted directly, in the #rands-admin channel, or via the @admin user group. Please choose the path most comfortable for you. 
+
+When you contact an Administrator(s), provide the following:
+
+1. The activity you saw that you have an issue with,
+2. If applicable, the CoC violation.
+
+Things to know:
+
+* The Administrators are committed to a first response  within 24 hours. Usually faster. If you directly contact a single Admin, it could be longer due to time zone differences and work schedules. 
+* #rands-admin contains all the of the Administrators and is public. If you're filing a formal incident, we suggest directly contacting an Admin as formal incidents are confidential to the admins.
+
+Once you’ve contacted an Administrator, they’ll help you triage the incident. 
+
+## Formal Incident Process
+
+In the case of a formal incident being reported, there are two possible resolution paths:
+
+1. Raising a concern to the Administrator to give them context, or,
+2. Filing a formal complaint that will result in Administrative action.
+
+In both cases, the reporter needs to provide the following information to the Administrator:
 
 1. What’s the nature of the incident or Code of Conduct violation?
 2. Who is involved in this incident?
 3. What material supports this situation?
 4. Any privacy concerns? (Reporter consent is required before sharing any information regarding the incident)
 
-The second reporting path is raising a concern. We ask the reporter provide the same information with the understanding the reporter *is not* looking for resolution, but wants to provide Administrators a heads up regarding behavior within the community. 
+With this information in hand, the Administrator will: 
 
-For both paths, with this information in hand, the Administrators will provide the concern or complaint to the other party along with the consequence. When this occurs, the reporter (and other parties named in the incident) will be alerted, and the incident will be considered resolved. The target goal for incident resolution is one workday.
+1. Work to determine whether this is a raised concern or a formal complaint with the reporter. In the case of a raised concern, the understanding is there may be no action other than administrative awareness.
+2. Ask clarifying questions of the reporter because every incident is different.
+3. Work with publicly available content to confirm the report.
+4. Talk with their fellow administrators to gather perspective.
+5. The Administrator may deem it necessary to talk to the accused member(s) to gather additional perspective. 
 
-In the case of a raised concern, the understanding is there *may be no action* other than administrative awareness. 
+With this information in hand, the Administrator will determine a consequence. Consequences include but are not limited to:
 
-In extreme cases involving formal complaints, the Administrator may suspend one or more accounts until they can triage and resolve an incident.
+1. A Strike
+ * RLS operates on a three strike system whereby non-suspending CoC violations can result in one or more strikes. Administrators will use their judgement and historical precedent in determining what constitutes a strike. When a member receives three strikes, they will be suspended from RLS for a period of time or permanently depending on the violation. Multiple strikes can be assessed depending on the violation. 
+ * We do not have a definition of what does and does not constitute a strike. However, as of November 2019, we are keeping a record of all administrative activity to help calibrate strikes. 
+2. Do Not Contact
+ * A member may not contact (in any fashion, messages or emoji) either publicly or privately one more other members of the Slack for a predetermined period of time. 
+3. Temporary suspension
+ * A member is suspended from RLS for a predetermined period of time.
+4. Permanent suspension
+ * A member is permanently banned from RLS
 
-Incidents are confidential. The Administrator will not provide any information to parties not involved in any incidents. The lone exception is the case where an incident occurs in a public channel; the Administrator will consult those involved in the incident before disclosing any information.
+For any type of suspension, the admins (not including @rands) will conduct a private vote based on the incident. Majority wins. In the event of a tie due to abstention, @rands will cast the deciding vote. 
 
-## Appeal of Account Suspension
+With the defined incident and consequence in hand, the Administrator will present the following to the accused member: 
 
-In cases that result in account suspension, the individual suspended may appeal the decision starting one week after the suspension by sending a mail to an Administrator with justification for overturning the appeal. If a suspension is overturned, the new context will be shared with #rands-slack-rules
+* This is what occurred.
+* This incident is confidential. 
+* This is how I confirmed what occurred.
+* This is what I decided in terms of consequence. In the case of a non-ban action, explain the terms of Do Not Contact, Strikes, Etc. 
+ * For strikes, members will be alerted to the strike policy and the number of current strikes they have.
+ * For Do Not Contact, members will receive the time period when they can not contact other member(s)
+ * For Temporary Suspension, members will receive the time period when they can not be a part of RLS.
+ * For Permanent Suspension, members will receive the content above and then permanent removed from RLS.
 
-# FAQ:
-
-- “Is situation XYZ an incident?” Unsure if there’s a CoC violation? Ask in #rands-slack-rules and/or DM the administrator. We'll help. 
-- "I believe a CoC violation occured in a private channel/conversations, what do I do?" The CoC applies to this entire Slack. If you believe the CoC has been violated in a non-public space, you may be asked to provide content from that channel to explain and define the incident. Administrators will strive to respect the privacy of a channel and to request a minimum amount of content. As incidents are confidential, this content will not be shared outside of the administrators. 
-- “How many incidents have you handled since this place started?” Twenty as of November 2019.
+The Administrators are committed to resolve incidents **within five working days**. The administrators of this Slack are: 
 
 ## Administrators
 
-The administrator(s) of Rands Leadership as of November 7th, 2019:
+The administrator(s) of Rands Leadership as of December 2020 are: 
 
-@rands ([Michael Lopp](mailto:feedback@randsinrepose.com))
-
-## Version and Copyright
-
-V1.51 of this Code of Conduct was published on November 7th, 2019.
-
-This Code of Conduct is released under the [CC0 public domain license](https://creativecommons.org/publicdomain/zero/1.0/).
+* @moj_hoss
+* @pixeldiva
+* @piebob
+* @cjhuitt
+* @supine
+* @rands (also the workspace owner)
