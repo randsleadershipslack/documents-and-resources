@@ -85,8 +85,6 @@ With the defined incident and consequence in hand, the Administrator will presen
 
 The Administrators are committed to resolve incidents **within five working days**.
 
-The administrators of this Slack are: 
-
 ## Administrators
 
 The administrator(s) of Rands Leadership as of December 2020 are: 
