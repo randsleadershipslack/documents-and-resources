@@ -1,6 +1,8 @@
 # Calm, Kind, and Fair: The RLS Incident Process
 
-Our brief governing philosophy: Please strive to resolve a non-heinous situation by yourself; if it’s a heinous situation, please contact an Admin immediately.
+Our brief governing philosophy: 
+
+**Please strive to resolve a non-heinous situation by yourself; if it’s a heinous situation, please contact an Admin immediately.**
 
 # Something is Off
 
