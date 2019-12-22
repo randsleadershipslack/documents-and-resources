@@ -62,13 +62,13 @@ With this information in hand, the Administrator will determine a consequence. C
 
 1. A Strike
     * RLS operates on a three strike system whereby non-suspending CoC violations can result in one or more strikes. Administrators will use their judgement and historical precedent in determining what constitutes a strike. When a member receives three strikes, they will be suspended from RLS for a period of time or permanently depending on the violation. Multiple strikes can be assessed depending on the violation. 
- * We do not have a definition of what does and does not constitute a strike. However, as of November 2019, we are keeping a record of all administrative activity to help calibrate strikes. 
+    * We do not have a definition of what does and does not constitute a strike. However, as of November 2019, we are keeping a record of all administrative activity to help calibrate strikes. 
 2. Do Not Contact
- * A member may not contact (in any fashion, messages or emoji) either publicly or privately one more other members of the Slack for a predetermined period of time. 
+    * A member may not contact (in any fashion, messages or emoji) either publicly or privately one more other members of the Slack for a predetermined period of time. 
 3. Temporary suspension
- * A member is suspended from RLS for a predetermined period of time.
+    * A member is suspended from RLS for a predetermined period of time.
 4. Permanent suspension
- * A member is permanently banned from RLS
+    * A member is permanently banned from RLS
 
 For any type of suspension, the admins (not including @rands) will conduct a private vote based on the incident. Majority wins. In the event of a tie due to abstention, @rands will cast the deciding vote. 
 
@@ -78,10 +78,10 @@ With the defined incident and consequence in hand, the Administrator will presen
 * This incident is confidential. 
 * This is how I confirmed what occurred.
 * This is what I decided in terms of consequence. In the case of a non-ban action, explain the terms of Do Not Contact, Strikes, Etc. 
- * For strikes, members will be alerted to the strike policy and the number of current strikes they have.
- * For Do Not Contact, members will receive the time period when they can not contact other member(s)
- * For Temporary Suspension, members will receive the time period when they can not be a part of RLS.
- * For Permanent Suspension, members will receive the content above and then permanent removed from RLS.
+    * For strikes, members will be alerted to the strike policy and the number of current strikes they have.
+    * For Do Not Contact, members will receive the time period when they can not contact other member(s)
+    * For Temporary Suspension, members will receive the time period when they can not be a part of RLS.
+    * For Permanent Suspension, members will receive the content above and then permanent removed from RLS.
 
 The Administrators are committed to resolve incidents **within five working days**. The administrators of this Slack are: 
 
