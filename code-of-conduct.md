@@ -40,6 +40,7 @@ Channels for commercial purposes include:
 * #conferences
 * #consulting-gigs
 * #forsale
+* #ibuiltsomething
 * #iwrotesomething
 * #jobs
 * #remote-jobs
