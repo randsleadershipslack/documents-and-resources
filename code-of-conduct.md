@@ -77,13 +77,13 @@ Should you catch yourself behaving disrespectfully, or be confronted as such, li
 
 If you are unable to resolve a situation peacefully, please refer to our [Incident Process](https://github.com/randsleadershipslack/documents-and-resources/blob/master/incident-process.md) and choose a course of action that suits the situation.
 
-If the Administrators determine that a human is violating any part of this Code of Conduct, the Administrators may take any action they deem appropriate within this Slack team, up to and including expulsion and exclusion from the Rands Leadership Slack.
+If the Administrators determine that a human is violating any part of this Code of Conduct, the Administrators may take any action they deem appropriate within this Slack team, up to and including expulsion and exclusion from the Rands Leadership Slack. 
 
 As Administrators, we will seek to resolve conflicts peacefully and in a manner that is positive for the community. We can’t foresee every situation, and thus if in the Administrator's judgment the best thing to do is to ask a disrespectful individual to leave, we will do so.
 
 ## Administrators
 
-The administrator(s) of Rands Leadership as of November 14th, 2019:
+The administrator(s) of Rands Leadership as of December 2019:
 
 * @moj_hoss
 * @pixeldiva
