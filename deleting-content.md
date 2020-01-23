@@ -26,8 +26,3 @@ Additional consequences beyond the removal of content are up to the acting Admin
 
 The current roster of Administrators is maintained in the primary [Code of Conduct](https://github.com/randsleadershipslack/documents-and-resources/blob/master/code-of-conduct.md) document.
 
-## Version and Copyright
-
-V2.4 of this Code of Conduct was published on January 23rd, 2020.
-
-This Code of Conduct is released under the [CC0 public domain license](https://creativecommons.org/publicdomain/zero/1.0/).
