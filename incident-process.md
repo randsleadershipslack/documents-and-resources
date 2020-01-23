@@ -31,9 +31,9 @@ For both paths, with this information in hand, the Administrators will provide t
 
 In the case of a raised concern, the understanding is there *may be no action* other than administrative awareness. 
 
-In extreme cases involving formal complaints, the Administrator may suspend one or more accounts until they can triage and resolve an incident.
+In extreme cases involving formal complaints, the Administrators may suspend one or more accounts until they can triage and resolve an incident.
 
-Incidents are confidential. The Administrator will not provide any information to parties not involved in any incidents. The lone exception is the case where an incident occurs in a public channel; the Administrator will consult those involved in the incident before disclosing any information.
+Incidents are confidential. The Administrators will not provide any information to parties not involved in any incidents. The lone exception is the case where an incident occurs in a public channel; the Administrators will consult those involved in the incident before disclosing any information.
 
 ## Appeal of Account Suspension
 
@@ -47,7 +47,7 @@ In cases that result in account suspension, the individual suspended may appeal 
 
 ## Administrators
 
-The current roster of Administrator(s) is maintained in the primary [Code of Conduct](https://github.com/randsleadershipslack/documents-and-resources/blob/master/code-of-conduct.md) document.
+The current roster of Administrators is maintained in the primary [Code of Conduct](https://github.com/randsleadershipslack/documents-and-resources/blob/master/code-of-conduct.md) document.
 
 ## Version and Copyright
 

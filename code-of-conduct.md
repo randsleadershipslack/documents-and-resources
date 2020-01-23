@@ -1,8 +1,8 @@
-All participants in the Rands Leadership Slack are required to comply with the following Code of Conduct. Administrators (see below for definition of administrators) will enforce this code throughout the Rands Leadership Slack.
+All participants in the Rands Leadership Slack are required to comply with the following Code of Conduct. Administrators (see below for definition of Administrators) will enforce this code throughout the Rands Leadership Slack.
 
 # The Short Version
 
-Be respectful of other people, respectfully ask people to stop if you are bothered; respect privacy; understand we’re mostly not-for-profit; and if you can’t resolve an issue with someone else you should contact the Administrator. If you are being a problem, it will be made clear to you, and you may be asked to leave the Rands Leadership Slack. 
+Be respectful of other people, respectfully ask people to stop if you are bothered; respect privacy; understand we’re mostly not-for-profit; and if you can’t resolve an issue with someone else you should contact the Administrators. If you are being a problem, it will be made clear to you, and you may be asked to leave the Rands Leadership Slack.
 
 # The Long Version
 
@@ -18,7 +18,7 @@ Respectful behavior includes but is not limited to:
 
 * Be considerate, kind, constructive, and helpful.
 * Avoid demeaning, discriminatory, harassing, hateful, or physically threatening behavior, speech, and imagery.
-* If you’re not sure, ask someone instead of assuming. No, really. Just ask the administrators. We’d rather hear from you than hear about something you said or did after the fact, and we are here to help.
+* If you’re not sure, ask someone instead of assuming. No, really. Just ask the Administrators. We’d rather hear from you than hear about something you said or did after the fact, and we are here to help.
 * Don’t be a bystander. Role model respectful behaviour, but also help to address disrespect when you see it. 
 
 Disrespectful behavior outside this community may be considered a violation of this code of conduct at the discretion of the Administrators.
@@ -83,7 +83,7 @@ As Administrators, we will seek to resolve conflicts peacefully and in a manner 
 
 ## Administrators
 
-The administrator(s) of Rands Leadership as of November 14th, 2019:
+The Administrator(s) of Rands Leadership as of November 14th, 2019:
 
 * @moj_hoss
 * @pixeldiva
@@ -94,7 +94,7 @@ The administrator(s) of Rands Leadership as of November 14th, 2019:
 
 You can also contact them via the @admins group or by posting in the #rands-admins channel.
 
-The current term of the volunteer administrations is November 14th, 2019 until November 14th, 2020.
+The current term of the volunteer Administrations is November 14th, 2019 until November 14th, 2020.
 
 ## Thanks
 

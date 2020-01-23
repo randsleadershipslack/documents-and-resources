@@ -24,7 +24,7 @@ Additional consequences beyond the removal of content are up to the acting Admin
 
 ## Administrators
 
-The current roster of Administrator(s) is maintained in the primary [Code of Conduct](https://github.com/randsleadershipslack/documents-and-resources/blob/master/code-of-conduct.md) document.
+The current roster of Administrators is maintained in the primary [Code of Conduct](https://github.com/randsleadershipslack/documents-and-resources/blob/master/code-of-conduct.md) document.
 
 ## Version and Copyright
 
