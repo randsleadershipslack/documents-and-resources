@@ -75,6 +75,8 @@ Should you catch yourself behaving disrespectfully, or be confronted as such, li
 
 ## Consequences
 
+If you feel a message should be deleted, please refer to our overview of [Deleting Content](https://github.com/randsleadershipslack/documents-and-resources/blob/master/deleting_content.md).
+
 If you are unable to resolve a situation peacefully, please refer to our [Incident Process](https://github.com/randsleadershipslack/documents-and-resources/blob/master/incident-process.md) and choose a course of action that suits the situation.
 
 If the Administrators determine that a human is violating any part of this Code of Conduct, the Administrators may take any action they deem appropriate within this Slack team, up to and including expulsion and exclusion from the Rands Leadership Slack.
