@@ -47,9 +47,7 @@ In cases that result in account suspension, the individual suspended may appeal 
 
 ## Administrators
 
-The administrator(s) of Rands Leadership as of November 7th, 2019:
-
-@rands ([Michael Lopp](mailto:feedback@randsinrepose.com))
+The current roster of Administrator(s) is maintained in the primary [Code of Conduct](https://github.com/randsleadershipslack/documents-and-resources/blob/master/code-of-conduct.md) document.
 
 ## Version and Copyright
 

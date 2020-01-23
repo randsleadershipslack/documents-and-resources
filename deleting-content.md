@@ -22,6 +22,10 @@ The determination of how much time is allowed is up to the acting Administrator,
 
 Additional consequences beyond the removal of content are up to the acting Administrator, per the same incident process found in the [Incident Process](https://github.com/randsleadershipslack/documents-and-resources/blob/master/incident-process.md)
 
+## Administrators
+
+The current roster of Administrator(s) is maintained in the primary [Code of Conduct](https://github.com/randsleadershipslack/documents-and-resources/blob/master/code-of-conduct.md) document.
+
 ## Version and Copyright
 
 V1.51 of this Code of Conduct was published on November 7th, 2019.
