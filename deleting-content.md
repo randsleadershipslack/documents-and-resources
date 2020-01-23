@@ -28,6 +28,6 @@ The current roster of Administrator(s) is maintained in the primary [Code of Con
 
 ## Version and Copyright
 
-V1.51 of this Code of Conduct was published on November 7th, 2019.
+V2.4 of this Code of Conduct was published on January 23rd, 2020.
 
 This Code of Conduct is released under the [CC0 public domain license](https://creativecommons.org/publicdomain/zero/1.0/).
