@@ -87,11 +87,5 @@ The Administrators are committed to resolve incidents **within five working days
 
 ## Administrators
 
-The administrator(s) of Rands Leadership as of December 2019 are: 
+The current roster of Administrators is maintained in the primary [Code of Conduct](https://github.com/randsleadershipslack/documents-and-resources/blob/master/code-of-conduct.md) document.
 
-* @moj_hoss
-* @pixeldiva
-* @piebob
-* @cjhuitt
-* @supine
-* @rands (also the workspace owner)
