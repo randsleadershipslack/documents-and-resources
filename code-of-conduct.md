@@ -31,6 +31,14 @@ If you want to publicly disclose anything discussed here, use the [Chatham House
 
 For attribution of specific content found on this Slack, we ask that you ask the originator of the content for permission. If you don’t receive consent in a reasonable period of time, we ask that you credit the “Rands Leadership Slack.”
 
+# Read the Room
+
+This is large community with a great many different humans populating hundreds of channels. Different channels have organically developed different personalities. We suggest that before posting in a channel with hundreds of members that you take the time read the room. Specifically:
+
+* Read the last couple days of messages.
+* Examine the channel topic for helpful tips.
+* Click on the channel details and read the about section, get a sense for how many members are present, and what messages have already been pinned and what files have been shared.
+
 ## Not For Profit
 
 While this community is designed to help aspects of leadership, and that frequently benefit whatever company or individual a member is currently working for, this is not a place for obvious commercial activities such as recruiting, marketing, or other solicitation, except in channels dedicated to that purpose.
