@@ -31,7 +31,7 @@ If you want to publicly disclose anything discussed here, use the [Chatham House
 
 For attribution of specific content found on this Slack, we ask that you ask the originator of the content for permission. If you don’t receive consent in a reasonable period of time, we ask that you credit the “Rands Leadership Slack.”
 
-# Read the Room
+## Read the Room
 
 This is large community with a great many different humans populating hundreds of channels. Different channels have organically developed different personalities. We suggest that before posting in a channel with hundreds of members that you take the time read the room. Specifically:
 
@@ -39,11 +39,21 @@ This is large community with a great many different humans populating hundreds o
 * Examine the channel topic for helpful tips.
 * Click on the channel details and read the about section, get a sense for how many members are present, and what messages have already been pinned and what files have been shared.
 
-## Not For Profit
+## Not For Profit (Mostly)
 
 While this community is designed to help aspects of leadership, and that frequently benefit whatever company or individual a member is currently working for, this is not a place for obvious commercial activities such as recruiting, marketing, or other solicitation, except in channels dedicated to that purpose.
 
-Channels for commercial purposes include:
+If you join this community simply to take value rather than contribute, the community will quickly notice and react. If you are wondering whether a specific action is commercial or not, please ask in channel and/or calibrate in one of the the channels dedicated to helping people find their way (#how-to-rands or #rands-slack-rules).
+
+Non-obvious commercial activity includes (but is not limited to) well-intentioned user surveys of a specific channel or responding to a request for tools or services with information about company.  In these situations, we ask that you:
+
+* Ask permission of the channel *before* posting the solicitation or information
+* State clear intent for the purpose
+* **Listen** to the response of your peers in channel
+
+We believe this protocol is generally useful for all commercial requests and should be used when there are any doubts regarding commercial activity.
+
+Examples of channels which explicitly allow commercial activity include:
 
 * #conferences
 * #consulting-gigs
@@ -55,19 +65,9 @@ Channels for commercial purposes include:
 * #services
 * #wedidit
 
-Even channels dedicated to commercial purposes are dedicated to a specific aspect of commercial purpose; it is just as unwelcome to post an unrelated commercial offering there as it is to post in non-commercial channels.
+Some geographically-focused channels have a higher tolerance for specific kinds of commercial activity focused on events based in that region. We recommend the above asking protocol.
 
-Additionally, some geographically-focused channels have a higher tolerance for specific kinds of commercial activity focused on events based in that region. We recommend the asking protocol below for these channels as well.
-
-Non-obvious commercial activity includes things such as well-intentioned user surveys of a specific channel or responding to a request for tools or services with information about what your company provides.  In these situations, we ask that you:
-
-* Ask permission of the channel *before* posting the solicitation or information
-* State clear intent for the purpose
-* Listen to the response of your peers
-
-We believe the above protocol is generally useful and should be used when there are any doubts.
-
-If you join this community simply to take value rather than contribute, the community will quickly notice and react. If you are wondering whether a specific action is commercial or not, please ask and calibrate in one of the the channels dedicated to helping people find their way (#how-to-rands or #rands-slack-rules).
+In channels where commercial activity is allowed, it is just as unwelcome to post an unrelated commercial offering as it is to post in non-commercial channels.
 
 ## Resolve Peacefully
 
