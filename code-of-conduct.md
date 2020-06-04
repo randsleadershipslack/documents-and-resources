@@ -45,7 +45,7 @@ While this community is designed to help aspects of leadership, and that frequen
 
 If you join this community simply to take value rather than contribute, the community will quickly notice and react. If you are wondering whether a specific action is commercial or not, please ask in channel and/or calibrate in one of the the channels dedicated to helping people find their way (#how-to-rands or #rands-slack-rules).
 
-Non-obvious commercial activity includes (but is not limited to) well-intentioned user surveys of a specific channel or responding to a request for tools or services with information about company.  In these situations, we ask that you:
+Non-obvious or quasi-commercial activity includes (but is not limited to) well-intentioned user surveys of a specific channel, responding to a request for tools or servics with information about a company, or posts which are blatently fronts for commericial interests. In these situations, we ask that you:
 
 * Ask permission of the channel *before* posting the solicitation or information
 * State clear intent for the purpose
