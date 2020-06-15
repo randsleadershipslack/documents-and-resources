@@ -43,15 +43,21 @@ This is large community with a great many different humans populating hundreds o
 
 While this community is designed to help aspects of leadership, and that frequently benefit whatever company or individual a member is currently working for, this is not a place for obvious commercial activities such as recruiting, marketing, or other solicitation, except in channels dedicated to that purpose.
 
-If you join this community simply to take value rather than contribute, the community will quickly notice and react. If you are wondering whether a specific action is commercial or not, please ask in channel and/or calibrate in one of the the channels dedicated to helping people find their way (#how-to-rands or #rands-slack-rules).
+If you join this community simply to take value rather than contribute, the community will quickly notice and react. The best example of this type of behavior is your first non-introductory post involving marketing, survey, or other obvious commercial activity.
 
-Non-obvious or quasi-commercial activity includes (but is not limited to) well-intentioned user surveys of a specific channel, responding to a request for tools or servics with information about a company, or posts which are blatently fronts for commericial interests. In these situations, we ask that you:
+Non-obvious and quasi-commerical activity includes (but is not limited to) well-intentioned user surveys of a specific channel, responding to a request for tools or services with information about a company, or posts which are blatantly fronts for commercial interests. If after productively engaging with the community, you are wondering  whether a specific action is commercial or not, please ask in channel and/or calibrate in one of the channels dedicated to helping people find their way (#how-to-rands or #rands-slack-rules).
 
-* Ask permission of the channel *before* posting the solicitation or information
+In general, our guidelines are that you:
+
+* Ask permission of the channel before posting the solicitation or information
 * State clear intent for the purpose
-* **Listen** to the response of your peers in channel
+* Listen for the response of your peers in channel and act accordingly.
 
-We believe this protocol is generally useful for all commercial requests and should be used when there are any doubts regarding commercial activity.
+In the case of surveys, there is an additional set of requirements. Members interested in surveying a channel must clearly state in public channel:
+
+# The goal of the survey
+# How the data will be used
+# When and how the results will be shared with the channel
 
 Examples of channels which explicitly allow commercial activity include:
 
