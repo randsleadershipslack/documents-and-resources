@@ -55,9 +55,9 @@ In general, our guidelines are that you:
 
 In the case of surveys, there is an additional set of requirements. Members interested in surveying a channel must clearly state in public channel:
 
-# The goal of the survey
-# How the data will be used
-# When and how the results will be shared with the channel
+1. The goal of the survey
+2. How the data will be used
+3. When and how the results will be shared with the channel
 
 Examples of channels which explicitly allow commercial activity include:
 
