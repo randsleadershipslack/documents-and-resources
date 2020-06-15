@@ -59,7 +59,7 @@ In the case of surveys, there is an additional set of requirements. Members inte
 2. How the data will be used
 3. When and how the results will be shared with the channel
 
-Examples of channels which explicitly allow commercial activity include:
+Examples of channels which currently explicitly allow commercial activity include:
 
 * #conferences
 * #consulting-gigs
@@ -71,7 +71,7 @@ Examples of channels which explicitly allow commercial activity include:
 * #services
 * #wedidit
 
-Some geographically-focused channels have a higher tolerance for specific kinds of commercial activity focused on events based in that region. We recommend the above asking protocol.
+Some geographically-focused channels have a higher tolerance for specific kinds of commercial activity focused on events based in that region. Again, read the room. 
 
 In channels where commercial activity is allowed, it is just as unwelcome to post an unrelated commercial offering as it is to post in non-commercial channels.
 
@@ -118,6 +118,6 @@ Thank you to every Rands Leadership Slack community member for helping to make o
 
 Special thanks to [Chicago Camps](http://chicagocamps.org/code-of-conduct/), YxYY ([Yes and Yes Yes](http://www.yesandyesyes.com/)), and Hillary Hartley for sharing their Code of Conduct with us. We consider them as examples to look up to and emulate. We also thank the YxYY community member [Tantek Çelik](http://tantek.com/), and the other organizers of [IndieWebCamp](http://indiewebcamp.com/) for creating and sharing the [Code of Conduct](http://indiewebcamp.com/code-of-conduct) on which this one is based. If you question the need for a Code of Conduct, please see [this](http://indiewebcamp.com/code-of-conduct-why).
 
-V2.4 of this Code of Conduct was published on January 23rd, 2020.
+V2.5 of this Code of Conduct was published on June 14, 2020.
 
 This Code of Conduct is released under the [CC0 public domain license](https://creativecommons.org/publicdomain/zero/1.0/).
