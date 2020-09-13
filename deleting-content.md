@@ -9,12 +9,12 @@ In any large message board with a diverse group of humans, communication can bre
 
 # Don't Be a Troll
 
-A troll is a member who starts flame wars or intentionally upsets other members by posting inflammatory and digressive, extraneous, or off-topic messages with the intent of provoking member’s into displaying emotional responses and normalizing tangential discussion, either for the troll's amusement or a specific gain.
+A troll is a member who starts flame wars or intentionally upsets other members by posting inflammatory and digressive, extraneous, or off-topic messages with the intent of provoking members into displaying emotional responses and normalizing tangential discussion, either for the troll's amusement or a specific gain.
 
 The determination of whether a message is trolling is often a subjective assessment by administrators, but there is a specific situation where RLS has a zero-tolerance policy where:
 
 1. A message is perceived and/or reported as trolling,
-2. By a non-contributing member was little to no other engagement elsewhere in the Slack, and, 
+2. By a non-contributing member with little to no other engagement elsewhere in the Slack, and, 
 3. Posted via a deliberately fake account.
 
 Content posted in this fashion results in a no-warning expulsion of the offending account from RLS. Trolling which does not meet this high bar is managed via the usual content review process. 
