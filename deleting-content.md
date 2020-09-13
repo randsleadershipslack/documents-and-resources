@@ -7,7 +7,7 @@ This is the process for content removal at Rands Leadership Slack and process is
 # In Brief
 
 * Admins may delete messages that violate the Code of Conduct
-* The authors of those messages will be notified and may be given a chance to modify the message themselves.
+* In non-heinous cases, the authors of those messages will be notified and may be given a chance to modify the message themselves.
 
 # What, When, and How
 
