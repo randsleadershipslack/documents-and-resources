@@ -17,15 +17,16 @@ The determination of whether a message is trolling is often a subjective assessm
 2. By a non-contributing member was little to no other engagement elsewhere in the Slack, and, 
 3. Posted via a deliberately fake account.
 
-Content posted in this fashion results in a no-warning expulsion of the offending account from RLS.
+Content posted in this fashion results in a no-warning expulsion of the offending account from RLS. Trolling which does not meet this high bar is managed via the usual content review process. 
 
-# What, When, and How
+# Content Review Process
 
 Admins may come across or be notified of content on RLS that violates the Code of Conduct. In some situations, this may lead to an Administrator deleting the message (or messages) that violate the CoC. Messages that are most likely to be deleted are commercial solicitations, disrespectful messages to other members, or links to disturbing or distressing content without appropriate measures to warn of or hide the content (including image uploads and unfurls).
 
 Ideally, another RLS member notices this content and contacts the original poster, who then modifies or deletes the message so that it is no longer problematic. In this case, no further Administrator action is required. If Administrator action is desired, due to lack of response or any other reason, an Administrator will notify the original poster of the violation and the need to reword or remove the problematic message. The Administrator will also specify a time after which Administrator action will be taken to delete the content if it is not addressed. This time may be as little as a few minutes, or as much as 24 hours.
 
 The determination of how much time is allowed is up to the acting Administrator, but the following context will be used to help determine the time before Administrator action:
+
 * How blatant the violation is
 * How likely it is to be seen by others (higher-volume channels get less time)
 * How likely it is to trigger negative reactions in others
