@@ -9,6 +9,18 @@ This is the process for content removal at Rands Leadership Slack and process is
 * Admins may delete messages that violate the Code of Conduct
 * In non-trolling cases, the authors of those messages will be notified and may be given a chance to modify the message themselves.
 
+# Don't Be a Troll
+
+A troll is a member who starts flame wars or intentionally upsets other members by posting inflammatory and digressive, extraneous, or off-topic messages with the intent of provoking member’s into displaying emotional responses and normalizing tangential discussion, either for the troll's amusement or a specific gain.
+
+The determination of whether a message is trolling is often a subjective assessment by administrators, but there is a specific situation where RLS has a zero-tolerance policy where:
+
+# A message is perceived as trolling,
+# By a non-contributing member meaning they have little to no other engagement in the Slack, and, 
+# Posted via a deliberately fake account.
+
+Content posted in this fashion results in a no-warning expulsion from RLS.
+
 # What, When, and How
 
 Admins may come across or be notified of content on RLS that violates the Code of Conduct. In some situations, this may lead to an Administrator deleting the message (or messages) that violate the CoC. Messages that are most likely to be deleted are commercial solicitations, disrespectful messages to other members, or links to disturbing or distressing content without appropriate measures to warn of or hide the content (including image uploads and unfurls).
