@@ -15,9 +15,9 @@ A troll is a member who starts flame wars or intentionally upsets other members 
 
 The determination of whether a message is trolling is often a subjective assessment by administrators, but there is a specific situation where RLS has a zero-tolerance policy where:
 
-# A message is perceived as trolling,
-# By a non-contributing member meaning they have little to no other engagement in the Slack, and, 
-# Posted via a deliberately fake account.
+1. A message is perceived as trolling,
+2. By a non-contributing member meaning they have little to no other engagement in the Slack, and, 
+3. Posted via a deliberately fake account.
 
 Content posted in this fashion results in a no-warning expulsion from RLS.
 
