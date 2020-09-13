@@ -2,8 +2,6 @@
 
 In any large message board with a diverse group of humans, communication can break down.  Whether it's unintential miscommunication or intentional boundary pushing, Administrators are occasionally requested to delete a message someone wrote in the public channels.
 
-This is the process for content removal at Rands Leadership Slack and process is [documented culture](http://randsinrepose.com/archives/the-process-myth/).
-
 # In Brief
 
 * Admins may delete messages that violate the Code of Conduct
