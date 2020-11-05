@@ -99,7 +99,7 @@ As Administrators, we will seek to resolve conflicts peacefully and in a manner 
 
 ## Administrators
 
-The Administrator(s) of Rands Leadership as of December 2020:
+The Administrator(s) of Rands Leadership as of November 2020:
 
 * @mcole
 * @okterok 
