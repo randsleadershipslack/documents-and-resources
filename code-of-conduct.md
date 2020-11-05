@@ -99,18 +99,18 @@ As Administrators, we will seek to resolve conflicts peacefully and in a manner 
 
 ## Administrators
 
-The Administrator(s) of Rands Leadership as of December 2019:
+The Administrator(s) of Rands Leadership as of December 2020:
 
-* @moj_hoss
-* @pixeldiva
-* @piebob
+* @mcole
+* @okterok 
+* @erin.disselhorst 
 * @cjhuitt
 * @supine
 * @rands (also the workspace owner)
 
-You can also contact them via the @admins group or by posting in the #rands-admins channel.
+You can also contact them directly or by posting in the #rands-admins channel.
 
-The current term of the volunteer Administrations is November 14th, 2019 until November 14th, 2020.
+The current term of the volunteer Administrations is November 2nd, 2020 until November 2nd, 2021.
 
 ## Thanks
 
