@@ -69,6 +69,7 @@ Examples of channels which currently explicitly allow commercial activity includ
 * #jobs
 * #remote-jobs
 * #services
+* #watches
 * #wedidit
 
 Some geographically-focused channels have a higher tolerance for specific kinds of commercial activity focused on events based in that region. Again, read the room. 
