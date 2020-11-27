@@ -39,19 +39,21 @@ This is large community with a great many different humans populating hundreds o
 * Examine the channel topic for helpful tips.
 * Click on the channel details and read the about section, get a sense for how many members are present, and what messages have already been pinned and what files have been shared.
 
+Posting the same message to multiple channels is spamming. Don't spam. 
+
 ## Not For Profit (Mostly)
 
 While this community is designed to help aspects of leadership, and that frequently benefit whatever company or individual a member is currently working for, this is not a place for obvious commercial activities such as recruiting, marketing, or other solicitation, except in channels dedicated to that purpose.
 
-If you join this community simply to take value rather than contribute, the community will quickly notice and react. The best example of this type of behavior is your first non-introductory post involving marketing, survey, or other obvious commercial activity.
+If you join this community simply to take value rather than contribute, the community will quickly notice and react. A recurring example of this type of behavior is your first non-introductory post to the community involving marketing, survey, or other obvious commercial activity.
 
-Non-obvious and quasi-commerical activity includes (but is not limited to) well-intentioned user surveys of a specific channel, responding to a request for tools or services with information about a company, or posts which are blatantly fronts for commercial interests. If after productively engaging with the community, you are wondering  whether a specific action is commercial or not, please ask in channel and/or calibrate in one of the channels dedicated to helping people find their way (#how-to-rands or #rands-slack-rules).
+Non-obvious and quasi-commerical activity includes (but is not limited to) well-intentioned user surveys of a specific channel, responding to a request for tools or services with information about a company, or posts which are blatantly fronts for commercial interests. If after productively engaging with the community, you are wondering whether a specific action is commercial or not, please ask in channel and/or calibrate in one of the channels dedicated to helping people find their way (#how-to-rands or #rands-slack-rules).
 
 In general, our guidelines are that you:
 
 * Ask permission of the channel before posting the solicitation or information
 * State clear intent for the purpose
-* Listen for the response of your peers in channel and act accordingly.
+* Listen for the response of your peers in channel and act accordingly
 
 In the case of surveys, there is an additional set of requirements. Members interested in surveying a channel must clearly state in public channel:
 
@@ -119,6 +121,6 @@ Thank you to every Rands Leadership Slack community member for helping to make o
 
 Special thanks to [Chicago Camps](http://chicagocamps.org/code-of-conduct/), YxYY ([Yes and Yes Yes](http://www.yesandyesyes.com/)), and Hillary Hartley for sharing their Code of Conduct with us. We consider them as examples to look up to and emulate. We also thank the YxYY community member [Tantek Çelik](http://tantek.com/), and the other organizers of [IndieWebCamp](http://indiewebcamp.com/) for creating and sharing the [Code of Conduct](http://indiewebcamp.com/code-of-conduct) on which this one is based. If you question the need for a Code of Conduct, please see [this](http://indiewebcamp.com/code-of-conduct-why).
 
-V2.5 of this Code of Conduct was published on June 14, 2020.
+V2.51 of this Code of Conduct was published on November 27th, 2001.
 
 This Code of Conduct is released under the [CC0 public domain license](https://creativecommons.org/publicdomain/zero/1.0/).
