@@ -1,10 +1,10 @@
 # Things Are Sometimes Better Unread
 
-In any large message board with a diverse group of humans, communication can break down.  Whether it's unintential miscommunication or intentional boundary pushing, Administrators are occasionally requested to delete a message someone wrote in the public channels.
+In any large digitial community with a diverse group of humans, communication can break down. Whether it's unintential miscommunication or intentional boundary pushing, Administrators are occasionally requested to delete a message someone wrote in the public channels.
 
 # In Brief
 
-* Admins may delete messages that violate the Code of Conduct
+* Admins may delete messages that violate the Code of Conduct.
 * In non-trolling cases, the authors of those messages will be notified and may be given a chance to modify the message themselves.
 
 # Don't Be a Troll
@@ -32,6 +32,10 @@ The determination of how much time is allowed is up to the acting Administrator,
 * How likely it is to trigger negative reactions in others
 
 Additional consequences beyond the removal of content are up to the acting Administrator, per the same incident process found in the [Incident Process](https://github.com/randsleadershipslack/documents-and-resources/blob/master/incident-process.md)
+
+# Direct Messages ("Private Messages")
+
+Direct messages between one or more members are private. Administators have no access to these messages and have ability to delete them, but the above rules apply to this content. Violations should be addressed with Administators via the [Incident Process](https://github.com/randsleadershipslack/documents-and-resources/blob/master/incident-process.md). 
 
 ## Administrators
 
