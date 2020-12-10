@@ -35,7 +35,7 @@ Additional consequences beyond the removal of content are up to the acting Admin
 
 # Direct Messages ("Private Messages")
 
-Direct messages between one or more members are private. Administators have no access to these messages and have mo ability to delete them, but the above rules apply to this content. Violations should be addressed with Administators via the [Incident Process](https://github.com/randsleadershipslack/documents-and-resources/blob/master/incident-process.md). 
+Direct messages between one or more members are private. Administators have no access to these messages and have no ability to delete them, but the above rules apply to this content. Violations should be addressed with Administators via the [Incident Process](https://github.com/randsleadershipslack/documents-and-resources/blob/master/incident-process.md). 
 
 ## Administrators
 
