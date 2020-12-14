@@ -121,6 +121,6 @@ Thank you to every Rands Leadership Slack community member for helping to make o
 
 Special thanks to [Chicago Camps](http://chicagocamps.org/code-of-conduct/), YxYY ([Yes and Yes Yes](http://www.yesandyesyes.com/)), and Hillary Hartley for sharing their Code of Conduct with us. We consider them as examples to look up to and emulate. We also thank the YxYY community member [Tantek Çelik](http://tantek.com/), and the other organizers of [IndieWebCamp](http://indiewebcamp.com/) for creating and sharing the [Code of Conduct](http://indiewebcamp.com/code-of-conduct) on which this one is based. If you question the need for a Code of Conduct, please see [this](http://indiewebcamp.com/code-of-conduct-why).
 
-V2.51 of this Code of Conduct was published on November 27th, 2001.
+V2.51 of this Code of Conduct was published on November 27th, 2020.
 
 This Code of Conduct is released under the [CC0 public domain license](https://creativecommons.org/publicdomain/zero/1.0/).
