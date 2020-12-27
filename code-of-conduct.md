@@ -8,8 +8,8 @@ The Rands Leadership Slack is an online community dedicated to the craft of lead
 - [Not for Profit](#not-for-profit-mostly)
 - [Resolve Peacefully](#resolve-peacefully)
 - [Consequences](#consequences)
--     [Incident Process](https://github.com/randsleadershipslack/documents-and-resources/blob/master/incident-process.md)
--     [Deleting Content](https://github.com/randsleadershipslack/documents-and-resources/blob/master/deleting-content.md)
+  * [Incident Process](https://github.com/randsleadershipslack/documents-and-resources/blob/master/incident-process.md)
+  * [Deleting Content](https://github.com/randsleadershipslack/documents-and-resources/blob/master/deleting-content.md)
 - [Administrators](#administrators)
 
 # The Short Version
