@@ -3,6 +3,8 @@ The Rands Leadership Slack is an online community dedicated to the craft of lead
 # Table of Contents
 
 - [Respect](#respect)
+- [Privacy)(#privacy)
+- [Read the Room)(#read the room)
 
 # The Short Version
 
