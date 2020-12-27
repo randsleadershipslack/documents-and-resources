@@ -4,7 +4,7 @@ The Rands Leadership Slack is an online community dedicated to the craft of lead
 
 - [Respect](#respect)
 - [Privacy](#privacy)
-- [Read the Room](#readtheroom)
+- [Read the Room](#privacy)
 
 # The Short Version
 
