@@ -6,6 +6,11 @@ The Rands Leadership Slack is an online community dedicated to the craft of lead
 - [Privacy](#privacy)
 - [Read the Room](#read-the-room)
 - [Not for Profit](#not-for-profit-mostly)
+- [Resolve Peacefully](#resolve-peacefully)
+- [Consequences](#consequences)
+- [Incident Process](https://github.com/randsleadershipslack/documents-and-resources/blob/master/incident-process.md)
+- [Deleting Content](https://github.com/randsleadershipslack/documents-and-resources/blob/master/deleting-content.md)
+- [Administrators](#administrators)
 
 # The Short Version
 
@@ -92,8 +97,6 @@ As a leadership community, we believe peer-to-peer discussions, feedback, and co
 If you see someone violating any part of this Code of Conduct, we urge you to respectfully dissuade them from such behavior using this document if necessary. Expect that others in the community wish to help keep the community respectful, and welcome your input in doing so.
 
 If you experience disrespectful behavior toward yourself or anyone else and feel in any way unable or unwilling to respond or resolve it respectfully (for any reason), please immediately bring it to the attention of an Administrator. We want to hear from you about anything that you feel is disrespectful, threatening, or just something that could make someone feel distressed in any way. We will listen and work to resolve the matter with your help.
-
-## Apologize for Mistakes
 
 Should you catch yourself behaving disrespectfully, or be confronted as such, listen intently, own up to your words and actions, and apologize accordingly. No one is perfect, and even well-intentioned people make mistakes. What matters is how you handle them and that you avoid repeating them in the future. We are here to learn.
 
