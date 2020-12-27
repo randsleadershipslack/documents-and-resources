@@ -131,6 +131,6 @@ Thank you to every Rands Leadership Slack community member for helping to make o
 
 Thanks to [Tantek Çelik](http://tantek.com/), and the other organizers of [IndieWebCamp](http://indiewebcamp.com/) for creating and sharing the [Code of Conduct](http://indiewebcamp.com/code-of-conduct) on which this one is based. If you question the need for a Code of Conduct, please see [this](http://indiewebcamp.com/code-of-conduct-why).
 
-V3.00 of this Code of Conduct was published on December 26th, 2020.
-
 This Code of Conduct is released under the [CC0 public domain license](https://creativecommons.org/publicdomain/zero/1.0/).
+
+V3.00 of this Code of Conduct was published on December 26th, 2020.
