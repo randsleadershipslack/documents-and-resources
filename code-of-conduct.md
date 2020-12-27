@@ -1,5 +1,9 @@
 The Rands Leadership Slack is an online community dedicated to the craft of leadership. While many of the channels are not specifically focused on leadership, all participants in this community are expected to act like leaders and required to comply with the following Code of Conduct. Administrators will enforce this code throughout the Rands Leadership Slack.
 
+# Table of Contents
+
+- [Respect](#respect)
+
 # The Short Version
 
 Be a leader. Be respectful of other people, respectfully ask people to stop if you are bothered; respect privacy; understand we’re mostly not-for-profit; and if you can’t resolve an issue with someone else you should contact the Administrators. If you are being a problem, it will be made clear to you, and you may be asked to leave the Rands Leadership Slack.
