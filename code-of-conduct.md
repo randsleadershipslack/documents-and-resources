@@ -4,7 +4,7 @@ The Rands Leadership Slack is an online community dedicated to the craft of lead
 
 - [Respect](#respect)
 - [Privacy](#privacy)
-- [Read the Room](#Read the Room)
+- [Read the Room](#readtheroom)
 
 # The Short Version
 
@@ -37,7 +37,7 @@ For attribution of specific content found on this Slack on public channels, we a
 
 Sharing of content from private channels is discouraged. 
 
-## Read the Room
+## Read the Room {#readtheroom}
 
 This is large community with a great many different humans populating hundreds of channels. Different channels have organically developed different personalities. We suggest that before posting in a channel with hundreds of members that you take the time read the room. Specifically:
 
