@@ -55,6 +55,15 @@ This is large community with a great many different humans populating hundreds o
 
 Posting the same message to multiple channels is spamming. Don't spam. 
 
+# Direct Message (“DM") Etiquette
+
+A direct message (“DM”) is a private message to one or more other members. Sending a DM to another member who you don’t know might be  jarring for the receiver.
+
+Prior to sending a DM to member you’ve never contacted, consider the following:
+
+* Will it be obvious to the other member why I am privately contacting them? If not, should I provide context such as a public post?
+* Could this message be considered unsolicited spam? If so, should you be sending it?
+
 ## Not For Profit (Mostly)
 
 This is not a place for obvious commercial activities such as recruiting, marketing, or other solicitation, except in channels dedicated to that purpose.
@@ -91,6 +100,8 @@ Examples of channels which currently explicitly allow commercial activity includ
 Some geographically-focused channels have a higher tolerance for specific kinds of commercial activity focused on events based in that region. Again, read the room. 
 
 In channels where commercial activity is allowed, it is just as unwelcome to post an unrelated commercial offering as it is to post in non-commercial channels.
+
+Commercial requests via direct messages (“DM”) without prior and/or obvious consent from the receiver are prohibited.
 
 ## Resolve Peacefully
 
