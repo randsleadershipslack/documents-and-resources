@@ -88,9 +88,8 @@ Commercial activity is allowed in these channels:
 
 * #conferences
 * #consulting-gigs
-* #forsale
-* #ibuiltsomething
-* #iwrotesomething
+* #i-built-something
+* #i-wrote-something
 * #jobs
 * #remote-jobs
 * #services
