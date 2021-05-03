@@ -97,7 +97,7 @@ Commercial activity is allowed in these channels:
 * #watches
 * #wedidit
 
-Some geographically-focused channels have a higher tolerance for specific kinds of commercial activity focused on events based in that region. Again, read the room. If you'd like to request approval for a channel to be listed as commercial, please contact the Admins. 
+Some geographically-focused channels have a higher tolerance for specific kinds of commercial activity focused on events based in that region. Again, read the room. If you'd like to request approval for a channel to be listed as commercial, please contact the [Admins](#administrators). 
 
 In channels where commercial activity is allowed, it is just as unwelcome to post an unrelated commercial offering as it is to post in non-commercial channels.
 
