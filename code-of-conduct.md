@@ -97,7 +97,7 @@ Commercial activity is allowed in these channels:
 * #watches
 * #wedidit
 
-Some geographically-focused channels have a higher tolerance for specific kinds of commercial activity focused on events based in that region. Again, read the room.
+Some geographically-focused channels have a higher tolerance for specific kinds of commercial activity focused on events based in that region. Again, read the room. If you'd like to request approval for a channel to be listed as commercial, please contact the Admins. 
 
 In channels where commercial activity is allowed, it is just as unwelcome to post an unrelated commercial offering as it is to post in non-commercial channels.
 
@@ -125,7 +125,7 @@ If you feel a message should be deleted, please refer to our overview of [Deleti
 
 ## Administrators
 
-The Administrator(s) of Rands Leadership as of November 2020:
+The Administrator(s) of Rands Leadership as of May 2021:
 
 * @mcole
 * @okterok 
@@ -146,4 +146,4 @@ Thanks to [Tantek Çelik](http://tantek.com/), and the other organizers of [Indi
 
 This Code of Conduct is released under the [CC0 public domain license](https://creativecommons.org/publicdomain/zero/1.0/).
 
-V3.00 of this Code of Conduct was published on December 26th, 2020.
+V3.01 of this Code of Conduct was published on May 3, 2021.
