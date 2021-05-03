@@ -65,25 +65,24 @@ A direct message (“DM”) is a private message to one or more other members. S
 
 ## Not For Profit (Mostly)
 
-This is not a place for obvious commercial activities such as recruiting, marketing, or other solicitation, except in channels dedicated to that purpose.
+This is not a place for obvious commercial activities such as recruiting, marketing, and other solicitation, except in channels dedicated to that purpose. If you join this community simply to take value rather than contribute, the community will quickly notice and react.
 
-If you join this community simply to take value rather than contribute, the community will quickly notice and react. A recurring example of this type of behavior is your first non-introductory post to the community including marketing, survey, or other obvious commercial activity. Non-obvious and quasi-commerical activity includes (but is not limited to) well-intentioned user surveys of a specific channel, responding to a request for tools or services with information about a company, or posts which are blatantly fronts for commercial interests. 
+While obvious commercial behavior is easy to identify, non-obvious commercial behavior is a grey area. In general, if you are wondering if a post is commercial, our guidelines are that you:
 
-In general, our guidelines are that you:
+* Ask permission of the channel before posting a message that might be considered commercial stating clear intent for the post, and, 
+* Listen for the response of your peers in channel and act accordingly.
 
-* Ask permission of the channel before posting the solicitation or information
-* State clear intent for the purpose
-* Listen for the response of your peers in channel and act accordingly
+If after engaging with the community, you are still wondering if a specific message is commercial or not, please ask in one of the channels dedicated to helping find their way in this community such as #how-to-rands , #rands-admisn,  or #rands-slack-rules.
 
-If after productively engaging with the community, you are wondering whether a specific message is commercial or not, please ask in channel and/or calibrate in one of the channels dedicated to helping people find their way in this community (#how-to-rands or #rands-slack-rules).
+### Surveys
 
-In the case of surveys, there is an additional set of requirements. Members interested in surveying a channel must clearly state in the channel they intend to survey:
+We’ve received many requests to run surveys in specific channels. Members interested in surveying a channel must clearly state in the channel they intend to survey: 
 
 1. The goal of the survey
 2. How the data will be used
 3. When and how the results will be shared with the channel
 
-Examples of channels which currently explicitly allow commercial activity include:
+### Approved Commercial Channels 
 
 * #conferences
 * #consulting-gigs
@@ -96,7 +95,7 @@ Examples of channels which currently explicitly allow commercial activity includ
 * #watches
 * #wedidit
 
-Some geographically-focused channels have a higher tolerance for specific kinds of commercial activity focused on events based in that region. Again, read the room. 
+Some geographically-focused channels have a higher tolerance for specific kinds of commercial activity focused on events based in that region. Again, read the room.
 
 In channels where commercial activity is allowed, it is just as unwelcome to post an unrelated commercial offering as it is to post in non-commercial channels.
 
