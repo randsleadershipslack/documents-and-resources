@@ -33,7 +33,7 @@ Respectful behavior includes but is not limited to:
 
 * Be considerate, kind, constructive, and helpful.
 * Avoid demeaning, discriminatory, harassing, hateful, or physically threatening behavior, speech, and imagery.
-* If you’re not sure, ask someone instead of assuming. No, really. Just ask the Administrators. We’d rather hear from you than hear about something you said or did after the fact, and we are here to help.
+* If you’re not sure, ask someone instead of assuming. No, really. Just ask the [Administrators](#administrators). We’d rather hear from you than hear about something you said or did after the fact, and we are here to help.
 * Don’t be a bystander, be a leader. Role model respectful behaviour, but also help to address disrespect when you see it. 
 
 Disrespectful behavior outside this community by active members may be considered a violation of this code of conduct at the discretion of the Administrators.
