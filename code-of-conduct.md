@@ -67,7 +67,7 @@ A direct message (“DM”) is a private message to one or more other members. S
 
 ## Not For Profit (Mostly)
 
-This is not a place for obvious commercial activities such as recruiting, marketing, and other solicitation, except in channels dedicated to that purpose. If you join this community simply to take value rather than contribute, the community will quickly notice and react.
+This is not a place for obvious commercial activities such as recruiting, lead generation, marketing, and other solicitation, except in channels dedicated to that purpose. If you join this community simply to take value rather than contribute, the community will quickly notice and react.
 
 While obvious commercial behavior is easy to identify, non-obvious commercial behavior is a grey area. In general, if you are wondering if a post is commercial, our guidelines are that you:
 
