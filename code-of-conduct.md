@@ -74,7 +74,7 @@ While obvious commercial behavior is easy to identify, non-obvious commercial be
 * Ask permission of the channel before posting a message that might be considered commercial stating clear intent for the post, and, 
 * Listen for the response of your peers in channel and act accordingly.
 
-If after engaging with the community, you are still wondering if a specific message is commercial or not, please ask in one of the channels dedicated to helping find their way in this community such as #how-to-rands , #rands-admisn,  or #rands-slack-rules.
+If after engaging with the community, you are still wondering if a specific message is commercial or not, please ask in one of the channels dedicated to helping find their way in this community such as #how-to-rands , #rands-admins,  or #rands-slack-rules.
 
 ### Surveys
 
