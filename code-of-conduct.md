@@ -137,13 +137,13 @@ The Administrator(s) of Rands Leadership as of May 2021:
 
 You can contact them directly or posting in the #rands-admins channel with your questions or concerns. 
 
-The current term of the volunteer Administrations is November 2nd, 2020 until November 2nd, 2021.
+The current term of the volunteer Administrators is November 2nd, 2020 until November 2nd, 2021.
 
 ## Thanks for Being Here
 
 Thank you to every Rands Leadership Slack community member for helping to make our home the respectful and inclusive community that it is.
 
-Thanks to [Tantek Çelik](http://tantek.com/), and the other organizers of [IndieWebCamp](http://indiewebcamp.com/) for creating and sharing the [Code of Conduct](http://indiewebcamp.com/code-of-conduct) on which this one is based. If you question the need for a Code of Conduct, please see [this](http://indiewebcamp.com/code-of-conduct-why).
+Thanks to [Tantek Çelik](http://tantek.com/), and the other organizers of [IndieWebCamp](http://indiewebcamp.com/) for creating and sharing the [Code of Conduct](http://indiewebcamp.com/code-of-conduct) on which this one was initially based. If you question the need for a Code of Conduct, please see [this](http://indiewebcamp.com/code-of-conduct-why).
 
 This Code of Conduct is released under the [CC0 public domain license](https://creativecommons.org/publicdomain/zero/1.0/).
 
