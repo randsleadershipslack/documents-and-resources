@@ -139,6 +139,20 @@ You can contact them directly or posting in the #rands-admins channel with your 
 
 The current term of the volunteer Administrators is November 2nd, 2020 until November 2nd, 2021.
 
+## Administrator Information Access
+
+As part of the role, Administrators have information not available to all users. This information includes:
+
+* Email addresses provided by a member as part of our sign-up process.
+* Information contained within member requests to join the community. This might include email, bane, and occupation.
+* Access log information provided by the Slack administrator interface. This includes name, login times, login device, and IP.
+
+Administrators do not have access to private channels unless they are a member of that channel.
+
+As part of Code of Conduct investigations, Administrators may choose to access this information. Administrators may also request information from private channels from current channel members to investigate a Code of Conduction violation.
+
+Administrators may use the above information as part of a Code of Conduct investigation. Usage of this information unrelated to administrator work is forbidden and will be treated as a Code of Conduct violation.
+
 ## Thanks for Being Here
 
 Thank you to every Rands Leadership Slack community member for helping to make our home the respectful and inclusive community that it is.
