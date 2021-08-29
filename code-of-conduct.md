@@ -144,7 +144,7 @@ The current term of the volunteer Administrators is November 2nd, 2020 until Nov
 As part of the role, Administrators have information not available to all users. This information includes:
 
 * Email addresses provided by a member as part of our sign-up process.
-* Information contained within member requests to join the community. This might include email, bane, and occupation.
+* Information contained within member requests to join the community. This might include email, name, and occupation.
 * Access log information provided by the Slack administrator interface. This includes name, login times, login device, and IP.
 
 Administrators do not have access to private channels unless they are a member of that channel.
