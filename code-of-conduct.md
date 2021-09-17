@@ -161,4 +161,4 @@ Thanks to [Tantek Çelik](http://tantek.com/), and the other organizers of [Indi
 
 This Code of Conduct is released under the [CC0 public domain license](https://creativecommons.org/publicdomain/zero/1.0/).
 
-V3.02 of this Code of Conduct was published on August 29th, 2002.
+V3.02 of this Code of Conduct was published on August 29th, 2021.
