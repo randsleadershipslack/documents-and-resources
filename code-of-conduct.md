@@ -86,7 +86,7 @@ We’ve received many requests to run surveys in specific channels. Members inte
 
 ### Approved Commercial Channels 
 
-Commercial activity is allowed in these channels: 
+On-top and relevant commercial activity is allowed in these channels: 
 
 * #conferences
 * #consulting-gigs
