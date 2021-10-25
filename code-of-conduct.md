@@ -76,14 +76,6 @@ While obvious commercial behavior is easy to identify, non-obvious commercial be
 
 If after engaging with the community, you are still wondering if a specific message is commercial or not, please ask in one of the channels dedicated to helping find their way in this community such as #how-to-rands , #rands-admins,  or #rands-slack-rules.
 
-### Surveys
-
-We’ve received many requests to run surveys in specific channels. Members interested in surveying a channel must clearly state in the channel they intend to survey: 
-
-1. The goal of the survey
-2. How the data will be used
-3. When and how the results will be shared with the channel
-
 ### Approved Commercial Channels 
 
 On-top and relevant commercial activity is allowed in these channels: 
@@ -103,6 +95,14 @@ Some geographically-focused channels have a higher tolerance for specific kinds 
 In channels where commercial activity is allowed, it is just as unwelcome to post an unrelated commercial offering as it is to post in non-commercial channels.
 
 Commercial requests via direct messages (“DM”) without prior and/or obvious consent from the receiver are prohibited.
+
+### Surveys
+
+We’ve received many requests to run surveys in specific channels. Members interested in surveying a channel must clearly state in the channel they intend to survey: 
+
+1. The goal of the survey
+2. How the data will be used
+3. When and how the results will be shared with the channel
 
 ## Resolve Peacefully
 
