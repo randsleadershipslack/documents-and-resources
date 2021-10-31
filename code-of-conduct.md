@@ -60,7 +60,7 @@ Posting the same message to multiple channels is spamming. Don't spam.
 
 ## Direct Message Etiquette
 
-A direct message (“DM”) is a private message to one or more other members. Sending a DM to another member who you don’t know might be jarring for the receiver. Prior to sending a DM to member you’ve never contacted, consider the following:
+A direct message (“DM”) is a private message to one or more other members. Sending a DM to another member who you don’t know might be jarring for the receiver. Prior to sending a DM to a member you’ve never contacted, consider the following:
 
 * Will it be obvious to the other member why I am privately contacting them? If not, should I provide context such as a public post?
 * Could this message be considered unsolicited spam? If so, should you be sending it?
