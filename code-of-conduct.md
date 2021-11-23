@@ -126,18 +126,18 @@ If you feel a message should be deleted, please refer to our overview of [Deleti
 
 ## Administrators
 
-The Administrator(s) of Rands Leadership as of May 2021:
+The Administrator(s) of Rands Leadership as of November 2021:
 
 * @mcole
 * @okterok 
 * @erin.disselhorst 
-* @cjhuitt
-* @supine
+* @alden
+* @Ian Fette
 * @rands (also the workspace owner)
 
 You can contact them directly or posting in the #rands-admins channel with your questions or concerns. 
 
-The current term of the volunteer Administrators is November 2nd, 2020 until November 2nd, 2021.
+The current term of the volunteer Administrators is November 23rd, 2020 until November 30th, 2022.
 
 ## Administrator Information Access
 
@@ -161,4 +161,4 @@ Thanks to [Tantek Çelik](http://tantek.com/), and the other organizers of [Indi
 
 This Code of Conduct is released under the [CC0 public domain license](https://creativecommons.org/publicdomain/zero/1.0/).
 
-V3.02 of this Code of Conduct was published on August 29th, 2002.
+V3.03 of this Code of Conduct was published on November 23, 2021.
