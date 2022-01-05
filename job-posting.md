@@ -1,4 +1,4 @@
-Thanks for your job post on the Rands Leadership Slack. We ask that folks sourcing candidates from our community include the following information in their job posting without requiring a click on a link:
+Here's the complete list of details we like to see in a job post: 
 
 * A brief description of your company, and the title/role of the job.
 * Distributed friendliness: Permanently distributed, just pandemic-distributed, in-office or blend.
