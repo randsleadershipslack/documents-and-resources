@@ -78,7 +78,7 @@ If after engaging with the community, you are still wondering if a specific mess
 
 ### Approved Commercial Channels 
 
-On-top and relevant commercial activity is allowed in these channels: 
+On-topic and relevant commercial activity is allowed in these channels: 
 
 * #conferences
 * #consulting-gigs
@@ -108,7 +108,7 @@ We’ve received many requests to run surveys in specific channels. Members inte
 
 As a leadership community, we believe peer-to-peer discussions, feedback, and corrections can help build a stronger, safer, more informed, and more welcoming community.
 
-If you see someone violating any part of this Code of Conduct, we urge you to respectfully dissuade them from such behavior using this document if necessary. Expect that others in the community wish to help keep the community respectful, and welcome your input in doing so.
+If you see someone violating any part of this Code of Conduct, we urge you to respectfully dissuade them from such behavior using specifics from this document if necessary. Expect that others in the community wish to help keep the community respectful, and welcome your input in doing so.
 
 If you experience disrespectful behavior toward yourself or anyone else and feel in any way unable or unwilling to respond or resolve it respectfully (for any reason), please immediately bring it to the attention of an Administrator. We want to hear from you about anything that you feel is disrespectful, threatening, or just something that could make someone feel distressed in any way. We will listen and work to resolve the matter with your help.
 
