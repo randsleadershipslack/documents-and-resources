@@ -3,16 +3,16 @@ Hi, welcome to the team. I’m so glad you are here at $COMPANY.
 
 It’s going to take a solid quarter to figure this place out. I understand the importance of first impressions, and I know you want to get a check in the win column, but this is a complex place full of equally complex humans. Take your time, meet everyone, go to every meeting, write things down, and ask all the questions – especially about all those baffling acronyms and emoji.
 
-One of the working relationships we need to define is ours. The following is a user guide for me and how I work. It captures what you can expect out of the average week working with me, how I like to work, my north star principles, and some of my, uh, nuance. My intent is to accelerate our working relationship with this document. My intent with this artifact is not to suggest how you work.[^1]
+One of the working relationships we need to define is ours. The following is a user guide for me and how I work. It captures what you can expect out of the average week working with me, how I like to work, my north star principles, and some of my, uh, nuance. My intent is to accelerate our working relationship with this document. My intent with this artifact is not to suggest how you should work.[^1]
 
 ## Our Average Week
 We’ll have a 1:1 every week for at least 30 minutes except during HIGH ALERT (See below). This meeting discusses topics of substance, not updates. I’ve created a private Slack channel for the two us of to capture future topics for our 1:1s as well as to provide a handy historic record of what we’ve discussed. When you or I think of a topic, we dump it in that channel. 
 
 We’ll have a staff meeting with your peers every week for 60 minutes no matter what. Unlike 1:1s, we have a shared document which captures agenda topics for the entire team. Similar to 1:1s, we aren’t discussing status at this meeting, but issues of substance that affect the whole team.
 
-You can Slack me 24 hours a day. I like responding quickly.
+You can Slack me 24 hours a day. It's my preferred communication medium. I like responding quickly.
 
-If I am traveling, I will give you notice of said travel in advance. All our meetings still occur albeit with time zone considerations.
+If I am traveling, I will give you notice of said travel in advance. If this is professional trip, all our meetings still occur albeit with time zone considerations.
 
 I work a bit on the weekends. This is my choice. **I do not expect that you are going to work on the weekend.** I might Slack you things, but unless the thing says URGENT, it can always wait until work begins for you on Monday.
 
@@ -29,20 +29,22 @@ I take vacations. You should, too. Disconnected from work is when I do some of m
 
 **I heavily bias towards action.** Long meetings where we are endlessly debating potential directions are often valuable, but I believe starting is the best way to begin learning and make progress. This is not always the correct strategy. This strategy annoys those who like to debate.
 
+**I default to delegation.** I believe the delegation of increasingly large, complex, and high risk projects to my team is the correct way to build trust and grow the team. If you feel a thing I've delegated to you is too large, complex, or risky, you should tell me and I will help. You should know that I would not make this delegation choice if I did not believe you would be successful. 
+
 **I believe in the compounding awesomeness of continually fixing small things.** I believe quality assurance is everyone’s responsibility and there are bugs to be fixed everywhere… all the time.
 
 **I start with an assumption of positive intent for all involved.** This has worked out well for me over my career. 
 
-**I need you to know that sometimes we are in HIGH ALERT and things will get strange.** There is an exception to many of my practices and principles and that is when we are in a HIGH ALERT situation. HIGH ALERT conditions usually involve existential threats to our company. During this time, my usual people, process, and product protocols are secondary to countering this threat. If it is not obvious, I will alert you that I am in this state along with my best guess of when we'll be done. If I am constantly in this state, something is fundamentally broken. 
+**I need you to know that sometimes we are in HIGH ALERT and things will get strange.** There is an exception to many of my practices and principles and that is when we are in a HIGH ALERT situation. HIGH ALERT conditions usually involve existential threats to our product, team, and/or company. During this time, my usual people, process, and product protocols are secondary to countering this threat. If it is not obvious, I will alert you that I am in this state along with my best guess of when we'll be done. If I am constantly in this state, something is fundamentally broken. You should tell me this. I might be so busy that I need the reminder.  
 
 ## Feedback Protocol
-I firmly believe that feedback is at the core of building trust and respect in a team.
+I firmly believe that feedback (along with delegation) is at the core of building trust and respect in a team.
 
 At $COMPANY, there is a formal feedback cycle which occurs twice a year. The first time we go through this cycle, we’ll draft a proposed set of [OKRs](https://en.wikipedia.org/wiki/OKR) for you for the next review period. These are not product or technology OKRs; these are professional growth OKRs for you. I’ll send you these draft OKRs as well as upward feedback from your team before we meet so you can review beforehand.
 
 In our face-to-face meeting, we’ll discuss and agree on your OKRs for the next period, and I’ll ask for feedback on my performance. At our following review, the process differs thusly: I’ll review you against our prior OKRs, and I’ll introduce new OKRs (if necessary). Rinse and repeat.
 
-Review periods are not the only time we’ll exchange feedback. This will be a recurring topic in our 1:1s. I am going to ask you for feedback in 1:1s regularly. I am never going to stop doing this no matter how many times you say you have no feedback for me. I believe a healthy feedback culture is a cornerstorn of building high trust relationships. 
+Review periods are not the only time we’ll exchange feedback. This will be a recurring topic in our 1:1s. I am going to ask you for feedback in 1:1s regularly. I am never going to stop doing this no matter how many times you say you have no feedback for me. I believe building a healthy feedback culture is a cornerstone of building high trust relationships. 
 
 Disagreement is feedback and the sooner we learn how to efficiently disagree with each other, the sooner we’ll trust and respect each other more. Ideas don’t get better with agreement.
 
@@ -53,28 +55,30 @@ My definition of a meeting includes an agenda and/or intended purpose, the appro
 
 If you send me a presentation deck a reasonable amount of time before a meeting, I will read it before the meeting and will have my questions at the ready. If I haven’t read the deck, I will tell you.
 
-If a meeting completes its intended purpose before it’s scheduled to end, let’s give the time back to everyone. If it’s clear the intended goal won’t be achieved in the allotted time, let’s stop the meeting before time is up and determine how to finish the meeting later.
+If a meeting completes its intended purpose before it’s scheduled to end, let’s give the time back to everyone. If it’s clear the intended goal won’t be achieved in the allotted time, let’s stop the meeting before time is up and determine how to effectively finish the meeting later.
 
 ## Nuance and Errata
 
 **I am an introvert** and that means that prolonged exposure to humans is exhausting for me. Weird, huh? Meetings with three of us are perfect, three to eight are ok, and more than eight you will find that I am strangely quiet. Do not confuse my quiet with lack of enthusiam or engagement.
 
+**I am bad at asking for help** which is probably related to my introversion. When I do ask for help, know that I probably should have asked for help earlier and I've made the situation more dire than it needed to be. Sorry. 
+
 **When the 1:1 feels over, and there is remaining time** I always have a couple of meaty topics to discuss. This is brainstorming, and the issues are usually front-of-mind hard topics that I am processing. It might feel like we’re shooting the shit, but we’re doing real work.
 
-**When I ask you to do something that feels poorly defined** you should ask me for both clarification and a call on importance. I might still be brainstorming. These questions can save everyone a lot of time.
+**When I ask you to do something that feels poorly defined** you should ask me for both clarification and specific call on importance. I might still be brainstorming. Your clarifications can save a lot of people a lot of time. 
 
 **Ask assertive versus tell assertive.** When you need to ask me to do something, ask me. I respond incredibly well to ask assertiveness (“Rands, can you help with X?”). I respond poorly to being told what to do (“Rands, do X.”) I have been this way since I was a kid and I probably need therapy.
 
 **I can be hyperbolic** but it’s almost always because I am excited about the topic. I also swear sometimes. Sorry.
 
-**I love to start new things** but I often lose interest when I can mentally see how the thing is going to finish which might be weeks or month before the thing is actually done. Sorry. I’m working on this. 
+**I love to start new things** but I often lose interest when I can mentally see how the thing is going to finish which might be weeks or month before the thing is actually done. I attempt to solve this by pairing with humans who are strong operators and who are very good at checking things off lists. 
 
 **If I am on my phone during a meeting for more than 30 seconds, say something.** My attention wanders.
 
-**Humans stating opinions as facts** are a trigger for me
+**Humans stating opinions as facts** are a trigger for me. I will often unexpectedly jump into a conversation when I hear this to clarify opinions and facts.
 
-**Humans who gossip** are a trigger for me.
+**Humans who gossip for sport** are a trigger for me. Gossip is inevitable in large group of humans, but that doesn't make it ok or useful. 
 
-**This document is a [living breathing thing](https://github.com/randsleadershipslack/documents-and-resources/blob/master/howtorands.md)** and likely incomplete. I  update it frequently and would appreciate your feedback.
+**This document is a [living breathing thing](https://github.com/randsleadershipslack/documents-and-resources/blob/master/howtorands.md)** and likely incomplete. I update it frequently and would appreciate your feedback.
 
 [^1]: Speculation: there is an idea in this document that you’d like your manager to do. Thesis: Just because I have a practice or a belief doesn’t mean it’s the right practice or belief for your manager. Suggestion: Ask your manager if they think my practice or belief is a good idea and see what happens. Feedback is a gift. 
