@@ -27,6 +27,8 @@ Be a leader. Be respectful of other people, respectfully ask people to stop if y
 
 The Rands Leadership Slack is a community dedicated to developing the craft of leadership. We recognize and celebrate the creativity and collaboration of our independent members and the diversity of skills, talents, experiences, cultures, and opinions that they bring to your community. The Rands Leadership Slack is an inclusive environment, based on treating all individuals respectfully, regardless of gender or gender identity (including transgender status), sexual orientation, age, disability, nationality, ethnicity, religion (or lack thereof), political affiliation, or career path.
 
+Once onboard, you will likely find yourself in a popular channel with many members who sound like we’ve figured it out. We haven’t. While there is a diverse set of experience within this community, at every level of experience, we continue to learn. The daily practice of leadership is more art than science. While advice on one channel might read definitive, it is one member’s lessons interpretation and learning from their leadership experience.
+
 We value respectful behavior above individual opinions.
 
 Respectful behavior includes but is not limited to:
