@@ -88,6 +88,7 @@ On-topic and relevant commercial activity is allowed in these channels:
 * #i-built-something
 * #i-wrote-something
 * #jobs
+* #market-research
 * #remote-jobs
 * #services
 * #watches
