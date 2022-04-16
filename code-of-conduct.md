@@ -165,4 +165,4 @@ Thanks to [Tantek Çelik](http://tantek.com/), and the other organizers of [Indi
 
 This Code of Conduct is released under the [CC0 public domain license](https://creativecommons.org/publicdomain/zero/1.0/).
 
-V3.03 of this Code of Conduct was published on November 23, 2021.
+V3.04 of this Code of Conduct was published on April 16, 2022. You can see all prior versions of this artifact [here](https://github.com/randsleadershipslack/documents-and-resources/commits/main/code-of-conduct.md).
