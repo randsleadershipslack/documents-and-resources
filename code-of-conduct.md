@@ -49,7 +49,7 @@ If you want to publicly disclose anything discussed here in a public channel, us
 
 For attribution of specific content found on this Slack on public channels, we ask that you ask the originator of the content for permission. If you don’t receive consent in a reasonable period of time, we ask that you credit the “Rands Leadership Slack.”
 
-Sharing of content from private channels is discouraged. 
+Sharing of content from private channels is discouraged without permission of private channel participants.  
 
 ## Read the Room
 
