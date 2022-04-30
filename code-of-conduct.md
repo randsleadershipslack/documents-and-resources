@@ -43,7 +43,7 @@ Disrespectful behavior outside this community by active members may be considere
 
 ## Privacy
 
-This community is not a public space. However, no one has signed an non-disclosure agreement (“NDA”) to participate, and you should not presume anything you say here will remain private, so act accordingly. Protect IP and legally-protected information.
+This community is not a public space. However, no one has signed a non-disclosure agreement (“NDA”) to participate, and you should not presume anything you say here will remain private, so act accordingly. Protect IP and legally-protected information.
 
 If you want to publicly disclose anything discussed here in a public channel, use the [Chatham House Rule](https://www.chathamhouse.org/about/chatham-house-rule) as the guideline (“participants are free to use the information received, but neither the identity nor the affiliation of the speaker(s), nor that of any other participant, may be revealed”). 
 
@@ -53,7 +53,7 @@ Sharing of content from private channels is discouraged without permission of pr
 
 ## Read the Room
 
-This is large community with a great many different humans populating hundreds of channels. Different channels have organically developed different personalities. We suggest that before posting in a channel with hundreds of members that you take the time read the room. Specifically:
+This is a large community with a great many different humans populating hundreds of channels. Different channels have organically developed different personalities. We suggest that before posting in a channel with hundreds of members that you take the time read the room. Specifically:
 
 * Read the last couple days of messages.
 * Examine the channel topic for helpful tips.
