@@ -153,7 +153,7 @@ As part of the role, Administrators have information not available to all users.
 
 Administrators do not have access to private channels unless they are a member of that channel.
 
-As part of Code of Conduct investigations, Administrators may choose to access this information. Administrators may also request information from private channels from current channel members to investigate a Code of Conduction violation.
+As part of Code of Conduct investigations, Administrators may choose to access this information. Administrators may also request information from private channels from current channel members to investigate a Code of Conduct violation.
 
 Administrators may use the above information as part of a Code of Conduct investigation. Usage of this information unrelated to administrator work is forbidden and will be treated as a Code of Conduct violation.
 
