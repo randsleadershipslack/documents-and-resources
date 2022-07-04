@@ -61,7 +61,7 @@ This is a large community with a great many different humans populating hundreds
 * Examine the channel topic for helpful tips.
 * Click on the channel details and read the about section, get a sense for how many members are present, and what messages have already been pinned and what files have been shared.
 
-**Consquence**: Posting the same message to multiple channels is spamming. Don't spam. 
+**Consquence**: Posting the same message to multiple channels is spamming. Don't spam. It's a Code of Conduction violation. 
 
 ## Direct Message Etiquette
 
