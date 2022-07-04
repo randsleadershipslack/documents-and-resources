@@ -132,7 +132,7 @@ If you cannot resolve a situation peacefully, please refer to our [Incident Proc
 
 If the Administrators determine that a member is violating any part of this Code of Conduct, the Administrators may take any action they deem appropriate, up to and including expulsion and exclusion from the Rands Leadership Slack. 
 
-As Administrators, we will seek to resolve conflicts peacefully and in a manner that is positive for the community. This Code of Conduct docuemnts common situations we've seen to date, but we can't foresee every situation. If, in the Administrator's judgment, the best thing to do is to ask a disrespectful individual to leave, we will do so.
+As Administrators, we will seek to resolve conflicts peacefully and in a manner that is positive for the community. This Code of Conduct documents common situations we've seen to date, but we can't foresee every situation. If, in the Administrator's judgment, the best thing to do is to ask a disrespectful individual to leave, we will do so.
 
 ## Administrators
 
