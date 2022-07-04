@@ -27,9 +27,7 @@ Be respectful of other people, respectfully ask people to stop if you are bother
 
 ## Respect
 
-The Rands Leadership Slack is an encouraging community dedicated to developing the craft of leadership. We recognize and celebrate the creativity and collaboration of our independent members and the diversity of skills, talents, experiences, cultures, and opinions that they bring to the community. The Rands Leadership Slack is an inclusive environment, based on treating all individuals respectfully, regardless of gender or gender identity (including transgender status), sexual orientation, age, disability, nationality, ethnicity, religion (or lack thereof), political affiliation, or career path.
-
-Once onboard, you will likely find yourself in a popular channel with many members who sound like we’ve figured it out. We haven’t. While there is a diverse set of experience within this community, at every level of experience, we continue to learn. The daily practice of leadership is more art than science. While advice on one channel might read definitive, it is one member’s lessons interpretation and learning from their leadership experience.
+The Rands Leadership Slack is an encouraging community dedicated to developing the craft of leadership. The Rands Leadership Slack is an inclusive environment, based on treating all individuals respectfully, regardless of gender or gender identity (including transgender status), sexual orientation, age, disability, nationality, ethnicity, religion (or lack thereof), political affiliation, or career path.
 
 We value respectful behavior above individual opinions.
 
@@ -37,11 +35,9 @@ Respectful behavior includes but is not limited to:
 
 * Be considerate, kind, constructive, and helpful.
 * Avoid demeaning, discriminatory, harassing, hateful, or physically threatening behavior, speech, and imagery.
-* If you’re not sure, ask someone instead of assuming. No, really. Just ask the [Administrators](#administrators). We’d rather hear from you than hear about something you said or did after the fact, and we are here to help.
+* If you’re unclear if a communcation, action or behavior is respectful, ask someone instead of assuming. No, really. Just ask the [Administrators](#administrators) either publicly or privately. We’d rather hear from you than hear about something you said or did after the fact, and we are here to help.
 
-Don’t be a bystander, be a leader. Role model respectful behaviour, but also help to address disrespect when you see it. 
-
-Disrespectful behavior outside this community by active members may be considered a violation of this code of conduct at the discretion of the Administrators.
+Don’t be a bystander, be a leader. Role model respectful behaviour, but also help to address disrespect when you see it within your community. 
 
 ## Privacy
 
@@ -54,6 +50,8 @@ For attribution of specific content found on this Slack on public channels, we a
 Sharing of content from private channels is discouraged without permission of private channel participants.  
 
 ## Read the Room
+
+Once onboard, you will likely find yourself in a popular channel with many members who sound like we’ve figured it out. We haven’t. While there is a diverse set of experience within this community, at every level of experience, we continue to learn. The daily practice of leadership is more art than science. While advice on one channel might read definitive, it is one member’s lessons interpretation and learning from their leadership experience.
 
 This is a large community with a great many different humans populating hundreds of channels. Different channels have organically developed different personalities. We suggest that before posting in a channel with hundreds of members that you take the time read the room. Specifically:
 
@@ -121,6 +119,10 @@ If you experience disrespectful behavior toward yourself or anyone else and feel
 Should you catch yourself behaving disrespectfully, or be confronted as such, listen intently, own up to your words and actions, and apologize accordingly. No one is perfect, and even well-intentioned people make mistakes. What matters is how you handle them and that you avoid repeating them in the future. We are here to learn.
 
 ## Consequences
+
+Recurring issues:
+
+* Disrespectful behavior outside this community by active members may be considered a violation of this code of conduct at the discretion of the Administrators.
 
 If you are unable to resolve a situation peacefully, please refer to our [Incident Process](https://github.com/randsleadershipslack/documents-and-resources/blob/master/incident-process.md) and choose a course of action that suits the situation.
 
