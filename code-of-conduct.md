@@ -19,13 +19,15 @@ The Rands Leadership Slack ("RLS") is an online community dedicated to the craft
 
 # The Short Version
 
-Be a leader. Be respectful of other people, respectfully ask people to stop if you are bothered; respect privacy; understand we’re mostly not-for-profit; and if you can’t resolve an issue with someone else you should contact the Administrators. If you are being a problem, it will be made clear to you, and you may be asked to leave the Rands Leadership Slack.
+Be a leader. 
+
+Be respectful of other people, respectfully ask people to stop if you are bothered; respect privacy; understand this community is mostly not-for-profit, attempt to resolve isues without Adminstreations, but if you can’t resolve an issue you can the Administrators. If you are violating this Code of Conduct, it will be made clear to you, and you may be asked to leave the Rands Leadership Slack.
 
 # The Long Version
 
 ## Respect
 
-The Rands Leadership Slack is a community dedicated to developing the craft of leadership. We recognize and celebrate the creativity and collaboration of our independent members and the diversity of skills, talents, experiences, cultures, and opinions that they bring to your community. The Rands Leadership Slack is an inclusive environment, based on treating all individuals respectfully, regardless of gender or gender identity (including transgender status), sexual orientation, age, disability, nationality, ethnicity, religion (or lack thereof), political affiliation, or career path.
+The Rands Leadership Slack is an encouraging community dedicated to developing the craft of leadership. We recognize and celebrate the creativity and collaboration of our independent members and the diversity of skills, talents, experiences, cultures, and opinions that they bring to the community. The Rands Leadership Slack is an inclusive environment, based on treating all individuals respectfully, regardless of gender or gender identity (including transgender status), sexual orientation, age, disability, nationality, ethnicity, religion (or lack thereof), political affiliation, or career path.
 
 Once onboard, you will likely find yourself in a popular channel with many members who sound like we’ve figured it out. We haven’t. While there is a diverse set of experience within this community, at every level of experience, we continue to learn. The daily practice of leadership is more art than science. While advice on one channel might read definitive, it is one member’s lessons interpretation and learning from their leadership experience.
 
