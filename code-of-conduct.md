@@ -163,7 +163,7 @@ As part of Code of Conduct investigations, Administrators may choose to access t
 
 Administrators may use the above information as part of a Code of Conduct investigation. Usage of this information unrelated to administrator work is forbidden and will be treated as a Code of Conduct violation.
 
-## Thanks for Being Here
+## Thanks
 
 Thank you to every Rands Leadership Slack community member for helping make our home the respectful and inclusive community it is.
 
