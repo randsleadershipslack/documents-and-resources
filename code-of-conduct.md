@@ -61,7 +61,7 @@ This is a large community with many different humans populating hundreds of chan
 * Examine the channel topic for helpful tips.
 * Click on the channel details and read the about section to get a sense of how many members are present, what messages have already been pinned, and what files have been shared.
 
-**Consequence**: Posting the same message to multiple channels is spamming. Don't spam. It's a Code of Conduction violation. 
+**Consequence**: Posting the same message to multiple channels is spamming. Don't spam. 
 
 ## Direct Message Etiquette
 
@@ -83,7 +83,9 @@ While obvious commercial behavior is easy to identify, non-obvious commercial be
 
 If, after engaging with the community, you are still wondering if a specific message is commercial or not, please ask in one of the channels dedicated to helping find their way in this community, such as #how-to-rands , #rands-admins,  or #rands-slack-rules.
 
-**Consequence:** As this community grows, our tolerance for unsolicited Commerical behavior decreases. 
+As this community grows, our tolerance for unsolicited Commerical behavior decreases. 
+
+**Consequence**: Emailing members with unsolicited commercial offers based on information acquired within the community is a Code of Conduct violation. 
 
 ### Approved Commercial Channels 
 
