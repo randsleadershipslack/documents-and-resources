@@ -39,6 +39,8 @@ Respectful behavior includes but is not limited to:
 
 Don’t be a bystander, be a leader. Role model respectful behaviour, but also help to address disrespect when you see it within your community. 
 
+**Consquence**: Disrespectful behavior outside this community by active members may be considered a violation of this code of conduct at the discretion of the Administrators.
+
 ## Privacy
 
 This community is not a public space. However, no one has signed a non-disclosure agreement (“NDA”) to participate, and you should not presume anything you say here will remain private, so act accordingly. Protect IP and legally-protected information.
@@ -47,7 +49,7 @@ If you want to publicly disclose anything discussed here in a public channel, us
 
 For attribution of specific content found on this Slack on public channels, we ask that you ask the originator of the content for permission. If you don’t receive consent in a reasonable period of time, we ask that you credit the “Rands Leadership Slack.”
 
-Sharing of content from private channels is discouraged without permission of private channel participants.  
+**Consquence**: Sharing of content from private channels is discouraged without permission of private channel participants.  
 
 ## Read the Room
 
@@ -59,7 +61,7 @@ This is a large community with a great many different humans populating hundreds
 * Examine the channel topic for helpful tips.
 * Click on the channel details and read the about section, get a sense for how many members are present, and what messages have already been pinned and what files have been shared.
 
-Posting the same message to multiple channels is spamming. Don't spam. 
+**Consquence**: Posting the same message to multiple channels is spamming. Don't spam. 
 
 ## Direct Message Etiquette
 
@@ -67,6 +69,8 @@ A direct message (“DM”) is a private message to one or more other members. S
 
 * Will it be obvious to the other member why I am privately contacting them? If not, should I provide context such as a public post?
 * Could this message be considered unsolicited spam? If so, should you be sending it?
+
+**Consquence**: Unsolicited DMs especially with a commercial flavor are likely Code of Conduct violations. 
 
 ## Not For Profit (Mostly)
 
@@ -119,10 +123,6 @@ If you experience disrespectful behavior toward yourself or anyone else and feel
 Should you catch yourself behaving disrespectfully, or be confronted as such, listen intently, own up to your words and actions, and apologize accordingly. No one is perfect, and even well-intentioned people make mistakes. What matters is how you handle them and that you avoid repeating them in the future. We are here to learn.
 
 ## Consequences
-
-Recurring issues:
-
-* Disrespectful behavior outside this community by active members may be considered a violation of this code of conduct at the discretion of the Administrators.
 
 If you are unable to resolve a situation peacefully, please refer to our [Incident Process](https://github.com/randsleadershipslack/documents-and-resources/blob/master/incident-process.md) and choose a course of action that suits the situation.
 
