@@ -118,7 +118,7 @@ We've received many requests to run surveys in specific channels. Members intere
 2. How the data will be used
 3. When and how the results will be shared with the channel
 
-**Consequence**: Survey posted without considering the above guidelines are considered Code of Conduct violations.
+**Consequence**: Surveys posted without considering the above guidelines are considered a Code of Conduct violation.
 
 ## Resolve Peacefully
 
