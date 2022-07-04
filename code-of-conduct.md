@@ -116,6 +116,8 @@ We've received many requests to run surveys in specific channels. Members intere
 2. How the data will be used
 3. When and how the results will be shared with the channel
 
+**Consequence**: Survey posted without considering the above guidelines are considered Code of Conduct violations.
+
 ## Resolve Peacefully
 
 As a leadership community, we believe peer-to-peer discussions, feedback, and corrections can help build a stronger, safer, more informed, and more welcoming community.
