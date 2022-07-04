@@ -12,7 +12,7 @@ The Rands Leadership Slack ("RLS") is an online community dedicated to the craft
   * [Direct Message Etiquette](#direct-message-etiquette)
   * [Not for Profit](#not-for-profit-mostly)
   * [Resolve Peacefully](#resolve-peacefully)
-- [Consequences](#consequences)
+- [Consequences](#additional-consequences)
   * [Incident Process](https://github.com/randsleadershipslack/documents-and-resources/blob/master/incident-process.md)
   * [Deleting Content](https://github.com/randsleadershipslack/documents-and-resources/blob/master/deleting-content.md)
 - [Administrators](#administrators)
@@ -102,9 +102,11 @@ On-topic and relevant commercial activity is allowed in these channels:
 
 Some geographically-focused channels have a higher tolerance for specific kinds of commercial activity focused on events based in that region. Again, read the room. If you'd like to request approval for a channel to be listed as commercial, please contact the [Adminstrators](#administrators). 
 
-In channels where commercial activity is allowed, it is just as unwelcome to post an unrelated commercial offering as it is to post in non-commercial channels.
+**Consequence**: In channels where commercial activity is allowed, it is just as unwelcome to post an unrelated commercial offering as it is to post in non-commercial channels.
 
-Commercial requests via direct messages ("DM") without prior and/or obvious consent from the receiver are prohibited.
+**Consequence**: Commercial requests via direct messages ("DM") without prior and/or obvious consent from the receiver are prohibited.
+
+**Consequence**: If you feel a message should be deleted, please refer to our overview of [Deleting Content](https://github.com/randsleadershipslack/documents-and-resources/blob/master/deleting-content.md).
 
 ### Surveys
 
@@ -118,21 +120,19 @@ We've received many requests to run surveys in specific channels. Members intere
 
 As a leadership community, we believe peer-to-peer discussions, feedback, and corrections can help build a stronger, safer, more informed, and more welcoming community.
 
-If you see someone violating any part of this Code of Conduct, we urge you to respectfully dissuade them from such behavior using specifics from this document if necessary. Expect that others in the community wish to help keep the community respectful and welcome your input.
+If you see someone violating any part of this Code of Conduct, we urge you to respectfully dissuade them from such behavior using specifics from this document as guidelines. Expect that others in the community wish to help keep the community respectful and welcome your input.
 
-If you experience disrespectful behavior toward yourself or anyone else and feel unable or unwilling to respond or resolve it respectfully (for any reason), please immediately bring it to the attention of an Administrator. We want to hear from you about anything that you feel is disrespectful, threatening, or just something that could make someone feel distressed. We will listen and work to resolve the matter with your help.
+If you experience disrespectful behavior toward yourself or anyone else and feel unable or unwilling to respond or resolve it respectfully (for any reason), please immediately bring it to the attention of an Administrator. We want to hear from you about anything that you feel is disrespectful, threatening, or just something that could make someone feel distressed. We will listen and work to resolve the matter with your help promptly.
 
-Should you catch yourself behaving disrespectfully, or be confronted as such, listen intently, own up to your words and actions, and apologize accordingly. No one is perfect, and even well-intentioned people make mistakes. How you handle them and avoid repeating them in future matters. We are here to learn.
+Should you catch yourself behaving disrespectfully, or be confronted as such, listen intently, own up to your words and actions, and apologize accordingly. No one is perfect, and even well-intentioned people make mistakes. How you handle them and avoid repeating them in future matters. We are here to learn as leaders.
 
-## Consequences
+## Additional Consequences
 
 If you cannot resolve a situation peacefully, please refer to our [Incident Process](https://github.com/randsleadershipslack/documents-and-resources/blob/master/incident-process.md) and choose a course of action that suits the situation.
 
-If the Administrators determine that a human is violating any part of this Code of Conduct, the Administrators may take any action they deem appropriate within this Slack team, up to and including expulsion and exclusion from the Rands Leadership Slack. 
+If the Administrators determine that a member is violating any part of this Code of Conduct, the Administrators may take any action they deem appropriate, up to and including expulsion and exclusion from the Rands Leadership Slack. 
 
-As Administrators, we will seek to resolve conflicts peacefully and in a manner that is positive for the community. We can't foresee every situation, and thus if, in the Administrator's judgment, the best thing to do is to ask a disrespectful individual to leave, we will do so.
-
-If you feel a message should be deleted, please refer to our overview of [Deleting Content](https://github.com/randsleadershipslack/documents-and-resources/blob/master/deleting-content.md).
+As Administrators, we will seek to resolve conflicts peacefully and in a manner that is positive for the community. This Code of Conduct docuemnts common situations we've seen to date, but we can't foresee every situation. If, in the Administrator's judgment, the best thing to do is to ask a disrespectful individual to leave, we will do so.
 
 ## Administrators
 
@@ -171,4 +171,4 @@ Thanks to [Tantek Çelik](http://tantek.com/) and the other organizers of [Indie
 
 This Code of Conduct is released under the [CC0 public domain license](https://creativecommons.org/publicdomain/zero/1.0/).
 
-V3.04 of this Code of Conduct was published on April 16, 2022. You can see all prior versions of this artifact [here](https://github.com/randsleadershipslack/documents-and-resources/commits/main/code-of-conduct.md).
+V4.0 of this Code of Conduct was published on July X, 2022. You can see all prior versions of this artifact [here](https://github.com/randsleadershipslack/documents-and-resources/commits/main/code-of-conduct.md).
