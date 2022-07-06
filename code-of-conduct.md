@@ -21,7 +21,7 @@ The Rands Leadership Slack ("RLS") is an online community dedicated to the craft
 
 Be a leader. 
 
-Be respectful of others, ask people to stop if you are bothered; respect privacy; understand this community is primarily not-for-profit, and attempt to resolve issues without Administrations, but if you can't resolve an issue, you can the Administrators. If you violate this Code of Conduct, it will be made clear to you, and you may be asked to leave the Rands Leadership Slack.
+Be respectful of others, ask people to stop if you are bothered; respect privacy; understand this community is primarily not-for-profit, and attempt to resolve issues without Administrators, but if you can't resolve an issue, you can contact the Administrators. If you violate this Code of Conduct, it will be made clear to you, and you may be asked to leave the Rands Leadership Slack.
 
 # The Long Version
 
