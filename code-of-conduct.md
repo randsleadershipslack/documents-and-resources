@@ -12,7 +12,7 @@ The Rands Leadership Slack ("RLS") is an online community dedicated to the craft
   * [Direct Message Etiquette](#direct-message-etiquette)
   * [Not for Profit](#not-for-profit-mostly)
   * [Don't Be a Troll](#dont-be-a-troll)
-  * [Don't Review Process](#content-review-process)
+  * [Content Review Process](#content-review-process)
   * [Resolve Peacefully](#resolve-peacefully)
 - [Consequences](#additional-consequences)
   * [Incident Process](https://github.com/randsleadershipslack/documents-and-resources/blob/master/incident-process.md)
