@@ -136,8 +136,8 @@ The determination of whether a message is trolling is often a subjective assessm
 
 Content posted in this fashion results in a no-warning expulsion of the offending account from RLS. Trolling which does not meet this high bar is managed via the usual content review process.
 
-*Consequence:* Admins may delete messages that violate the Code of Conduct.
-*Consequence:* In non-trolling cases, the authors of those messages will be notified and may be given a chance to modify the message themselves.
+**Consequence:** Admins may delete messages that violate the Code of Conduct.
+**Consequence:** In non-trolling cases, the authors of those messages will be notified and may be given a chance to modify the message themselves.
 
 ## Content Review Process
 
