@@ -8,7 +8,7 @@ And please be assured that we do want you - _yes, you!_ - to participate. You ar
 
 ## Code of Conduct
 
-Please make sure you read and understand the RLS [Code of Conduct](https://github.com/randsleadershipslack/documents-and-resources/blob/main/code-of-conduct.md).
+Please make sure you read and understand the RLS [Code of Conduct](https://github.com/randsleadershipslack/documents-and-resources/blob/main/code-of-conduct.md). We respect it and take it quite seriously!
 
 ## Channels of Interest
 
@@ -39,7 +39,7 @@ Several channels are set up with a workflow to automatically cross-post in a dif
 Some reacjis have a specific connotation that's not immediately clear. This is a non-exhaustive list of some that tend to be used more often:
 
 - **`:raccoon:`** has various forms, and is used to indicate that someone's contribution to a discussion is off-topic. This usage predates RLS, and more context can be found [https://techcrunch.com/2017/12/04/how-slack-uses-a-raccoon-to-keep-distractions-on-slack-at-bay/?guccounter=1](here).
-- **`:royr:` and `:ohroy:`** have two use cases. The first is to use the reacji channeler on something that Roy Rapoport (the most prolific poster on RLS) has said so that it automatically cross-posts into `#royquotes`. The second is to appreciate a bit of sarcasm or a dad joke in the vein of Roy, even if he was not the one posting it. (For the latter use, the cross-posting action is still triggered, it just wasn't the main intent.)
+- **`:royr:` and `:ohroy:`** have two use cases. The first is to use the reacji channeler on something that Roy Rapoport (the most prolific poster on RLS) has said so that it automatically cross-posts into `#royquotes`. The second is to appreciate a bit of sarcasm or a dad joke in the vein of Roy, even if he was not the one posting it. (The cross-posting action is still triggered in this use, it just wasn't the main intent.)
 - **`:shields-up`, `:shields-at50:`, `:shields-down:`, and `:shields-omgbbq:`** are used to indicate someone's level of happiness (or lack thereof) with their current role. Instead of being used as reacji, people usually add them into their profile status so that it's visible next to their name or username. 
 
 ## Slackbot Custom Responses
