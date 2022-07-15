@@ -15,9 +15,9 @@ Please make sure you read and understand the RLS [Code of Conduct](https://githu
 Rands Leadership Slack has many (many) channels. We could not hope to describe all of them here, but this should help give you a starting point for finding the channel you may be looking for.
 
 - **`#how-to-rands`:** Not sure which channel is the best place for your question or post? Ask for directions here. 
-- **`#rands-*`:** Channels with the `rands-` prefix are related to the operating and particpating in RLS, such as `#rands-admins`, `#rands-slack-culture`, and `#rands-slack-rules`.
+- **`#rands-*`:** Channels with the `rands-` prefix are related to the operating and participating in RLS, such as `#rands-admins`, `#rands-slack-culture`, and `#rands-slack-rules`.
 - **`#help-and-advice`:** If there's not a more specific channel that's relevant to your topic, you can always ask in this channel. 
-- **`#anonymous-help-and-advice`:** For various reasons, there are times where someone may not feel comfortable asking for advice publicly in RLS. This channel was created to support those times and allow members to create an anonymous top-level post using a channel workflow. The donwside is that it can remove the ability to have fuller discussions, since the original poster cannot respond anonymously in threads to participate.
+- **`#anonymous-help-and-advice`:** For various reasons, there are times where someone may not feel comfortable asking for advice publicly in RLS. This channel was created to support those times and allow members to create an anonymous top-level post using a channel workflow. The donwside is that it can remove the ability to have deeper discussions, since the original poster cannot respond anonymously in threads to participate.
 - **`#lobby-*`:** Lobby channels are public channels that enable members to request admission to private channels, which would otherwise be undiscoverable. Right now only two exist, `#lobby-adoption` and `#lobby-non-binary-and-women`, and you can see past discussions about the implementation and use of `#lobby-*` channels in `#rands-slack-culture`.
 
 ## Discovering New Channels
@@ -39,7 +39,7 @@ Several channels are set up with a workflow to automatically cross-post in a dif
 Some reacjis have a specific connotation that's not immediately clear. This is a non-exhaustive list of some that tend to be used more often:
 
 - **`:raccoon:`** has various forms, and is used to indicate that someone's contribution to a discussion is off-topic. This usage predates RLS, and more context can be found [https://techcrunch.com/2017/12/04/how-slack-uses-a-raccoon-to-keep-distractions-on-slack-at-bay/?guccounter=1](here).
-- **`:royr:` and `:ohroy:`** have two use cases. The first is to use the reacji channeler on something that Roy Rapoport has said so that it automatically cross-posts into `#royquotes`. The second is to appreciate a bit of sarcasm or a dad joke in the vein of Roy, even if he was not the one posting it. (For the latter use, the cross-posting action is still triggered, it just wasn't the main intent.)
+- **`:royr:` and `:ohroy:`** have two use cases. The first is to use the reacji channeler on something that Roy Rapoport has said so that it automatically cross-posts into `#royquotes`. The second is to appreciate a bit of sarcasm or a dad joke in the vein of Roy, even if he was not the one posting it. (The cross-posting action is still triggered in this use, it just wasn't the main intent.)
 - **`:shields-up`, `:shields-at50:`, `:shields-down:`, and `:shields-omgbbq:`** are used to indicate someone's level of happiness (or lack thereof) with their current role. Instead of being used as reacji, people usually add them into their profile status so that it's visible next to their name or username. 
 
 ## Slackbot Custom Responses
