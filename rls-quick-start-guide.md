@@ -22,14 +22,14 @@ Rands Leadership Slack has many (many) channels. We could not hope to describe a
 
 - **`#how-to-rands`:** Not sure which channel is the best place for your question or post? Ask for directions here.
 - **`#rands-*`:** Channels with the `rands-` prefix are related to operating and participating in RLS, such as `#rands-admins`, `#rands-slack-culture`, and `#rands-slack-rules`.
+- **`#daily-ftw`:** This is where we celebrate our wins, and it's a great channel to get started in! Post your own wins so we can cheer you on, and join the conversations on other people's posts!
 - **`#help-and-advice`:** If there's not a more specific channel that's relevant to your question, you can always ask in this channel. 
 - **`#anonymous-help-and-advice`:** For various reasons, there are times where someone may not feel comfortable asking for advice publicly in RLS. This channel was created to support those times and allow members to create an anonymous top-level post using a channel workflow. The donwside is that it can remove the ability to have deeper discussions, since the original poster cannot respond anonymously in threads to participate.
 - **`#lobby-*`:** Lobby channels are public channels that enable members to request admission to private channels, which would otherwise be undiscoverable. Right now only two exist, `#lobby-adoption` and `#lobby-non-binary-and-women`, and you can see past discussions about the implementation and use of `#lobby-*` channels in `#rands-slack-culture`.
-- **`#daily-ftw`:** This is where we celebrate our wins, and it's a great channel to get started in! Post your own wins so we can cheer you on, and join the conversations on other people's posts!
 
 ## Discovering New Channels
 
-Here are some channels you can join that are good for helping you discover other channels (plus some of these are just nice channels to be in!):
+Here are some channels to join that are good for helping you discover other channels (plus some of these are just nice channels to be in!):
 
 - `#rands-slack-gratitude` 
 - `#dancing-penguin`
@@ -45,9 +45,9 @@ Several channels are set up with a workflow to automatically cross-post in a dif
 
 Some reacjis have a specific connotation that's not immediately clear. This is a non-exhaustive list of some that tend to be used more often:
 
-- **`:raccoon:`** has various forms, and is used to indicate that someone's contribution to a discussion is off-topic. This usage predates RLS, and more context can be found [https://techcrunch.com/2017/12/04/how-slack-uses-a-raccoon-to-keep-distractions-on-slack-at-bay/?guccounter=1](here).
+- **`:raccoon:`** has various forms, and is used to indicate that someone's contribution to a discussion is off-topic. This usage predates RLS, and more context can be found [here](https://techcrunch.com/2017/12/04/how-slack-uses-a-raccoon-to-keep-distractions-on-slack-at-bay/?guccounter=1).
 - **`:royr:` and `:ohroy:`** have two use cases. The first is to use the reacji channeler on something that Roy Rapoport (the most prolific poster on RLS) has said so that it automatically cross-posts into `#royquotes`. The second is to appreciate a bit of sarcasm or a dad joke in the spirit of Roy, even if he was not the one posting it. (The cross-posting action is still triggered in this use, it just wasn't the main intent.)
-- **`:shields-up`, `:shields-at50:`, `:shields-down:`, and `:shields-omgbbq:`** are used to indicate someone's level of happiness (or lack thereof) with their current role. Instead of being used as reacji, people usually add them into their profile status so that it's visible next to their name or username. 
+- **`:shields-up`, `:shields-at50:`, `:shields-down:`, and `:shields-omgbbq:`** refer the the progression in "job happiness" discussed in [this blog post](http://randsinrepose.com/archives/shields-down/). Instead of being used as reacji, people usually add them into their profile status so that it's visible next to their name or username. 
 
 ## Slackbot Custom Responses
 
