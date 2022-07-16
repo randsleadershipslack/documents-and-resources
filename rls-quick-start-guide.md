@@ -26,6 +26,7 @@ Rands Leadership Slack has many (many) channels. We could not hope to describe a
 - **`#help-and-advice`:** If there's not a more specific channel that's relevant to your question, you can always ask in this channel. 
 - **`#anonymous-help-and-advice`:** For various reasons, there are times where someone may not feel comfortable asking for advice publicly in RLS. This channel was created to support those times and allow members to create an anonymous top-level post using a channel workflow. The donwside is that it can remove the ability to have deeper discussions, since the original poster cannot respond anonymously in threads to participate.
 - **`#lobby-*`:** Lobby channels are public channels that enable members to request admission to private channels, which would otherwise be undiscoverable. Right now only two exist, `#lobby-adoption` and `#lobby-non-binary-and-women`, and you can see past discussions about the implementation and use of `#lobby-*` channels in `#rands-slack-culture`.
+- **`🔒#the-treehouse`:** a private (but not secret) channel for non-binary folks and women. If you'd like to join this channel, please use the workflow in `#lobby-non-binary-and-women` to make a request!
 
 ## Discovering New Channels
 
