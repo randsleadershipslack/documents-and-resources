@@ -14,7 +14,17 @@ Please make sure you read and understand the RLS [Code of Conduct](https://githu
 
 Remember what we said a minute ago about wanting you to participate here? We really do mean it - but we also understand that can be easier said than done. 
 
-This is a big place, and it can feel intimidating. On the surface, Rands Leadership Slack looks like a group of high-performing leaders with extensive experience and a wide range of expertise. And that's true - but that's not all we are. We treat leadership as a human quality, not just a job title. We make mistakes and learn from each other. We support and encourage each other. We're a community. 
+This is a big place, and it can feel intimidating. On the surface, Rands Leadership Slack looks like a group of high-performing leaders with extensive experience and a wide range of expertise. And that's true - but that's not all we are. We are humans with strengths and weaknesses. Our community is a fabric of many individuals from different backgrounds, companies, countries, and working cultures. We each bring different perspectives to the discussion - and so can you.
+
+We know what imposter syndrome is. Many of us experience it regularly in some form, and you may well feel it too upon joining. Finding yourself amongst a self-selecting group of leaders, often in high profile roles, you can suddenly feel smaller than you did before. We strongly encourage you to push past this. Start contributing. Find your own voice, share your own insights, and questions where you want to learn. We welcome you and hope you will quickly find it rewarding to engage with us.
+
+We treat leadership as a human quality, not just a job title. We make mistakes and learn from each other. We support and encourage each other. We're a community.
+
+## Channel Information
+
+Some channels have specific guidance on what's considered on-topic for discussion - if so, that information is typically in the channel topic and/or description, so have a look there before posting.
+
+Many channels also have pinned items - links and resources that people have considered useful or important enough to bookmark for easy look-up later. 
 
 ## Channels of Interest
 
@@ -57,3 +67,6 @@ Slackbot [custom responses](https://slack.com/resources/using-slack/a-guide-to-s
 ### Custom Responses for Inclusive Language
 
 RLS has a Slackbot that automatically flags non-inclusive words and phrases and makes alternate suggestions. People often ask about using these Slackbot responses in their other Slack communities - you can find the instructions on how to do that, as well as the custom responses used, [here](https://github.com/randsleadershipslack/documents-and-resources/blob/main/InclusiveLanguage.md).
+
+Have you been on the receiving end of this Slackbot for using some particular term? Don't feel bad - many of us have too! It's not there to draw attention to you personally - it's simply a mechanism we use to gently shape the whole community towards inclusive language and set some norms around how we communicate. Please just take it as intended: a friendly prompt to consider refining how you express yourself.
+
