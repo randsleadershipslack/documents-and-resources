@@ -2,7 +2,7 @@
 
 Hello, RLS members new and old! Welcome to the Rands Leadership Slack quick-start guide 🙂 
 
-RLS is a big community! The last time Rands made an #announcement, RLS membership was the same size as East Peoria, Illinois with 22,620 people. As RLS continues to grow, it can be harder to figure out where to get started. This quick-start guide is intended to give you that starting point to exploring and participating in this community. 
+RLS is a big community! As of June 2022, RLS membership was the same size as East Peoria, Illinois with 22,620 people. As RLS continues to grow, it can be harder to figure out where to get started. This quick-start guide is intended to give you that starting point to exploring and participating in this community. 
 
 And please be assured that we do want you - _yes, you!_ - to participate. You are not too junior, or too new, or not leader-y enough to contribute. Our community benefits from being able to discuss and learn from all of our perspectives and experiences, and it's what we love about being in RLS.
 
