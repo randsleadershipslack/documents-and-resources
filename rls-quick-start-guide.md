@@ -16,7 +16,7 @@ Remember what we said a minute ago about wanting you to participate here? We rea
 
 This is a big place, and it can feel intimidating. On the surface, Rands Leadership Slack looks like a group of high-performing leaders with extensive experience and a wide range of expertise. And that's true - but that's not all we are. We are humans with strengths and weaknesses. Our community is a fabric of many individuals from different backgrounds, companies, countries, and working cultures. We each bring different perspectives to the discussion - and so can you.
 
-We know what imposter syndrome is. Many of us experience it regularly in some form, and you may well feel it too upon joining. Finding yourself amongst a self-selecting group of leaders, often in high profile roles, you can suddenly feel smaller than you did before. We strongly encourage you to push past this. Start contributing. Find your own voice, share your own insights, and questions where you want to learn. We welcome you and hope you will quickly find it rewarding to engage with us.
+We know what imposter syndrome is. Many of us experience it regularly in some form, and you may well feel it too upon joining. Finding yourself amongst a self-selecting group of leaders, often in high profile roles, you can suddenly feel smaller than you did before. We strongly encourage you to push past this. Start contributing. Find your own voice, share your own insights, and ask questions where you want to learn. We welcome you and hope you will quickly find it rewarding to engage with us.
 
 We treat leadership as a human quality, not just a job title. We make mistakes and learn from each other. We support and encourage each other. We're a community.
 
