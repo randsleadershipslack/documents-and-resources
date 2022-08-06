@@ -176,11 +176,11 @@ Administrators serve two years terms with an option for a second.
 
 The Administrator(s) of Rands Leadership as of November 2021:
 
-* @mcole (November 30th, 2023, end of the second term)
-* @okterok (November 30th, 2023, end of the second term)
-* @erin.disselhorst (November 30th, 2023, end of the second term)
-* @alden (November 30th, 2023, end of 1st term)
-* @Ian Fette (November 30th, 2023, end of 1st term)
+* @mcole (Second term expires November 30th, 2023)
+* @okterok (Second term expires November 30th, 2023)
+* @erin.disselhorst (Second term expires November 30th, 2023)
+* @alden (First term expires on November 30th, 2023)
+* @Ian Fette (First term expires on November 30th, 2023)
 * @rands (workspace owner)
 
 A call for new Administrators’ process kicks off the September before the end of term date for Administrators. 
