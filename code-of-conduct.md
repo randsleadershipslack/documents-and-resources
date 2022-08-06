@@ -1,4 +1,4 @@
-# The Rands Leadership Slack Code of Conduct
+The Rands Leadership Slack Code of Conduct
 
 The Rands Leadership Slack ("RLS") is an online community dedicated to the craft of leadership. The community is built around public and private channels focusing on leadership development. While many channels are not focused on leadership, all community participants are asked to act as leaders and must comply with the following Code of Conduct. Administrators will enforce this code throughout all channels within the Rands Leadership Slack.
 
@@ -37,7 +37,7 @@ Respectful behavior includes but is not limited to:
 
 * Be considerate, kind, constructive, and helpful.
 * Avoid demeaning, discriminatory, harassing, hateful, or physically threatening behavior, speech, and imagery.
-* Due regard for the feelings, wishes, rights and traditions of others.
+* Due regard for the feelings, wishes, rights, and traditions of others.
 
 If you're unclear if a communication, action, or behavior is respectful, ask someone instead of assuming. No, really. Just ask the [Administrators](#administrators) publicly or privately. We'd rather hear from you than hear about something you said or did after the fact, and we are here to help.
 
@@ -49,7 +49,7 @@ Don't be a bystander, be a leader. Role model respectful behavior, but also help
 
 Protect IP and legally-protected information. This community is not a public space. However, no one has signed a non-disclosure agreement ("NDA") to participate, and you should not presume anything you say here will remain private, so act accordingly.
 
-If you want to publicly disclose anything discussed here in a public channel, use the [Chatham House Rule](https://www.chathamhouse.org/about/chatham-house-rule) as the guideline ("participants are free to use the information received, but neither the identity nor the affiliation of the speaker(s), nor that of any other participant, may be revealed"). 
+If you want to disclose anything discussed here in a public channel publicly, use the [Chatham House Rule](https://www.chathamhouse.org/about/chatham-house-rule) as the guideline ("participants are free to use the information received, but neither the identity nor the affiliation of the speaker(s), nor that of any other participant, may be revealed"). 
 
 For attribution of specific content found on this Slack on public channels, we ask that you ask the originator of the content for permission. If you don't receive consent in a reasonable time, we ask that you credit the "Rands Leadership Slack."
 
@@ -57,13 +57,13 @@ For attribution of specific content found on this Slack on public channels, we a
 
 ## Read the Room
 
-Once onboard, you will likely find yourself in a popular channel with many members who sound like we've figured it out. We haven't. While advice on one channel might read definitive, it is one member's lessons interpretation and learning from their leadership experience. While there is a diverse set of experiences within this community, we continue to learn at every level of experience. The daily practice of leadership is more art than science.
+Once onboard, you will likely find yourself in a popular channel with many members who sound like we've figured it out. We haven't. While advice on one channel might read definitive, it is one member's lessons interpretation and learning from their leadership experience. While there is a diverse set of experiences within this community, we continue to learn at every level of expertise. The daily practice of leadership is more art than science.
 
 This is a large community with many different humans populating hundreds of channels. Different channels have organically developed distinct personalities. Before posting in a channel with hundreds of members, we suggest you take the time to read the room. Specifically:
 
 * Read the last couple of days of messages.
 * Examine the channel topic for helpful tips.
-* Click on the channel details and read the about section to get a sense of how many members are present, what messages have already been pinned, and what files have been shared.
+* Click on the channel details and read the about section to see how many members are present, what messages have already been pinned, and what files have been shared.
 
 **Consequence**: Posting the same message to multiple channels is spamming. Don't spam. 
 
@@ -80,9 +80,9 @@ A direct message ("DM") is a private message to one or more other members. Sendi
 
 This community is hyper allergic to unwanted commercial behavior. This is not a place for prominent commercial activities such as recruiting, lead generation, marketing, and other solicitation, except in channels dedicated to that purpose. If you join this community to take value rather than contribute, the community will quickly notice and react.
 
-While obvious commercial behavior is easy to identify, non-obvious commercial behavior is a grey area. In general, if you are wondering if a post is commercially appropriate, our guidelines are that you:
+While apparent commercial behavior is easy to identify, non-obvious commercial behavior is a grey area. In general, if you are wondering if a post is commercially appropriate, our guidelines are that you:
 
-* Ask permission of the channel before posting a message that might be considered commercial stating clear intent for the post, and, 
+* Ask permission of the channel before posting a message that might be considered commercial, stating clear intent for the post, and, 
 * Listen to the response of your peers in the channel and act accordingly.
 
 If, after engaging with the community, you are still wondering if a specific message is commercial or not, please ask in one of the channels dedicated to helping find their way in this community, such as #how-to-rands , #rands-admins,  or #rands-slack-rules.
@@ -110,7 +110,7 @@ Some geographically-focused channels have a higher tolerance for specific kinds 
 
 **Consequence**: In channels where commercial activity is allowed, it is just as unwelcome to post an unrelated commercial offering as it is to post in non-commercial channels.
 
-**Consequence**: Commercial requests via direct messages ("DM") without prior and/or obvious consent from the receiver are prohibited.
+**Consequence**: Commercial requests via direct messages ("DM") without prior and apparent consent from the receiver are prohibited.
 
 **Consequence**: If you feel a message should be deleted, please refer to our overview of [Deleting Content](https://github.com/randsleadershipslack/documents-and-resources/blob/master/deleting-content.md).
 
@@ -120,17 +120,17 @@ We've received many requests to run surveys in specific channels. Members intere
 
 1. The goal of the survey
 2. How the data will be used
-3. When and how the results will be shared with the channel
+3. When and how will the results be shared with the channel
 
 **Consequence**: Surveys posted without considering the above guidelines are considered a Code of Conduct violation.
 
 ## Don't Be a Troll
 
-A troll is a member who starts flame wars or intentionally upsets other members by posting inflammatory and digressive, extraneous, or off-topic messages with the intent of provoking members into displaying emotional responses and normalizing tangential discussion, either for the troll's amusement or a specific gain.
+A troll is a member who starts flame wars or intentionally upsets other members by posting inflammatory, digressive, extraneous, or off-topic messages to provoke members into displaying emotional responses and normalizing tangential discussion either for the troll's amusement or a specific gain.
 
 The determination of whether a message is trolling is often a subjective assessment by administrators, but there is a specific situation where RLS has a zero-tolerance policy where:
 
-1. A message which is perceived and/or reported as trolling,
+1. A message which is perceived and reported as trolling,
 2. Is posted by a non-contributing member with little to no other engagement elsewhere in the Slack, and, 
 3. Is posted via a deliberately fake account.
 
@@ -142,11 +142,11 @@ Content posted in this fashion results in a no-warning expulsion of the offendin
 
 ## Content Review Process
 
-Admins may come across or be notified of content on RLS that violates the Code of Conduct. In some situations, this may lead to an Administrator deleting the message (or messages) that violate the CoC. Messages that are most likely to be deleted are commercial solicitations, disrespectful messages to other members, or links to disturbing or distressing content without appropriate measures to warn of or hide the content (including image uploads and unfurls).
+Admins may come across or be notified of RLS content violating the Code of Conduct. In some situations, this may lead to an Administrator deleting the message (or messages) that violate the CoC. Messages most likely to be deleted are commercial solicitations, disrespectful messages to other members, or links to disturbing or distressing content without appropriate measures to warn of or hide the content (including image uploads and unfurls).
 
-Ideally, another RLS member notices this content and contacts the original poster, who then modifies or deletes the message so that it is no longer problematic. In this case, no further Administrator action is required. If Administrator action is desired, due to lack of response or any other reason, an Administrator will notify the original poster of the violation and the need to reword or remove the problematic message. The Administrator will also specify a time after which Administrator action will be taken to delete the content if it is not addressed. This time may be as little as a few minutes, or as much as 24 hours.
+Ideally, another RLS member notices this content and contacts the original poster, who then modifies or deletes the message so that it is no longer problematic. In this case, no further Administrator action is required. Suppose Administrator action is desired due to lack of response or any other reason. In that case, an Administrator will notify the original poster of the violation and the need to reword or remove the problematic message. The Administrator will also specify a time after which Administrator action will be taken to delete the content if it is not addressed. This time may be as little as a few minutes or as much as 24 hours.
 
-The determination of how much time is allowed is up to the Administrator, but the following context will be used to help determine the time before Administrator action:
+The determination of how much time is allowed is up to the Administrator, but the following context will be used to help determine the time before the Administrator’s action:
 
 * How blatant the violation is
 * How likely it is to be seen by others (higher-volume channels get less time)
@@ -166,30 +166,32 @@ Should you catch yourself behaving disrespectfully, or be confronted as such, li
 
 If you cannot resolve a situation peacefully, please refer to our [Incident Process](https://github.com/randsleadershipslack/documents-and-resources/blob/master/incident-process.md) and choose a course of action that suits the situation.
 
-If the Administrators determine that a member is violating any part of this Code of Conduct, the Administrators may take any action they deem appropriate, up to and including expulsion and exclusion from the Rands Leadership Slack. 
+Suppose the Administrators determine that a member is violating any part of this Code of Conduct. In that case, they may take any action they deem appropriate, up to and including expulsion and exclusion from the Rands Leadership Slack. 
 
-As Administrators, we will seek to resolve conflicts peacefully and in a manner that is positive for the community. This Code of Conduct documents common situations we've seen to date, but we can't foresee every situation. If, in the Administrator's judgment, the best thing to do is to ask a disrespectful individual to leave, we will do so.
+As Administrators, we will seek to resolve conflicts peacefully and in a manner that is positive for the community. This Code of Conduct documents everyday situations we've seen, but we can't foresee every situation. If in the Administrator's judgment, the best thing to do is to ask a disrespectful individual to leave, we will do so.
 
 ## Administrators
 
+Administrators serve two years terms with an option for a second. 
+
 The Administrator(s) of Rands Leadership as of November 2021:
 
-* @mcole
-* @okterok 
-* @erin.disselhorst 
-* @alden
-* @Ian Fette
-* @rands (also the workspace owner)
+* @mcole (November 30th, 2023, end of the second term)
+* @okterok (November 30th, 2023, end of the second term)
+* @erin.disselhorst (November 30th, 2023, end of the second term)
+* @alden (November 30th, 2023, end of 1st term)
+* @Ian Fette (November 30th, 2023, end of 1st term)
+* @rands (workspace owner)
+
+A call for new Administrators’ process kicks off the September before the end of term date for Administrators. 
 
 You can contact them directly or post your questions or concerns in the #rands-admins channel. 
-
-The current term of the volunteer Administrators is November 23rd, 2020 until November 30th, 2022.
 
 ## Administrator Information Access
 
 As part of the role, Administrators have information not available to all users. This information includes:
 
-* Email addresses provided by a member as part of our sign-up process.
+* A member provides email addresses as part of our sign-up process.
 * Information contained within member requests to join the community. This might include email, name, and occupation.
 * Access log information provided by the Slack administrator interface. This includes name, login times, login device, and IP.
 
