@@ -172,7 +172,7 @@ As Administrators, we will seek to resolve conflicts peacefully and in a manner 
 
 ## Administrators
 
-Administrators serve two years terms with an option for a second. 
+Administrators serve two years terms with an option for a second term.
 
 The Administrator(s) of Rands Leadership as of November 2021:
 
