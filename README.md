@@ -7,3 +7,4 @@ This repository collects documents and resources for the membership of the Rands
 * [Incident Process](https://github.com/randsleadershipslack/documents-and-resources/blob/master/incident-process.md)
 * [How to Rands](https://github.com/randsleadershipslack/documents-and-resources/blob/master/howtorands.md)
 * [Inclusive Language](https://github.com/randsleadershipslack/documents-and-resources/blob/master/InclusiveLanguage.md)
+* [Quick-Start Guide](https://github.com/randsleadershipslack/documents-and-resources/blob/main/rls-quick-start-guide.md)
