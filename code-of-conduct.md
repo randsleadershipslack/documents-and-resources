@@ -89,7 +89,9 @@ If, after engaging with the community, you are still wondering if a specific mes
 
 As this community grows, our tolerance for unsolicited Commerical behavior decreases. 
 
-**The Bottom Line**: Emailing members with unsolicited commercial offers based on information acquired within the community is a Code of Conduct violation. 
+**The Bottom Line**: 
+* Emailing members with unsolicited commercial offers based on information acquired within the community is a Code of Conduct violation. 
+* Aggressive spamming is cause for automatic account deactivation.
 
 ### Approved Commercial Channels 
 
