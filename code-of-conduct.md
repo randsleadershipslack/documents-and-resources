@@ -43,7 +43,7 @@ If you're unclear if a communication, action, or behavior is respectful, ask som
 
 Don't be a bystander, be a leader. Role model respectful behavior, but also help to address disrespect when you see it within your community. 
 
-**Consequence**: Disrespectful behavior outside this community by active members may be considered a violation of this code of conduct at the administrators' discretion.
+**The Bottom Line**: Disrespectful behavior outside this community by active members may be considered a violation of this code of conduct at the administrators' discretion.
 
 ## Privacy
 
@@ -53,7 +53,7 @@ If you want to disclose anything discussed here in a public channel publicly, us
 
 For attribution of specific content found on this Slack on public channels, we ask that you ask the originator of the content for permission. If you don't receive consent in a reasonable time, we ask that you credit the "Rands Leadership Slack."
 
-**Consequence**: Sharing content from private channels is discouraged without permission of the private channel. 
+**The Bottom Line**: Sharing content from private channels is discouraged without permission of the private channel. 
 
 ## Read the Room
 
@@ -65,7 +65,7 @@ This is a large community with many different humans populating hundreds of chan
 * Examine the channel topic for helpful tips.
 * Click on the channel details and read the about section to see how many members are present, what messages have already been pinned, and what files have been shared.
 
-**Consequence**: Posting the same message to multiple channels is spamming. Don't spam. 
+**The Bottom Line**: Posting the same message to multiple channels is spamming. Don't spam. 
 
 ## Direct Message Etiquette
 
@@ -74,7 +74,7 @@ A direct message ("DM") is a private message to one or more other members. Sendi
 * Is it obvious to the other member why I am contacting them privately? If not, should I provide context, such as a public post?
 * Could this message be considered unsolicited spam? If so, should you be sending it?
 
-**Consequence**: Unsolicited DMs are likely Code of Conduct violations, especially with a commercial flavor. 
+**The Bottom Line**: Unsolicited DMs are likely Code of Conduct violations, especially with a commercial flavor. 
 
 ## Not For Profit (Mostly)
 
@@ -89,7 +89,7 @@ If, after engaging with the community, you are still wondering if a specific mes
 
 As this community grows, our tolerance for unsolicited Commerical behavior decreases. 
 
-**Consequence**: Emailing members with unsolicited commercial offers based on information acquired within the community is a Code of Conduct violation. 
+**The Bottom Line**: Emailing members with unsolicited commercial offers based on information acquired within the community is a Code of Conduct violation. 
 
 ### Approved Commercial Channels 
 
@@ -108,11 +108,11 @@ On-topic and relevant commercial activity is allowed in these channels:
 
 Some geographically-focused channels have a higher tolerance for specific kinds of commercial activity focused on events based in that region. Again, read the room. If you'd like to request approval for a channel to be listed as commercial, please contact the [Adminstrators](#administrators). 
 
-**Consequence**: In channels where commercial activity is allowed, it is just as unwelcome to post an unrelated commercial offering as it is to post in non-commercial channels.
+**The Bottom Lines**: 
 
-**Consequence**: Commercial requests via direct messages ("DM") without prior and apparent consent from the receiver are prohibited.
-
-**Consequence**: If you feel a message should be deleted, please refer to our overview of [Deleting Content](https://github.com/randsleadershipslack/documents-and-resources/blob/master/deleting-content.md).
+* In channels where commercial activity is allowed, it is just as unwelcome to post an unrelated commercial offering as it is to post in non-commercial channels.
+* Commercial requests via direct messages ("DM") without prior and apparent consent from the receiver are prohibited.
+* If you feel a message should be deleted, please refer to our overview of [Deleting Content](https://github.com/randsleadershipslack/documents-and-resources/blob/master/deleting-content.md).
 
 ### Surveys
 
@@ -122,7 +122,7 @@ We've received many requests to run surveys in specific channels. Members intere
 2. How the data will be used
 3. When and how will the results be shared with the channel
 
-**Consequence**: Surveys posted without considering the above guidelines are considered a Code of Conduct violation.
+**The Bottom Line**: Surveys posted without considering the above guidelines are considered a Code of Conduct violation.
 
 ## Don't Be a Troll
 
@@ -136,9 +136,10 @@ The determination of whether a message is trolling is often a subjective assessm
 
 Content posted in this fashion results in a no-warning expulsion of the offending account from RLS. Trolling which does not meet this high bar is managed via the usual content review process.
 
-**Consequence:** Admins may delete messages that violate the Code of Conduct.
+**The Bottom Lines*** 
 
-**Consequence:** In non-trolling cases, the authors of those messages will be notified and may be given a chance to modify the message themselves.
+* Admins may delete messages that violate the Code of Conduct.
+* In non-trolling cases, the authors of those messages will be notified and may be given a chance to modify the message themselves.
 
 ## Content Review Process
 
@@ -162,7 +163,7 @@ If you experience disrespectful behavior toward yourself or anyone else and feel
 
 Should you catch yourself behaving disrespectfully, or be confronted as such, listen intently, own up to your words and actions, and apologize accordingly. No one is perfect, and even well-intentioned people make mistakes. How you handle them and avoid repeating them in future matters. We are here to learn as leaders.
 
-## Additional Consequences
+## Additional Situations
 
 If you cannot resolve a situation peacefully, please refer to our [Incident Process](https://github.com/randsleadershipslack/documents-and-resources/blob/master/incident-process.md) and choose a course of action that suits the situation.
 
