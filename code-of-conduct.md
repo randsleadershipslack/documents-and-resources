@@ -93,7 +93,7 @@ As this community grows, our tolerance for unsolicited Commerical behavior decre
 
 **The Bottom Line**: 
 * Emailing members with unsolicited commercial offers based on information acquired within the community is a Code of Conduct violation. 
-* Aggressive spamming is cause for automatic account deactivation.
+* Aggressive message spamming is cause for automatic account deactivation.
 
 ### Approved Commercial Channels 
 
