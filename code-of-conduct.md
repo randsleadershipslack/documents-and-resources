@@ -47,15 +47,17 @@ Don't be a bystander, be a leader. Role model respectful behavior, but also help
 
 **The Bottom Line**: Disrespectful behavior outside this community by active members may be considered a violation of this code of conduct at the administrators' discretion.
 
-## Privacy
+## Privacy, Attribution, and Aggegation
 
 Protect IP and legally-protected information. This community is not a public space. However, no one has signed a non-disclosure agreement ("NDA") to participate, and you should not presume anything you say here will remain private, so act accordingly.
 
-If you want to disclose anything discussed here in a public channel publicly, use the [Chatham House Rule](https://www.chathamhouse.org/about/chatham-house-rule) as the guideline ("participants are free to use the information received, but neither the identity nor the affiliation of the speaker(s), nor that of any other participant, may be revealed"). 
+If you want to disclose anything from a public channel outside of this community, we use a modified version of the [Chatham House Rules](https://www.chathamhouse.org/about/chatham-house-rule) as a guideline.
 
-For attribution of specific content found on this Slack on public channels, we ask that you ask the originator of the content for permission. If you don't receive consent in a reasonable time, we ask that you credit the "Rands Leadership Slack."
+“Members are free to use information received from public channels, but the individual source of the information may not be revealed.”
 
-**The Bottom Line**: Sharing content from private channels is discouraged without permission of the private channel. 
+For attribution of specific content found on this Slack on public channels, we ask that you ask the originator of the content for permission. If you don’t receive consent promptly, we ask that you credit the “Rands Leadership Slack.” Sharing content from private channels is discouraged without permission of the private channel. 
+
+Manual aggregation and content organization are allowed, provided the aggregated artifact is **only** shared publicly within the community. Automated aggregated content organization is prohibited.
 
 ## Read the Room
 
