@@ -47,7 +47,7 @@ Don't be a bystander, be a leader. Role model respectful behavior, but also help
 
 **The Bottom Line**: Disrespectful behavior outside this community by active members may be considered a violation of this code of conduct at the administrators' discretion.
 
-## Privacy, Attribution, and Aggegation
+## Privacy, Attribution, and Aggregation
 
 Protect IP and legally-protected information. This community is not a public space. However, no one has signed a non-disclosure agreement ("NDA") to participate, and you should not presume anything you say here will remain private, so act accordingly.
 
