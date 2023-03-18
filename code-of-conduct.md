@@ -9,7 +9,7 @@ The Rands Leadership Slack ("RLS") is an online community dedicated to the craft
 - [The Short Version](#the-short-version)
 - [The Long Version](#the-long-version)
   * [Respect](#respect)
-  * [Privacy](#privacy)
+  * [Privacy, Attribution, and Aggregation](#privacy-attribution-and-aggregation)
   * [Read the Room](#read-the-room)
   * [Direct Message Etiquette](#direct-message-etiquette)
   * [Not for Profit](#not-for-profit-mostly)
