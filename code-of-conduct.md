@@ -89,7 +89,7 @@ While apparent commercial behavior is easy to identify, non-obvious commercial b
 * Ask permission of the channel before posting a message that might be considered commercial, stating clear intent for the post, and, 
 * Listen to the response of your peers in the channel and act accordingly.
 
-If, after engaging with the community, you are still wondering if a specific message is commercial or not, please ask in one of the channels dedicated to helping find their way in this community, such as #how-to-rands , #rands-admins,  or #rands-slack-rules.
+If, after engaging with the community, you are still wondering if a specific message is commercial or not, please ask in one of the channels dedicated to helping find their way in this community, such as #how-to-rls , #rls-admins,  or #rls-rules.
 
 As this community grows, our tolerance for unsolicited Commerical behavior decreases. 
 
@@ -192,7 +192,7 @@ The Administrator(s) of Rands Leadership as of November 2021:
 
 A call for new Administrators’ process kicks off the September before the end of term date for Administrators. 
 
-You can contact them directly or post your questions or concerns in the #rands-admins channel. 
+You can contact them directly or post your questions or concerns in the #rls-admins channel. 
 
 ## Administrator Information Access
 
@@ -216,6 +216,6 @@ Thanks to [Tantek Çelik](http://tantek.com/) and the other organizers of [Indie
 
 This Code of Conduct is released under the [CC0 public domain license](https://creativecommons.org/publicdomain/zero/1.0/).
 
-V4.2 of this Code of Conduct was published on August 6, 2022. If you have any questions or suggestions regarding this Code of Conduct, please join us in #rands-code-of-conduct.
+V4.2 of this Code of Conduct was published on August 6, 2022. If you have any questions or suggestions regarding this Code of Conduct, please join us in #rls-code-of-conduct.
 
 You can see all prior versions of this artifact [here](https://github.com/randsleadershipslack/documents-and-resources/commits/main/code-of-conduct.md).
