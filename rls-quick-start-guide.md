@@ -2,7 +2,7 @@
 
 Hello, RLS members new and old! Welcome to the Rands Leadership Slack quick-start guide 🙂 
 
-RLS is a big community! As of June 2022, RLS membership was the same size as East Peoria, Illinois with 22,620 people. As RLS continues to grow, it can be harder to figure out where to get started. This quick-start guide is intended to give you that starting point to exploring and participating in this community. 
+RLS is a big community! As of January 2023, RLS membership was the same size as Neehah, Wisconsin with 25,694 people. As RLS continues to grow, it can be harder to figure out where to get started. This quick-start guide is intended to give you that starting point to exploring and participating in this community. 
 
 And please be assured that we do want you - _yes, you!_ - to participate. You are not too junior, or too new, or not leader-y enough to contribute. Our community benefits from being able to discuss and learn from all of our perspectives and experiences, and it's one of the great things about being in RLS.
 
@@ -38,12 +38,12 @@ Many channels also have pinned items - links and resources that people have cons
 
 Rands Leadership Slack has many (many) channels. We could not hope to describe all of them here, but this should help give you a starting point for being here.
 
-- **`#how-to-rands`:** Not sure which channel is the best place for your question or post? Ask for directions here.
-- **`#rands-*`:** Channels with the `rands-` prefix are related to operating and participating in RLS, such as `#rands-admins`, `#rands-slack-culture`, and `#rands-slack-rules`.
+- **`#how-to-rls`:** Not sure which channel is the best place for your question or post? Ask for directions here.
+- **`#rls-*`:** Channels with the `rls-` prefix are related to operating and participating in RLS, such as `#rls-admins`, `#rls-culture`, and `#rls-rules`.
 - **`#daily-ftw`:** This is where we celebrate our wins, and it's a great channel to get started in! Post your own wins so we can cheer you on, and join the conversations on other people's posts!
 - **`#help-and-advice`:** If there's not a more specific channel that's relevant to your question, you can always ask in this channel. 
 - **`#anonymous-help-and-advice`:** For various reasons, there are times where someone may not feel comfortable asking for advice publicly in RLS. This channel was created to support those times and allow members to create an anonymous top-level post using a channel workflow. The donwside is that it can remove the ability to have deeper discussions, since the original poster cannot respond anonymously in threads to participate.
-- **`#lobby-*`:** Lobby channels are public channels that enable members to request admission to private channels, which would otherwise be undiscoverable. Right now only two exist, `#lobby-adoption` and `#lobby-non-binary-and-women`, and you can see past discussions about the implementation and use of `#lobby-*` channels in `#rands-slack-culture`.
+- **`#lobby-*`:** Lobby channels are public channels that enable members to request admission to private channels, which would otherwise be undiscoverable. Right now only two exist, `#lobby-adoption` and `#lobby-non-binary-and-women`, and you can see past discussions about the implementation and use of `#lobby-*` channels in `#rls-culture`.
 - **`🔒#the-treehouse`:** a private (but not secret) channel for non-binary folks and women. If you'd like to join this channel, please use the workflow in `#lobby-non-binary-and-women` to make a request!
 - **`#lgbt`:** public channel; channel description is _discussion for and by people in all areas of the sexuality and gender spectra. ALL identities welcome; no invalidation or gatekeeping allowed._
 - **`#gender-diversity`:** public channel; channel description is _for folx who may like binary code but not gender binaries._
@@ -52,7 +52,7 @@ Rands Leadership Slack has many (many) channels. We could not hope to describe a
 
 Here are some channels to join that are good for helping you discover other channels (plus some of these are just nice channels to be in!):
 
-- `#rands-slack-gratitude` 
+- `#rls-gratitude` 
 - `#dancing-penguin`
 - `#royquotes`
 - `#brightideas`
@@ -64,11 +64,10 @@ Several channels are set up with a workflow to automatically cross-post in a dif
 
 ## Slackbot Custom Responses
 
-Slackbot [custom responses](https://slack.com/resources/using-slack/a-guide-to-slackbot-custom-responses) are trigger words or trigger phrases that cause an auto-reply from Slackbot. Discussions about Slackbot responses take place in `#rands-bot-responses`, and there's a pinned link in that channel with the list of responses as of December 2019.
+Slackbot [custom responses](https://slack.com/resources/using-slack/a-guide-to-slackbot-custom-responses) are trigger words or trigger phrases that cause an auto-reply from Slackbot. Discussions about Slackbot responses take place in `#rls-bot-responses`, and there's a pinned link in that channel with the list of responses as of December 2019.
 
 ### Custom Responses for Inclusive Language
 
 RLS has a Slackbot that automatically flags non-inclusive words and phrases and makes alternate suggestions. People often ask about using these Slackbot responses in their other Slack communities - you can find the instructions on how to do that, as well as the custom responses used, [here](https://github.com/randsleadershipslack/documents-and-resources/blob/main/InclusiveLanguage.md).
 
 Have you been on the receiving end of this Slackbot for using some particular term? Don't feel bad - many of us have too! It's not there to draw attention to you personally - it's simply a mechanism we use to gently shape the whole community towards inclusive language and set some norms around how we communicate. Please just take it as intended: a friendly prompt to consider refining how you express yourself.
-
