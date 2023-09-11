@@ -89,7 +89,7 @@ While apparent commercial behavior is easy to identify, non-obvious commercial b
 * Ask permission of the channel before posting a message that might be considered commercial, stating clear intent for the post, and, 
 * Listen to the response of your peers in the channel and act accordingly.
 
-If, after engaging with the community, you are still wondering if a specific message is commercial or not, please ask in one of the channels dedicated to helping find their way in this community, such as #how-to-rls , #rls-admins,  or #rls-rules.
+If, after engaging with the community, you are still wondering if a specific message is commercial or not, please ask in one of the channels dedicated to helping find their way in this community, such as [#how-to-rls](https://rands-leadership.slack.com/archives/C6M7U8DFF) , [#rls-admins](https://rands-leadership.slack.com/archives/CQC5BGPAB),  or [#rls-rules](https://rands-leadership.slack.com/archives/C0GH4MMNU).
 
 As this community grows, our tolerance for unsolicited Commerical behavior decreases. 
 
@@ -101,16 +101,16 @@ As this community grows, our tolerance for unsolicited Commerical behavior decre
 
 On-topic and relevant commercial activity is allowed in these channels: 
 
-* #conferences-and-events
-* #i-built-something
-* #i-wrote-something
-* #jobs
-* #jobs-consulting
-* #market-research
-* #remote-jobs
-* #services
-* #watches
-* #wedidit
+* [#conferences-and-events](https://rands-leadership.slack.com/archives/C053Z0VGJ)
+* [#i-built-something](https://rands-leadership.slack.com/archives/C94H848UB)
+* [#i-wrote-something](https://rands-leadership.slack.com/archives/C0R7KB37Z)
+* [#jobs](https://rands-leadership.slack.com/archives/C0J2L41FT)
+* [#jobs-consulting](https://rands-leadership.slack.com/archives/C47A0C3TK)
+* [#market-research](https://rands-leadership.slack.com/archives/C03BHP3TSCW)
+* [#remote-jobs](https://rands-leadership.slack.com/archives/C7PEHBNJY)
+* [#services](https://rands-leadership.slack.com/archives/C5GQ29DBM)
+* [#watches](https://rands-leadership.slack.com/archives/C2HRJHQ9J)
+* [#wedidit](https://rands-leadership.slack.com/archives/C491KKW12)
 
 Some geographically-focused channels have a higher tolerance for specific kinds of commercial activity focused on events based in that region. Again, read the room. If you'd like to request approval for a channel to be listed as commercial, please contact the [Adminstrators](#administrators). 
 
@@ -192,7 +192,7 @@ The Administrator(s) of Rands Leadership as of November 2021:
 
 A call for new Administrators’ process kicks off the September before the end of term date for Administrators. 
 
-You can contact them directly or post your questions or concerns in the #rls-admins channel. 
+You can contact them directly or post your questions or concerns in the [#rls-admins](https://rands-leadership.slack.com/archives/CQC5BGPAB) channel. 
 
 ## Administrator Information Access
 
@@ -216,6 +216,6 @@ Thanks to [Tantek Çelik](http://tantek.com/) and the other organizers of [Indie
 
 This Code of Conduct is released under the [CC0 public domain license](https://creativecommons.org/publicdomain/zero/1.0/).
 
-V4.2 of this Code of Conduct was published on August 6, 2022. If you have any questions or suggestions regarding this Code of Conduct, please join us in #rls-code-of-conduct.
+V4.2 of this Code of Conduct was published on August 6, 2022. If you have any questions or suggestions regarding this Code of Conduct, please join us in [#rls-code-of-conduct](https://rands-leadership.slack.com/archives/C7KSGKPJL).
 
 You can see all prior versions of this artifact [here](https://github.com/randsleadershipslack/documents-and-resources/commits/main/code-of-conduct.md).
