@@ -19,7 +19,7 @@ I work a bit on the weekends. This is my choice. **I do not expect you to work o
 I take vacations. You should, too. Disconnected from work is when I do some of my best work. 
 
 ## North Star Principles
-**Humans first. ** Happy, informed, and productive humans build a fantastic product. I optimize for humans. Other leaders will maximize the business, the technology, or any different number of essential facets. Ideological diversity is critical to an effective team. All perspectives are relevant, and we need all these leaders, but my bias is toward building productive humans.
+**Humans first.** Happy, informed, and productive humans build a fantastic product. I optimize for humans. Other leaders will maximize the business, the technology, or any different number of essential facets. Ideological diversity is critical to an effective team. All perspectives are relevant, and we need all these leaders, but my bias is toward building productive humans.
 
 **Leadership comes from everywhere.** My wife likes to remind me that I wouldn’t say I liked meetings for the first ten years of my professional career. She's right. I've spent a lot of time in poorly run meetings by bad managers. As an engineer, I remain skeptical of managers, even as a manager. While managers are an essential part of a scaling organization, they don’t have a monopoly on Leadership. I work hard to build other constructs and opportunities for any human on the team to be a leader. 
 
