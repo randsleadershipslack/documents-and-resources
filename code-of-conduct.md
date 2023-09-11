@@ -91,7 +91,7 @@ While apparent commercial behavior is easy to identify, non-obvious commercial b
 
 If, after engaging with the community, you are still wondering if a specific message is commercial or not, please ask in one of the channels dedicated to helping find their way in this community, such as [#how-to-rls](https://rands-leadership.slack.com/archives/C6M7U8DFF) , [#rls-admins](https://rands-leadership.slack.com/archives/CQC5BGPAB),  or [#rls-rules](https://rands-leadership.slack.com/archives/C0GH4MMNU).
 
-As this community grows, our tolerance for unsolicited Commerical behavior decreases. 
+As this community grows, our tolerance for unsolicited commercial behavior decreases. 
 
 **The Bottom Line**: 
 * Emailing members with unsolicited commercial offers based on information acquired within the community is a Code of Conduct violation. 
