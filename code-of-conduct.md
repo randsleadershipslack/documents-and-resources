@@ -101,11 +101,11 @@ As this community grows, our tolerance for unsolicited Commerical behavior decre
 
 On-topic and relevant commercial activity is allowed in these channels: 
 
-* #conferences
-* #consulting-gigs
+* #conferences-and-events
 * #i-built-something
 * #i-wrote-something
 * #jobs
+* #jobs-consulting
 * #market-research
 * #remote-jobs
 * #services
