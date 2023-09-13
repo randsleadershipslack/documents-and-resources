@@ -41,7 +41,7 @@ Respectful behavior includes but is not limited to:
 * Avoid demeaning, discriminatory, harassing, hateful, or physically threatening behavior, speech, and imagery.
 * Due regard for the feelings, wishes, rights, and traditions of others.
 
-If you're unclear if a communication, action, or behavior is respectful, ask someone instead of assuming. No, really. Just ask the [Administrators](#administrators) publicly or privately. We'd rather hear from you than hear about something you said or did after the fact, and we are here to help.
+If you're unclear if a communication, action, or behavior is respectful, ask the source instead of assuming. No, really. If don't find clarity, ask the [Administrators](#administrators) publicly or privately. We'd rather hear from you than hear about something you said or did after the fact, and we are here to help.
 
 Don't be a bystander, be a leader. Role model respectful behavior, but also help to address disrespect when you see it within your community. 
 
@@ -61,7 +61,7 @@ Manual aggregation and content organization are allowed, provided the aggregated
 
 ## Read the Room
 
-Once onboard, you will likely find yourself in a popular channel with many members who sound like we've figured it out. We haven't. While advice on one channel might read definitive, it is one member's lessons interpretation and learning from their leadership experience. While there is a diverse set of experiences within this community, we continue to learn at every level of expertise. The daily practice of leadership is more art than science.
+Once onboard, you will likely find yourself in a popular channel with many members who sound like we've figured it out. We haven't. While advice on one channel might read definitive, it is one member's lessons, interpretation, and learning from their leadership experience. While there is a diverse set of experiences within this community, we continue to learn at every level of expertise. The daily practice of leadership is more art than science.
 
 This is a large community with many different humans populating hundreds of channels. Different channels have organically developed distinct personalities. Before posting in a channel with hundreds of members, we suggest you take the time to read the room. Specifically:
 
@@ -82,11 +82,11 @@ A direct message ("DM") is a private message to one or more other members. Sendi
 
 ## Not For Profit (Mostly)
 
-This community is hyper allergic to unwanted commercial behavior. This is not a place for prominent commercial activities such as recruiting, lead generation, marketing, and other solicitation, except in channels dedicated to that purpose. This includes starting market research conversations outside of #market-research. If you join this community to take value rather than contribute, the community will quickly notice and react.
+This community is hyper-allergic to unwanted commercial behavior. This is not a place for prominent commercial activities such as recruiting, lead generation, marketing, and other solicitation, except in channels dedicated to that purpose. This includes starting market research conversations outside of #market-research. If you join this community to take value rather than contribute, the community will quickly notice and react.
 
 While apparent commercial behavior is easy to identify, non-obvious commercial behavior is a grey area. In general, if you are wondering if a post is commercially appropriate, our guidelines are that you:
 
-* Ask permission of the channel before posting a message that might be considered commercial, stating clear intent for the post, and, 
+* Ask permission from the channel before posting a message that might be considered commercial, stating clear intent for the post, and, 
 * Listen to the response of your peers in the channel and act accordingly.
 
 If, after engaging with the community, you are still wondering if a specific message is commercial or not, please ask in one of the channels dedicated to helping find their way in this community, such as [#how-to-rls](https://rands-leadership.slack.com/archives/C6M7U8DFF) , [#rls-admins](https://rands-leadership.slack.com/archives/CQC5BGPAB),  or [#rls-rules](https://rands-leadership.slack.com/archives/C0GH4MMNU).
@@ -94,6 +94,7 @@ If, after engaging with the community, you are still wondering if a specific mes
 As this community grows, our tolerance for unsolicited commercial behavior decreases. 
 
 **The Bottom Line**: 
+
 * Emailing members with unsolicited commercial offers based on information acquired within the community is a Code of Conduct violation. 
 * Aggressive message spamming is cause for automatic account deactivation.
 
@@ -134,7 +135,7 @@ We've received many requests to run surveys in specific channels. Members intere
 
 A troll is a member who starts flame wars or intentionally upsets other members by posting inflammatory, digressive, extraneous, or off-topic messages to provoke members into displaying emotional responses and normalizing tangential discussion either for the troll's amusement or a specific gain.
 
-The determination of whether a message is trolling is often a subjective assessment by administrators, but there is a specific situation where RLS has a zero-tolerance policy where:
+The determination of whether a message is trolling is often a subjective assessment by administrators, but there is a specific situation where RLS has a zero-tolerance policy:
 
 1. A message which is perceived and reported as trolling,
 2. Is posted by a non-contributing member with little to no other engagement elsewhere in the Slack, and, 
@@ -175,11 +176,11 @@ If you cannot resolve a situation peacefully, please refer to our [Incident Proc
 
 Suppose the Administrators determine that a member is violating any part of this Code of Conduct. In that case, they may take any action they deem appropriate, up to and including expulsion and exclusion from the Rands Leadership Slack. 
 
-As Administrators, we will seek to resolve conflicts peacefully and in a manner that is positive for the community. This Code of Conduct documents everyday situations we've seen, but we can't foresee every situation. If in the Administrator's judgment, the best thing to do is to ask a disrespectful individual to leave, we will do so.
+As Administrators, we will seek to resolve conflicts peacefully and in a manner that is positive for the community. This Code of Conduct documents everyday situations we've seen, but we can't foresee every situation. If, in the Administrator's judgment, the best thing to do is to ask a disrespectful individual to leave, we will do so.
 
 ## Administrators
 
-Administrators serve two years terms with an option for a second term.
+Administrators serve two-year terms with an option for a second term.
 
 The Administrator(s) of Rands Leadership as of November 2021:
 
@@ -190,7 +191,7 @@ The Administrator(s) of Rands Leadership as of November 2021:
 * @Ian Fette (First term expires on November 30th, 2023)
 * @rands (workspace owner)
 
-A call for new Administrators’ process kicks off the September before the end of term date for Administrators. 
+A call for new Administrators’ process kicks off the September before the end-of-term date for Administrators. 
 
 You can contact them directly or post your questions or concerns in the [#rls-admins](https://rands-leadership.slack.com/archives/CQC5BGPAB) channel. 
 
@@ -216,6 +217,6 @@ Thanks to [Tantek Çelik](http://tantek.com/) and the other organizers of [Indie
 
 This Code of Conduct is released under the [CC0 public domain license](https://creativecommons.org/publicdomain/zero/1.0/).
 
-V4.2 of this Code of Conduct was published on August 6, 2022. If you have any questions or suggestions regarding this Code of Conduct, please join us in [#rls-code-of-conduct](https://rands-leadership.slack.com/archives/C7KSGKPJL).
+V4.3 of this Code of Conduct was published on September 12, 2023. If you have any questions or suggestions regarding this Code of Conduct, please join us in [#rls-code-of-conduct](https://rands-leadership.slack.com/archives/C7KSGKPJL).
 
 You can see all prior versions of this artifact [here](https://github.com/randsleadershipslack/documents-and-resources/commits/main/code-of-conduct.md).
