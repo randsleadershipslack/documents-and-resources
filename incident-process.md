@@ -38,7 +38,7 @@ Once you’ve contacted an Administrator, they’ll help you triage the incident
 
 ## Proactive Administrators
 
-In most incidents, Administrators will not proactively identify and act on incidents primarily because chances are they are not aware of an individual situation in a community of 30,000+. As such, most incidents are initiated by the community. However, in heinous situations, Administrators will act unprompted. Obvious spammers and publicly toxic members are two types of incidents where Administrators will act immediately. 
+In most incidents, Administrators will not proactively identify and act on incidents primarily because chances are they are not aware of an individual situation in a community of 30,000+. As such, most incidents are initiated by the community. However, in heinous situations, Administrators will act unprompted. Obvious spammers and obvious threats to member safety are two types of incidents where Administrators will act immediately. 
 
 ## The Incident Process
 
