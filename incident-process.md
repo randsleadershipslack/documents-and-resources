@@ -16,13 +16,13 @@ With CoC clarity in hand, please contact the member(s) and explain:
 2. It’s not allowed by the CoC, and,
 3. Let’s figure out how to resolve it. 
 
-We strongly urge members to start with member-driven resolution in non-heious cases. If you are not comfortable with this approach, go ahead and jump to “It’s Admin O’Clock.”
+We strongly urge members to start with member-driven resolution in non-heinous cases. If you are not comfortable with this approach, go ahead and jump to “It’s Admin O’Clock.”
 
 Ideally, the above discussion can help resolve the situation. It often does. If does not, if you are not comfortable contacting the member(s), or if this is an obvious heinous situation, jump to “It’s Admin O’Clock”.
 
 ## It’s Admin O’Clock
 
-Administrators can be contacted directly or in the #rands-admin channel. Please choose the path most comfortable for you. 
+[Administrators](https://github.com/randsleadershipslack/documents-and-resources/blob/main/code-of-conduct.md#administrators) can be contacted directly or in the #rands-admin channel. Please choose the path most comfortable for you. 
 
 When you contact an Administrator(s), provide the following:
 
@@ -96,5 +96,5 @@ Incidents and their results are confidential to RLS Administrators and those inv
 
 ## Administrators
 
-The current roster of Administrators is maintained in the primary [Code of Conduct](https://github.com/randsleadershipslack/documents-and-resources/blob/master/code-of-conduct.md#administrators) document.
+The current roster of Administrators is maintained in the primary [Code of Conduct](https://github.com/randsleadershipslack/documents-and-resources/blob/master/code-of-conduct.md#administrators) document. 
 
