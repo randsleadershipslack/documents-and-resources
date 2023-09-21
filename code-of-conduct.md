@@ -82,12 +82,13 @@ A direct message ("DM") is a private message to one or more other members. Sendi
 
 ## Not For Profit (Mostly)
 
-This community is hyper-allergic to unwanted commercial behavior. This is not a place for prominent commercial activities such as recruiting, lead generation, marketing, and other solicitation, except in channels dedicated to that purpose. This includes starting market research conversations outside of #market-research. If you join this community to take value rather than contribute, the community will quickly notice and react.
+This community is hyper-averse to unwanted commercial behavior. This is not a place for prominent commercial activities such as recruiting, lead generation, marketing, and other solicitation, except in channels dedicated to that purpose. This includes starting market research conversations for for-profit products or services outside of #market-research. If you join this community to take more value than you contribute, the community will quickly notice and react.
 
 While apparent commercial behavior is easy to identify, non-obvious commercial behavior is a grey area. In general, if you are wondering if a post is commercially appropriate, our guidelines are that you:
 
 * Ask permission from the channel before posting a message that might be considered commercial, stating clear intent for the post, and, 
 * Listen to the response of your peers in the channel and act accordingly.
+* Don't rush to delete a useful conversation in a thread where only 1-2 people considered it commercial or market research. Give people in other timezones a change to weigh in. Of course, if an admin asks you to delete the thread, please do.
 
 If, after engaging with the community, you are still wondering if a specific message is commercial or not, please ask in one of the channels dedicated to helping find their way in this community, such as [#how-to-rls](https://rands-leadership.slack.com/archives/C6M7U8DFF) , [#rls-admins](https://rands-leadership.slack.com/archives/CQC5BGPAB),  or [#rls-rules](https://rands-leadership.slack.com/archives/C0GH4MMNU).
 
@@ -95,6 +96,7 @@ As this community grows, our tolerance for unsolicited commercial behavior decre
 
 **The Bottom Line**: 
 
+* Ask yourself whether a borderline commercial conversation will be valuable to the community and not just for you.
 * Emailing members with unsolicited commercial offers based on information acquired within the community is a Code of Conduct violation. 
 * Aggressive message spamming is cause for automatic account deactivation.
 
