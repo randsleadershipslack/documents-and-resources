@@ -1,5 +1,5 @@
 # Some Thoughts on "Commercial Activity" and Market Research
-**(November 28, 2023 / @royrapoport)**
+**(December 2, 2023 / @royrapoport)**
 
 ## Background
 
@@ -61,5 +61,5 @@ There’s a reason this document was written — as noted above, we’ve had a b
 
 ### Credits
 
-In putting this together, I relied on a whole lot of chatter in (#rls-culture)[https://app.slack.com/client/T04T4TH8W/C9Y28QLVC] and some meaningful investment other people made in laying out a cogent explanation of what comes across as commercial.  While many people made such investments, I want to particularly note @nadyne @matt.schellhas and @George Stocker as people who have consistently put in valiant efforts to help others understand our stance.  Their description of this stance was incredibly helpful in my own education.  
+In putting this together, I relied on a whole lot of chatter in [#rls-culture](https://app.slack.com/client/T04T4TH8W/C9Y28QLVC) and some meaningful investment other people made in laying out a cogent explanation of what comes across as commercial.  While many people made such investments, I want to particularly note [@nadyne](https://rands-leadership.slack.com/team/U0521LYBD) [@matt.schellhas](https://rands-leadership.slack.com/team/U053J8BTE) and [@George Stocker](https://rands-leadership.slack.com/team/U01UL3HLQC9) as people who have consistently put in valiant efforts to help others understand our stance.  Their description of this stance was incredibly helpful in my own education.  
 
