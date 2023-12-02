@@ -1,5 +1,5 @@
 # Some Thoughts on "Commercial Activity" and Market Research
-** (November 28, 2023 / @royrapoport) **
+**(November 28, 2023 / @royrapoport)**
 
 ## Background
 
