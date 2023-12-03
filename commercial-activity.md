@@ -44,7 +44,9 @@ Much like the example in When the Product Is You, an allergic response would lik
 Roughly speaking, the more directly you benefit from your employer gaining an additional customer the more messages that may look like you’re soliciting business are likely to trigger an allergic response.  It’s a little bit like this:
 
 ### At the two extreme ends of this we have:
+
 **Least danger:** You’re, say, an engineer working for Disney+.  Disney+ has 150M subscribers and another ten or even a thousand aren’t really going to impact its bottom line, and you certainly won’t be getting paid more if Disney+ gets another thousand subscribers.  You posting in #movies-and-tv "Oh my gosh, Encanto is on Disney+ now, I watched it and it’s amazing, definitely check it out!" is very unlikely to come across as commercial activity.  It’s just not going to make sense that you’re doing that because you’re trying to juice Disney+‘s numbers. 
+
 **Most danger:** You’re an independent consultant, and you’re posting in a given channel "hey y’all, I’ve got some free time, hire me!"   In this case it’s both the case that each customer meaningfully changes your bottom line (since you likely have a few, or at most dozens of, customers) and that the ‘company bottom line’ is indistinguishable from what ends up in your pocket (since as a sole proprietorship your role in your company is like Fezzik’s role in the Brute Squad).  
 
 ## Your participation in RLS matters
