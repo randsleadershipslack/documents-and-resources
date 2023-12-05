@@ -100,6 +100,10 @@ The Administrators are committed to resolving incidents **within five working da
 
 Incidents and their results are confidential to RLS Administrators and those involved in the incident.
 
+## Maintainer
+
+@rands is the maintainer of this document. DM @rands in Slack if you have questions.
+
 ## Administrators
 
 The current roster of Administrators is maintained in the primary [Code of Conduct](https://github.com/randsleadershipslack/documents-and-resources/blob/master/code-of-conduct.md#administrators) document. 
