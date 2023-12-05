@@ -209,6 +209,10 @@ As part of Code of Conduct investigations, Administrators may choose to access t
 
 Administrators may use the above information as part of a Code of Conduct investigation. Usage of this information unrelated to administrator work is forbidden and will be treated as a Code of Conduct violation.
 
+## Maintainer
+
+@rands is the maintainer of this document. DM @rands in Slack if you have questions.
+
 ## Thanks
 
 Thank you to every Rands Leadership Slack community member for helping make our home the respectful and inclusive community it is.
@@ -218,7 +222,5 @@ Thanks to [Tantek Çelik](http://tantek.com/) and the other organizers of [Indie
 This Code of Conduct is released under the [CC0 public domain license](https://creativecommons.org/publicdomain/zero/1.0/).
 
 V4.3 of this Code of Conduct was published on September 12, 2023. If you have any questions or suggestions regarding this Code of Conduct, please join us in [#rls-code-of-conduct](https://rands-leadership.slack.com/archives/C7KSGKPJL). 
-
-@rands is the maintainer of this document. DM @rands in Slack if you have questions.
 
 You can see all prior versions of this artifact [here](https://github.com/randsleadershipslack/documents-and-resources/commits/main/code-of-conduct.md).
