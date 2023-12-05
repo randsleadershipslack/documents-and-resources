@@ -1,4 +1,4 @@
-# # The Rands Leadership Incident Process
+# # The Rands Leadership Slack Incident Process
 
 Our brief governing philosophy: 
 

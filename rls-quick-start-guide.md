@@ -73,3 +73,7 @@ Slackbot [custom responses](https://slack.com/resources/using-slack/a-guide-to-s
 RLS has a Slackbot that automatically flags non-inclusive words and phrases and makes alternate suggestions. People often ask about using these Slackbot responses in their other Slack communities - you can find the instructions on how to do that, as well as the custom responses used, [here](https://github.com/randsleadershipslack/documents-and-resources/blob/main/InclusiveLanguage.md).
 
 Have you been on the receiving end of this Slackbot for using some particular term? Don't feel bad - many of us have too! It's not there to draw attention to you personally - it's simply a mechanism we use to gently shape the whole community towards inclusive language and set some norms around how we communicate. Please just take it as intended: a friendly prompt to consider refining how you express yourself.
+
+## Maintainer
+
+Angela Riggs is the maintainer of this document. DM @angelariggs in Slack if you have questions.
