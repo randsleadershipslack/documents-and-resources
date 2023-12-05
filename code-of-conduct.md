@@ -184,11 +184,11 @@ Administrators serve two-year terms with an option for a second term.
 
 The Administrator(s) of Rands Leadership as of November 2021:
 
-* @mcole (Second term expires November 30th, 2023)
-* @okterok (Second term expires November 30th, 2023)
-* @erin.disselhorst (Second term expires November 30th, 2023)
-* @alden (First term expires on November 30th, 2023)
-* @Ian Fette (First term expires on November 30th, 2023)
+* @alden (Second term expires on November 30th, 2025)
+* @Ian Fette (Second term expires on November 30th, 2025)
+* @Andrew Murphy (First term expires on November 30th, 2025)
+* @angelariggs (First term expires on November 30th, 2025)
+* @Brendan Smithyman (First term expires on November 30th, 2025)
 * @rands (workspace owner)
 
 A call for new Administrators’ process kicks off the September before the end-of-term date for Administrators. 
@@ -217,6 +217,8 @@ Thanks to [Tantek Çelik](http://tantek.com/) and the other organizers of [Indie
 
 This Code of Conduct is released under the [CC0 public domain license](https://creativecommons.org/publicdomain/zero/1.0/).
 
-V4.3 of this Code of Conduct was published on September 12, 2023. If you have any questions or suggestions regarding this Code of Conduct, please join us in [#rls-code-of-conduct](https://rands-leadership.slack.com/archives/C7KSGKPJL).
+V4.3 of this Code of Conduct was published on September 12, 2023. If you have any questions or suggestions regarding this Code of Conduct, please join us in [#rls-code-of-conduct](https://rands-leadership.slack.com/archives/C7KSGKPJL). 
+
+@rands is the maintainer of this document. DM @rands in Slack if you have questions.
 
 You can see all prior versions of this artifact [here](https://github.com/randsleadershipslack/documents-and-resources/commits/main/code-of-conduct.md).
