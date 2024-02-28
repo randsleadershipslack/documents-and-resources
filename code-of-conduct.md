@@ -41,7 +41,7 @@ Respectful behavior includes but is not limited to:
 * Avoid demeaning, discriminatory, harassing, hateful, or physically threatening behavior, speech, and imagery.
 * Due regard for the feelings, wishes, rights, and traditions of others.
 
-If you're unclear if a communication, action, or behavior is respectful, ask the source instead of assuming. No, really. If don't find clarity, ask the [Administrators](#administrators) publicly or privately. We'd rather hear from you than hear about something you said or did after the fact, and we are here to help.
+If you're unclear if a communication, action, or behavior is respectful, ask the source instead of assuming. No, really. If you don't find clarity, ask the [Administrators](#administrators) publicly or privately. We'd rather hear from you than hear about something you said or did after the fact, and we are here to help.
 
 Don't be a bystander, be a leader. Role model respectful behavior, but also help to address disrespect when you see it within your community. 
 
