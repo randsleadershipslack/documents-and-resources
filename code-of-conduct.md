@@ -199,7 +199,7 @@ You can contact them directly or post your questions or concerns in the [#rls-ad
 
 As part of the role, Administrators have information not available to all users. This information includes:
 
-* A member provides email addresses as part of our sign-up process.
+* Any member provided email addresses as part of our sign-up process.
 * Information contained within member requests to join the community. This might include email, name, and occupation.
 * Access log information provided by the Slack administrator interface. This includes name, login times, login device, and IP.
 
