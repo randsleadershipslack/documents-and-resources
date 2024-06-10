@@ -113,7 +113,7 @@ On-topic and relevant commercial activity is allowed in these channels:
 * [#watches](https://rands-leadership.slack.com/archives/C2HRJHQ9J)
 * [#wedidit](https://rands-leadership.slack.com/archives/C491KKW12)
 
-Some geographically-focused channels have a higher tolerance for specific kinds of commercial activity focused on events based in that region. Again, read the room. If you'd like to request approval for a channel to be listed as commercial, please contact the [Adminstrators](#administrators). 
+Some geographically-focused channels have a higher tolerance for specific kinds of commercial activity focused on events based in that region. Again, read the room. If you'd like to request approval for a channel to be listed as commercial, please contact the [Administrators](#administrators). 
 
 **The Bottom Lines**: 
 
