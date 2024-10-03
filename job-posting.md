@@ -5,5 +5,5 @@ Here's the complete list of details we like to see in a job post:
 * Location and timezone expectations: US-only? West Coast preferred? Some other arrangement?
 * Your (the job poster) relation to this position: Are you the hiring manager? The recruiter? Or someone else?
 * Does your company provide Visa sponsorship?
-* Salary range for this role: this is now a legal requirement for job posting in parts of the US.
+* What is the salary range for this role?
 * Are you OK being contacted by contracting agencies? 
