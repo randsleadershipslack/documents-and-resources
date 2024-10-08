@@ -4,7 +4,7 @@ The Rands Leadership Slack is a Leadership community.
 
 The Rands Leadership Slack ("RLS") is an online community dedicated to the craft of leadership. The community is built around public and private channels focusing on leadership development. While many channels are not focused on leadership, all community participants are asked to act as leaders and must comply with the following Code of Conduct. Administrators will enforce this code throughout all channels within the Rands Leadership Slack.
 
- #Table of Contents
+ # Table of Contents
 
 - [The Short Version](#the-short-version)
 - [The Long Version](#the-long-version)
