@@ -55,7 +55,7 @@ Protect IP and legally protected information. This community is not a public spa
 
 If you want to disclose anything from a public channel outside this community, we use a modified version of the [Chatham House Rule](https://www.chathamhouse.org/about/chatham-house-rule) as a guideline.
 
-Members are free to use information received from public channels, but the individual source of the information may not be revealed.
+"Members are free to use information received from public channels, but the individual source of the information may not be revealed."
 
 For attribution of specific content found on this Slack on public channels, we ask that you ask the originator of the content for permission. If you dont receive consent promptly, we ask that you credit the "Rands Leadership Slack." Sharing content from private channels is discouraged without permission from the private channel.   
 
