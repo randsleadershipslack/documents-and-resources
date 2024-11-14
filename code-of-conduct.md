@@ -53,7 +53,7 @@ Don't be a bystander; be a leader. Role model respectful behavior, but also help
 
 Protect IP and legally protected information. This community is not a public space. However, no one has signed a non-disclosure agreement ("NDA") to participate, and you should not presume anything you say here will remain private, so act accordingly.
 
-If you want to disclose anything from a public channel outside this community, we use a modified version of the [Chatham House Rule](https://www.chathamhouse.org/about/chatham-house-rule) as a guideline.
+If you want to disclose any content from a public channel outside this community, including submission to LLMs, we use a modified version of the [Chatham House Rule](https://www.chathamhouse.org/about/chatham-house-rule) as a guideline.
 
 "Members are free to use information received from public channels, but the individual source of the information may not be revealed."
 
