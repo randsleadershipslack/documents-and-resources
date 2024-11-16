@@ -1,4 +1,4 @@
-# # The Rands Leadership Slack Incident Process
+# The Rands Leadership Slack Incident Process
 
 Our brief governing philosophy: 
 
@@ -72,9 +72,9 @@ With this information in hand, the Administrator will determine a consequence. C
 2. Do Not Contact
    * A member may not contact (in any fashion, messages, or emoji) either publicly or privately one or more other members of Slack for a predetermined period. 
 3. Temporary suspension
-   * A member is suspended from RLS for a predetermined period.
+   * A member is suspended from RLS for a predetermined period determined by the adminstrators. 
 4. Permanent suspension
-   * A member is permanently banned from RLS
+   * A member is permanently banned from RLS.
 
 The Admins (not including @rands) will conduct a private vote based on the incident for any suspension. Majority wins. In the event of a tie due to abstention, @rands will cast the deciding vote. 
 
@@ -86,7 +86,7 @@ With the defined incident and consequence in hand, the Administrator will presen
 * This is what I decided in terms of consequence. In the case of a non-ban action, explain the terms of Do Not Contact, Strikes, Etc. 
   * For strikes, members will be alerted to the strike policy and the number of current strikes.
   * For Do Not Contact, members will receive the period when they can not contact member(s).
-  * For Temporary Suspension, members will receive the time period when they can not be a part of RLS.
+  * For Temporary Suspension, members will have their account deactivated. After the suspension period, members can reapply for membership. Their applications will be considered on a case by case basis. 
   * Members will receive the content above for Permanent Suspension and then be permanently removed from RLS.
 
 When the conversation with the accused member is complete, the Administrator will share the following with the reporting member:
