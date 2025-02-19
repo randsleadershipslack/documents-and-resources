@@ -61,7 +61,8 @@ With this information in hand, the Administrator will:
 2. Ask clarifying questions of the reporter because every incident is different.
 3. Work with publicly available content to confirm the report.
 4. If necessary, request supporting evidence from private channels. 
-5. Talk with their fellow administrators to gather perspective. Talk to the accused member(s) for additional perspective if necessary. 
+5. Talk to the accused member(s) for additional perspective if necessary.
+6. Talk with their fellow administrators to gather perspective.  
 
 With this information in hand, the Administrator will determine a consequence. Consequences include but are not limited to:
 
