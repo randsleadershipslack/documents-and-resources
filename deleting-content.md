@@ -1,6 +1,6 @@
 # Things Are Sometimes Better Unread
 
-In any large digitial community with a diverse group of humans, communication can break down. Whether it's unintential miscommunication or intentional boundary pushing, Administrators are occasionally requested to delete a message someone wrote in the public channels.
+In any large digital community with a diverse group of humans, communication can break down. Whether it's unintential miscommunication or intentional boundary pushing, Administrators are occasionally requested to delete a message someone wrote in the public channels.
 
 # In Brief
 
