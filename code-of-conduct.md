@@ -43,7 +43,7 @@ Respectful behavior includes but is not limited to:
 * Avoid demeaning, discriminatory, harassing, hateful, or physically threatening behavior, speech, and imagery.  
 * Due regard for the feelings, wishes, rights, and traditions of others.
 
-If you need clarification on whether a communication, action, or behavior is respectful, ask the source instead of assuming. No, really. If you don't find clarity, ask your peers in \#rls-culture, ask the Administrators publicly in \#rls-admins, or DM the Administrators privately. We'd rather hear from you than hear about something you said or did after the fact, and we are here to help.
+If you need clarification on whether a communication, action, or behavior is respectful, ask the source instead of assuming. No, really. If you don't find clarity, ask your peers in [\#rls-culture](https://rands-leadership.slack.com/archives/C9Y28QLVC), ask the Administrators publicly in \#rls-admins, or DM the Administrators privately. We'd rather hear from you than hear about something you said or did after the fact, and we are here to help.
 
 Don't be a bystander; be a leader. Role model respectful behavior, but also help to address disrespect when you see it within your community. 
 
@@ -77,7 +77,7 @@ This is a large community with many different humans populating hundreds of chan
 
 This community is hyper-allergic to unwanted commercial behavior. If you join this community to take value rather than contribute, the community will quickly notice and react.
 
-Obvious commercial activities such as recruiting, lead generation, marketing, and other solicitation are prohibited except in channels dedicated to that purpose. This includes starting market research conversations outside of \#market-research. 
+Obvious commercial activities such as recruiting, lead generation, marketing, and other solicitation are prohibited except in channels dedicated to that purpose. This includes starting market research conversations outside of [\#market-research](https://rands-leadership.slack.com/archives/C03BHP3TSCW).
 
 While obvious commercial behavior is easy to identify, non-obvious commercial behavior is a grey area. For example, self-promotional behavior, such as linking your blog or podcast, may be interpreted as commercial in some channels. 
 
