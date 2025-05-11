@@ -1,4 +1,4 @@
-# Rands Leadership Slack Documentation and Resources
+# RLS Code of Conduct and  Resources
 
 This repository collects documents and resources for the membership of the Rands Leadership Slack.
 
