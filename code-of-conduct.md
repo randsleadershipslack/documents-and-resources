@@ -188,7 +188,7 @@ Administrators serve two-year terms with an option for a second term.
 The Administrator(s) of Rands Leadership as of October 2024:
 
 * @alden (Second term expires on November 30th, 2025\)  
-* @Ian Fette (Second term expires on November 30th, 2025\)  
+* @erin.disselhorst  (Second term expires on November 30th, 2025\)  
 * @Andrew Murphy (First term expires on November 30th, 2025\)  
 * @angelariggs (First term expires on November 30th, 2025\)  
 * @Brendan Smithyman (First term expires on November 30th, 2025\)  
