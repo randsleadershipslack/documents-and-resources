@@ -22,7 +22,7 @@ Ideally, the above discussion can help resolve the situation. It often does. If 
 
 ## Involving Admins
 
-[Administrators](https://github.com/randsleadershipslack/documents-and-resources/blob/main/code-of-conduct.md#administrators) can be contacted directly or in the #rands-admin channel. Please choose the path most comfortable for you. 
+[Administrators](https://github.com/randsleadershipslack/documents-and-resources/blob/main/code-of-conduct.md#administrators) can be contacted directly or in the #rls-admins channel. Please choose the path most comfortable for you. 
 
 When you contact an Administrator(s), provide the following:
 
@@ -34,7 +34,7 @@ Once you’ve contacted an Administrator, they’ll help you triage the incident
 Things to know:
 
 * The Administrators are committed to a first response within 24 hours. Usually faster. Directly contacting a single Admin could be longer due to time zone differences and work schedules. 
-* #rands-admin contains all the Administrators and is public. If you're filing a formal incident, we suggest directly contacting an Administrator, as formal incidents are confidential to the admins.
+* #rls-admins contains all the Administrators and is public. If you're filing a formal incident, we suggest directly contacting an Administrator, as formal incidents are confidential to the admins.
 * Administrators will discuss which Administrator is most appropriate to drive a particular incident in cases where an Administrator is too close to a situation to be considered neutral.
 
 ## Proactive Administration
