@@ -65,11 +65,13 @@ Manual aggregation and content organization are allowed, provided the aggregated
 
 Once onboard, you will likely find yourself in a popular channel with many members who sound like we've figured it out. We haven't. While advice on one channel might read definitive, it is one member's lessons, interpretation, and learning from their leadership experience. While there is a diverse set of experiences within this community, we continue to learn at every level of expertise. The daily practice of leadership is more art than science.
 
-This is a large community with many different humans populating hundreds of channels. Different channels have organically developed distinct personalities. Before posting in a channel with hundreds of members, we suggest you take the time to read the room. Specifically:
+This is a large community with many different humans populating hundreds of channels. Different channels have organically developed distinct personalities. Before posting in a channel with hundreds of members, we recommend taking the time to read the room. Specifically:
 
 * Read the last couple of days of messages.  
 * Examine the channel topic for helpful tips.  
-* Click on the channel details and read the About section to see how many members are present, what messages have already been pinned, and what files have been shared.
+* Click on the channel name, read the topic and description (if available).
+
+Most importantly, if you post in a channel and receive feedback that your post is not appropriate, listen to the feedback and adapt. Channels, especially long-lived channels, are intentionally protective of the unique culture they’ve created. 
 
 ❗: Posting the same message to multiple channels is spamming. Don't spam. 
 
