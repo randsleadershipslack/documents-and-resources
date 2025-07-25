@@ -115,7 +115,8 @@ On-topic and relevant commercial activity is allowed in these channels:
 
 * [\#conferences-and-events](https://rands-leadership.slack.com/archives/C053Z0VGJ)  
 * [\#i-built-something](https://rands-leadership.slack.com/archives/C94H848UB)  
-* [\#i-wrote-something](https://rands-leadership.slack.com/archives/C0R7KB37Z)  
+* [\#i-wrote-something](https://rands-leadership.slack.com/archives/C0R7KB37Z) 
+* [\#i-recorded-something](https://rands-leadership.slack.com/archives/C094RFFBWMN) 
 * [\#jobs](https://rands-leadership.slack.com/archives/C0J2L41FT)  
 * [\#jobs-consulting](https://rands-leadership.slack.com/archives/C47A0C3TK)  
 * [\#market-research](https://rands-leadership.slack.com/archives/C03BHP3TSCW)  
