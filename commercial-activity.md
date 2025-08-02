@@ -37,7 +37,21 @@ For example, if a random engineering manager posts a question in #adhd along the
 
 Similarly to ‘When the Product Is You’, if you’re seeking help on creating some sort of artifact — a conference presentation, say, or a blog post — on a topic and you’re asking for experts to help you with content for this artifact, this will likely trigger an allergic response, and you should avoid doing so in channels that do not support commercial activity.  
 
-Much like the example in When the Product Is You, an allergic response would likely occur if you were saying "I’ve been invited to present at a conference on supporting neurodivergent employees, how do you approach that?" because the goal here is essentially at least somewhat going to be seen as improving your marketability, rather than helping you manage your employees better.  A similar thing would likely occur if you were trying to write an article for which you were getting paid (either as part of an FTE role or on a per-article basis), irrespective of whether you were looking to repackage opinions/information from others or if you were looking for experts to quote in your article.  Whether you’re planning to cite and attribute your sources or not, this will likely come across as commercial activity.  
+Much like the example in When the Product Is You, an allergic response would likely occur if you were saying "I’ve been invited to present at a conference on supporting neurodivergent employees, how do you approach that?" because the goal here is essentially at least somewhat going to be seen as improving your marketability, rather than helping you manage your employees better.  A similar thing would likely occur if you were trying to write an article for which you were getting paid (either as part of an FTE role or on a per-article basis), irrespective of whether you were looking to repackage opinions/information from others or if you were looking for experts to quote in your article.  Whether you’re planning to cite and attribute your sources or not, this will likely come across as commercial activity.
+
+### When You've Already Created Something
+
+Sharing your own completed work (articles, papers, tools, etc.) in non-commercial channels is generally considered self-promotion, even if freely available and created without commercial intent. This differs from the examples above where someone is soliciting help to create content - but the end result is similar: you're asking community members to spend their time and attention on something you've produced. The key distinction isn't whether money changes hands or whether you personally benefit, but whether you're contributing to a discussion versus promoting your own work.
+
+#### If you want to share something you've created:
+
+* Frame it as part of an ongoing discussion, not a standalone announcement
+* Lead with the problem or question it addresses, not the fact that you created it
+* Be prepared to engage in meaningful discussion about the topic itself
+* Consider whether it truly adds unique value to the specific conversation at hand
+* When in doubt, use channels explicitly designated for sharing your work (#i-wrote-something, #i-built-something, etc.)
+
+Simply dropping a link to your work, even with good intentions of being helpful, comes across as using the community for distribution rather than participating in it. The community values interaction over consumption of external content.
 
 ## Your role in the company, and the incremental impact of customers on company revenue, matter
 
