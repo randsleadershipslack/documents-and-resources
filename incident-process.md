@@ -36,6 +36,7 @@ Things to know:
 * The Administrators are committed to a first response within 24 hours. Usually faster. Directly contacting a single Admin could be longer due to time zone differences and work schedules.
 * #rls-admins contains all the Administrators and is public. If you're filing a formal incident, we suggest directly contacting an Administrator, as formal incidents are confidential to the admins.
 * Administrators will discuss which Administrator is most appropriate to drive a particular incident in cases where an Administrator is too close to a situation to be considered neutral.
+* In cases where multiple incidents are filed on the same situation, the investigating admin may choose to act on only one, usually the first report. Subsequent filings will be informed that an existing incident has been filed. Admin may choose to gather information from multiple incidents and may use the existence of multiple incidents to determine consequences. 
 
 ## Proactive Administration
 
