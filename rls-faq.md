@@ -44,7 +44,9 @@ In the event the offending post is not handled, we have an escalation process th
 
 Up front: if a human or robot has a valid account on this Slack, they can easily pull public data down from this community. Do not assume that what you say in public is confidential because it's not. It is against our Code of Conduct (and Slack's terms of service), but, again, it is trivial to pull public data down from this Slack with a valid user account.
 
-*[Additional content for questions 7-8 appears to be missing from the original document]*
+## Given the size of this community, what work do we do to prevent data exfiltration or other nefarious things? (Explain apps, plugins, etc. strategy)
+
+## Was Slack designed for a community use case? Why do we use Slack?
 
 ## What if Rands is hit by a bus?
 
