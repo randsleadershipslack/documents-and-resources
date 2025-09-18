@@ -1,4 +1,4 @@
-# September 18, 2025 -- not to lurkers, this is a work in progress and not ready for public comment kthx
+# September 18, 2025 -- note to lurkers, this is a work in progress and not ready for public comment kthx
 
 # RLS: How It Works / FAQ
 
