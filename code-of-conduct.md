@@ -186,9 +186,9 @@ As Administrators, we will seek to resolve conflicts peacefully and in a manner 
 
 ## Administrators
 
-Administrators serve two-year terms with an option for a second term.
+Administrators serve one-year terms and are given the opportunity to serve a new term each November. There is no limit to number of terms an admin can serve. 
 
-The Administrator(s) of Rands Leadership as of October 2024:
+The Administrator(s) of Rands Leadership as of November 2025:
 
 * @shira (Renews term on November 30th, 2026\)  
 * @okterok (Renews term on November 30th, 2026\)  
@@ -198,8 +198,6 @@ The Administrator(s) of Rands Leadership as of October 2024:
 * @angelariggs (Renews terms expires on November 30th, 2026\)  
 * @Brendan Smithyman (Renews on November 30th, 2026\)  
 * @rands (workspace owner)
-
-A call for new Administrators process kicks off in September before the end-of-term date for Administrators.   
 
 You can contact them directly or post your questions or concerns in the [\#rls-admins](https://rands-leadership.slack.com/archives/CQC5BGPAB) channel. 
 
