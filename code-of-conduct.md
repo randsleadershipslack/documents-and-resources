@@ -190,11 +190,13 @@ Administrators serve two-year terms with an option for a second term.
 
 The Administrator(s) of Rands Leadership as of October 2024:
 
-* @alden (Second term expires on November 30th, 2025\)  
-* @erin.disselhorst  (Second term expires on November 30th, 2025\)  
-* @Andrew Murphy (First term expires on November 30th, 2025\)  
-* @angelariggs (First term expires on November 30th, 2025\)  
-* @Brendan Smithyman (First term expires on November 30th, 2025\)  
+* @shira (Renews term on November 30th, 2026\)  
+* @okterok (Renews term on November 30th, 2026\)  
+* @alden (Renews term on November 30th, 2026\)  
+* @erin.disselhorst (Renews term on November 30th, 2026\)  
+* @Andrew Murphy (Renews terms on November 30th, 2026\)  
+* @angelariggs (Renews terms expires on November 30th, 2026\)  
+* @Brendan Smithyman (Renews on November 30th, 2026\)  
 * @rands (workspace owner)
 
 A call for new Administrators process kicks off in September before the end-of-term date for Administrators.   
