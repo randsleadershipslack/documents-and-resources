@@ -194,9 +194,9 @@ The Administrator(s) of Rands Leadership as of November 2025:
 * @okterok (Renews term on November 30th, 2026\)  
 * @alden (Renews term on November 30th, 2026\)  
 * @erin.disselhorst (Renews term on November 30th, 2026\)  
-* @Andrew Murphy (Renews terms on November 30th, 2026\)  
-* @angelariggs (Renews terms expires on November 30th, 2026\)  
-* @Brendan Smithyman (Renews on November 30th, 2026\)  
+* @Andrew Murphy (Renews term on November 30th, 2026\)  
+* @angelariggs (Renews term expires on November 30th, 2026\)  
+* @Brendan Smithyman (Renews term on November 30th, 2026\)  
 * @rands (workspace owner)
 
 You can contact them directly or post your questions or concerns in the [\#rls-admins](https://rands-leadership.slack.com/archives/CQC5BGPAB) channel. 
