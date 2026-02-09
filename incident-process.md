@@ -98,6 +98,18 @@ When the conversation with the accused member is complete, the Administrator wil
 
 The Administrators are committed to resolving incidents **within five working days**.
 
+**Statute of Limitations**
+
+Incidents should be reported within 45 days of the behavior or content in question. Reports filed beyond this window may be declined at the Administrator’s discretion, as the passage of time can reduce the availability of evidence and context necessary for a fair assessment.
+
+However, Administrators retain discretion to act on older incidents in the following circumstances:
+
+* The reported behavior is part of a **pattern** that includes recent activity within the 45-day window.
+* The severity of the behavior warrants action regardless of when it occurred.
+
+Additionally, content older than 45 days **may be referenced as supporting context** when evaluating a current incident. For example, if a member is reported for a recent Code of Conduct violation, prior messages or behavior — even outside the reporting window — can be considered by Administrators when assessing the incident and determining appropriate consequences.
+To be clear: old content alone cannot trigger a new formal complaint outside the 90-day window, but it can inform how Administrators evaluate and respond to a current one.
+
 ## Privacy
 
 Incidents and their results are confidential to RLS Administrators and those involved in the incident.
