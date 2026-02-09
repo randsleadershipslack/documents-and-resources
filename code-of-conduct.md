@@ -25,7 +25,7 @@ The Rands Leadership Slack ("RLS") is an online community dedicated to the craft
 
 Be a leader. 
 
-Be respectful of others, ask people to stop if you are bothered, respect privacy, understand this community is primarily not-for-profit, and attempt to resolve issues without Administrators. However, if you can't resolve an issue, you can contact the Administrators. 
+Be respectful of others, ask people to stop if you are bothered, respect privacy, understand this community is primarily not-for-profit. If you feel a member is not holding true to this CoC, unless the issue is a micro aggression or discriminating speech, attempt to resolve issues without Administrators. If it's indeed a micro aggression, please use the Administrators - we're happy to step in and help to make the space safer for you.
 
 If you violate this Code of Conduct, it will be made clear to you, and you may be asked to leave the Rands Leadership Slack.
 
@@ -149,7 +149,7 @@ As a leadership community, we believe peer-to-peer discussions, feedback, and co
 
 If you see someone violating any part of this Code of Conduct, we urge you to respectfully dissuade them from such behavior using specifics from this document as guidelines. Expect that others wish to help keep the community respectful and welcome your input.
 
-If you experience disrespectful behavior toward yourself or anyone else and feel unable or unwilling to respond or resolve it respectfully (for any reason), please immediately bring it to the attention of an (Administrator). We want to hear from you about anything you feel is disrespectful, threatening, or something that could make someone feel distressed. We will listen and work to resolve the matter promptly with your help.
+If you experience disrespectful behavior toward yourself or anyone else and feel unable or unwilling to respond or resolve it respectfully (for any reason including micro aggressions or discriminating speech), please immediately bring it to the attention of an (Administrator). We want to hear from you about anything you feel is disrespectful, threatening, or something that could make someone feel distressed. We will listen and work to resolve the matter promptly with your help.
 
 Should you catch yourself behaving disrespectfully or be confronted as such, listen intently, own up to your words and actions, and apologize accordingly. No one is perfect, and even well-intentioned people make mistakes. We are here to learn how to handle these situations to avoid repeating them in the future.
 
