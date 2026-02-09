@@ -22,25 +22,33 @@ Ideally, the above discussion can help resolve the situation. It often does. If 
 
 ## Involving Admins
 
-[Administrators](https://github.com/randsleadershipslack/documents-and-resources/blob/main/code-of-conduct.md#administrators) can be contacted directly or in the #rls-admins channel. Please choose the path most comfortable for you.
+Administrators can be contacted directly or in the #rls-admins channel. Please choose the path most comfortable for you.
 
 When you contact an Administrator(s), provide the following:
 
 1. The activity you saw that you have an issue with,
 2. If applicable, the CoC violation.
 
-Once you’ve contacted an Administrator, they’ll help you triage the incident.
+Once you've contacted an Administrator, they'll help you triage the incident.
 
 Things to know:
 
-* The Administrators are committed to a first response within 24 hours. Usually faster. Directly contacting a single Admin could be longer due to time zone differences and work schedules.
-* #rls-admins contains all the Administrators and is public. If you're filing a formal incident, we suggest directly contacting an Administrator, as formal incidents are confidential to the admins.
-* Administrators will discuss which Administrator is most appropriate to drive a particular incident in cases where an Administrator is too close to a situation to be considered neutral.
-* In cases where multiple incidents are filed on the same situation, the investigating admin may choose to act on only one, usually the first report. Subsequent filings will be informed that an existing incident has been filed. Admin may choose to gather information from multiple incidents and may use the existence of multiple incidents to determine consequences. 
+1. The Administrators are committed to a first response within 24 hours. Usually faster. Directly contacting a single Admin could be longer due to time zone differences and work schedules.
+2. #rls-admins contains all the Administrators and is public. If you're filing a formal incident, we suggest directly contacting an Administrator, as formal incidents are confidential to the admins.
+3. Administrators will discuss which Administrator is most appropriate to drive a particular incident in cases where an Administrator is too close to a situation to be considered neutral.
+4. In cases where multiple incidents are filed on the same situation, the investigating admin may choose to act on only one, usually the first report. Subsequent filings will be informed that an existing incident has been filed. Admin may choose to gather information from multiple incidents and may use the existence of multiple incidents to determine consequences.
 
-## Proactive Administration
+**Incident Timelines**
 
-In most incidents, Administrators will not proactively identify and act on incidents primarily because they are unaware of an individual situation in a community of 30,000+. As such, most incidents are initiated by the community. However, in heinous situations, Administrators will act unprompted. Obvious spammers and apparent threats to member safety are two types of incidents where Administrators will act immediately.
+The Administrators are committed to the following timelines for formal complaints:
+* **First response:** Within 24 hours of receiving the report.
+* **Initial update:** Within 72 hours of the initial report, the Administrator driving the incident will provide the reporter with a status update. This update will include confirmation that the investigation is underway and, where possible, an indication of expected next steps.
+* **Ongoing updates:** The Administrator will provide the reporter with a status update at least once per week until the incident is resolved.
+* **Resolution:** While the Administrators cannot commit to a fixed resolution timeline -- as incidents vary significantly in complexity -- they are committed to resolving incidents as expediently as thoroughness allows.
+
+If a reporter has not received an update within the expected timeframe, they should feel comfortable following up with the Administrator or reaching out to another Administrator via [#rls-admins](https://rands-leadership.slack.com/archives/CQC5BGPAB).
+
+These timelines apply to formal complaints. Raised concerns, by their nature, may not require ongoing communication beyond acknowledgment.
 
 ## The Incident Process
 
