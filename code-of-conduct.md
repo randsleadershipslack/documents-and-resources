@@ -49,6 +49,8 @@ Don't be a bystander; be a leader. Role model respectful behavior, but also help
 
 ❗: Disrespectful behavior outside this community by active members may be considered a violation of this code of conduct at the administrators' discretion.
 
+❗: Members must participate in good faith and not misrepresent who they are. Automated accounts, AI-operated personas, and bot-driven participation are prohibited unless explicitly approved by Administrators.
+
 ## Privacy, Attribution, and Aggregation
 
 Protect IP and legally protected information. This community is not a public space. However, no one has signed a non-disclosure agreement ("NDA") to participate, and you should not presume anything you say here will remain private, so act accordingly.
