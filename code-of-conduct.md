@@ -49,7 +49,9 @@ Don't be a bystander; be a leader. Role model respectful behavior, but also help
 
 ❗: Disrespectful behavior outside this community by active members may be considered a violation of this code of conduct at the administrators' discretion.
 
-❗: Members must participate in good faith and not misrepresent who they are. Automated accounts, AI-operated personas, and bot-driven participation are prohibited unless explicitly approved by Administrators.
+❗: Members must participate in good faith and represent themselves accurately. Misrepresenting your identity — using a fabricated name, photo, or LinkedIn profile; applying to jobs posted here as one person and sending someone else to the interview; impersonating another individual; or operating multiple accounts under inconsistent identities — results in **immediate and permanent removal from the community, without prior warning**. Identity fraud breaks the trust that makes a vetted leadership community possible.
+ 
+❗: Automated accounts, AI-operated personas, and bot-driven participation are prohibited unless explicitly approved by Administrators.
 
 ## Privacy, Attribution, and Aggregation
 
