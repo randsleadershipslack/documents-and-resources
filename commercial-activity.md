@@ -3,7 +3,7 @@
 
 ## Background
 
-As the CoC for RLS indicates, RLS has a pretty significant allergy to activity considered to be ‘commercial activity’.  However, as the CoC is relatively succinct, there’s not a lot of guidance as to how to think about "what commercial activity is," and how it will likely be received.  As a result, at some regular frequency we get into conversations in either #rls-rules or #rls-culture about whether or not some already-done or considered activity would be commercial.
+As the CoC for RLS indicates, RLS has a pretty significant allergy to activity considered to be promotional or ‘commercial activity’.  However, as the CoC is relatively succinct, there’s not a lot of guidance as to how to think about "what promotional activity is," and how it will likely be received.  As a result, at some regular frequency we get into conversations in either #rls-rules or #rls-culture about whether or not some already-done or considered activity would be commercial/promotional.
 
 Some of these conversations (particularly [this one](https://rands-leadership.slack.com/archives/C9Y28QLVC/p1695409313862749) and [this one](https://rands-leadership.slack.com/archives/CQC5BGPAB/p1700822740338329)) have been useful for me to better understand the perspective of the community, and at some point I volunteered to try to write up a document that would capture our thoughts about commercial activity in a more conversational and explanatory way for other people that would allow them to understand how we think about this without having to trawl through many different threads.  
 
@@ -37,7 +37,7 @@ For example, if a random engineering manager posts a question in #adhd along the
 
 Similarly to ‘When the Product Is You’, if you’re seeking help on creating some sort of artifact — a conference presentation, say, or a blog post — on a topic and you’re asking for experts to help you with content for this artifact, this will likely trigger an allergic response, and you should avoid doing so in channels that do not support commercial activity.  
 
-Much like the example in When the Product Is You, an allergic response would likely occur if you were saying "I’ve been invited to present at a conference on supporting neurodivergent employees, how do you approach that?" because the goal here is essentially at least somewhat going to be seen as improving your marketability, rather than helping you manage your employees better.  A similar thing would likely occur if you were trying to write an article for which you were getting paid (either as part of an FTE role or on a per-article basis), irrespective of whether you were looking to repackage opinions/information from others or if you were looking for experts to quote in your article.  Whether you’re planning to cite and attribute your sources or not, this will likely come across as commercial activity.  
+Much like the example in When the Product Is You, an allergic response would likely occur if you were saying "I’ve been invited to present at a conference on supporting neurodivergent employees, how do you approach that?" because the goal here is essentially at least somewhat going to be seen as improving your marketability, rather than helping you manage your employees better.  A similar thing would likely occur if you were trying to write an article for which you were getting paid (either as part of an FTE role or on a per-article basis), irrespective of whether you were looking to repackage opinions/information from others or if you were looking for experts to quote in your article.  Whether you’re planning to cite and attribute your sources or not, this will likely come across as promotional activity.  
 
 ## Your role in the company, and the incremental impact of customers on company revenue, matter
 
@@ -51,17 +51,21 @@ Roughly speaking, the more directly you benefit from your employer gaining an ad
 
 ## Your participation in RLS matters
 
-How people read your messages will happen in context of their understanding of your participation in this Slack.  This means that the more people see you as being here and primarily contributing to the conversations we want to see on this Slack — the more people see you as actually contributing to this slack — the less likely they’re going to be to assume you’re here to leech value out of it, and the more likely you will be to be able to post something that, were it to come from a newcomer, would be flagged as potentially commercial; similarly, the more you have a track record of contribution, the more likely that people’s engagement with potentially commercial activity will be a more curious "hmm, I wonder if this is commercial?" rather than a strong "hey, no, that’s not cool, take it off."  
+How people read your messages will happen in context of their understanding of your participation in this Slack.  This means that the more people see you as being here and primarily contributing to the conversations we want to see on this Slack — the more people see you as actually contributing to this slack — the less likely they’re going to be to assume you’re here to leech value out of it, and the more likely you will be to be able to post something that, were it to come from a newcomer, would be flagged as potentially commercial/promotional; similarly, the more you have a track record of contribution, the more likely that people’s engagement with potentially commercial activity will be a more curious "hmm, I wonder if this is commercial?" rather than a strong "hey, no, that’s not cool, take it off."  
 
-This does not — should not — mean that if you’re a prolific contributor to this Slack you get carte blanche to post commercial content, but within a pretty wide gray window how your message lands will be dependent on your previous contributions, which is a good reason to, once you arrive at this Slack, focus on contributing value to the Slack in a way that isn’t likely to come across as commercial for a while.
+This does not — should not — mean that if you’re a prolific contributor to this Slack you get carte blanche to post commercial or self-promotional content, but within a pretty wide gray window how your message lands will be dependent on your previous contributions, which is a good reason to, once you arrive at this Slack, focus on contributing value to the Slack in a way that isn’t likely to come across as promotional or commercial for a while.
 
 ## Final Notes
 
 ### It’s Complicated
 
-There’s a reason this document was written — as noted above, we’ve had a bunch of conversations on this topic and it’s a topic full of gray areas and ambiguity.  If you’re reading this doc because someone pointed it at you because you posted something that someone thought was commercial, and you’re feeling bad because you didn’t think it was commercial, don’t worry about it — it’s happened to all of us, and nobody is going to hold that sort of mistake against you.  It’s an ongoing process of education and acclimatization.  
+There’s a reason this document was written — as noted above, we’ve had a bunch of conversations on this topic and it’s a topic full of gray areas and ambiguity.  If you’re reading this doc because someone pointed it at you because you posted something that someone thought was commercial/promotional, and you’re feeling bad because you didn’t think it was, don’t worry about it — it’s happened to all of us, and nobody is going to hold that sort of mistake against you.  It’s an ongoing process of education and acclimatization.  
 
 ### Credits
 
 In putting this together, I relied on a whole lot of chatter in [#rls-culture](https://app.slack.com/client/T04T4TH8W/C9Y28QLVC) and some meaningful investment other people made in laying out a cogent explanation of what comes across as commercial.  While many people made such investments, I want to particularly note [@nadyne](https://rands-leadership.slack.com/team/U0521LYBD) [@matt.schellhas](https://rands-leadership.slack.com/team/U053J8BTE) and [@George Stocker](https://rands-leadership.slack.com/team/U01UL3HLQC9) as people who have consistently put in valiant efforts to help others understand our stance.  Their description of this stance was incredibly helpful in my own education.  
 
+
+### Changelog
+
+2026/05/21: Revised to include language update from CoC regarding expansion of "commercial" to both commercial/promotional

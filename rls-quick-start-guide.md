@@ -14,9 +14,9 @@ Please make sure you read and understand the RLS [Code of Conduct](https://githu
 
 ### Commercial Activity
 
-This community is especially sensitive to appropriate interactions around commercial activity. The CoC has a [detailed section](https://github.com/randsleadershipslack/documents-and-resources/blob/main/code-of-conduct.md#not-for-profit-mostly) around these expectations that you should read, but the tl;dr is that commercial behavior is strictly limited to a select few channels, and there is an especially low tolerance for community members who choose to repeatedly ignore these CoC guidelines.
+This community is especially sensitive to appropriate interactions around commercial/self-promotional activity. The CoC has a [detailed section](https://github.com/randsleadershipslack/documents-and-resources/blob/main/code-of-conduct.md#not-for-promotion-mostly) around these expectations that you should read, but the tl;dr is that commercial and/or self-promotional behavior is strictly limited to a select few channels, and there is an especially low tolerance for community members who choose to repeatedly ignore these CoC guidelines.
 
-If you find that the CoC section about commercial activity has left you with insufficient clarity, we also have [a whole document](https://github.com/randsleadershipslack/documents-and-resources/blob/main/commercial-activity.md) discussing commercial activity with some examples and discussion.
+If you find that the CoC section about promotional activity has left you with insufficient clarity, we also have [a whole document](https://github.com/randsleadershipslack/documents-and-resources/blob/main/commercial-activity.md) discussing commercial and promotional activity with some examples and discussion.
 
 ### DM Etiquette
 
