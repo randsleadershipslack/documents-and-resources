@@ -137,7 +137,7 @@ Some geographically focused channels have a higher tolerance for specific kinds 
 
 ### Surveys
 
-We've received many requests to run surveys in specific channels. Members interested in surveying a channel must clearly state in the channel they intend to survey:
+We've received many requests to run surveys in specific channels. Members interested in surveying a channel must clearly state in the channel that they intend to survey:
 
 1. The goal of the survey
 2. How the data will be used
@@ -154,6 +154,8 @@ If you see someone violating any part of this Code of Conduct, we urge you to re
 If you experience disrespectful behavior toward yourself or anyone else and feel unable or unwilling to respond or resolve it respectfully (for any reason), please immediately bring it to the attention of an Administrator. We want to hear from you about anything you feel is disrespectful, threatening, or something that could make someone feel distressed. We will listen and work to resolve the matter promptly with your help.
 
 Should you catch yourself behaving disrespectfully or be confronted as such, listen intently, own up to your words and actions, and apologize accordingly. No one is perfect, and even well-intentioned people make mistakes. We are here to learn how to handle these situations to avoid repeating them in the future.
+
+Reporting in good faith matters as much as behaving in good faith. Filing an incident in bad faith — including using the incident process to retaliate against a member who has, in good faith, raised a Code of Conduct concern — is itself a violation of this Code of Conduct. Administrators may take action against the filer, up to and including suspension.
 
 ## Don't Be a Troll
 
