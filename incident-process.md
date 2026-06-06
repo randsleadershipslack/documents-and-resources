@@ -48,7 +48,7 @@ A valid incident:
 
 Administrators may decline to investigate filings that do not meet these criteria and will tell the filer why. Declining a filing is not a strike against the filer; repeated invalid filings may be.
 
-**Incident Timelines**
+## Incident Timelines
 
 The Administrators are committed to the following timelines for formal complaints:
 * **First response:** Within 24 hours of receiving the report.
@@ -126,7 +126,7 @@ However, Administrators retain discretion to act on older incidents in the follo
 * The severity of the behavior warrants action regardless of when it occurred.
 
 Additionally, content older than 45 days **may be referenced as supporting context** when evaluating a current incident. For example, if a member is reported for a recent Code of Conduct violation, prior messages or behavior — even outside the reporting window — can be considered by Administrators when assessing the incident and determining appropriate consequences.
-To be clear: old content alone cannot trigger a new formal complaint outside the 90-day window, but it can inform how Administrators evaluate and respond to a current one.
+To be clear: old content alone cannot trigger a new formal complaint outside the 45-day window, but it can inform how Administrators evaluate and respond to a current one.
 
 ## Privacy
 
