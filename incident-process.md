@@ -38,6 +38,16 @@ Things to know:
 3. Administrators will discuss which Administrator is most appropriate to drive a particular incident in cases where an Administrator is too close to a situation to be considered neutral.
 4. In cases where multiple incidents are filed on the same situation, the investigating admin may choose to act on only one, usually the first report. Subsequent filings will be informed that an existing incident has been filed. Admin may choose to gather information from multiple incidents and may use the existence of multiple incidents to determine consequences.
 
+## What Makes a Valid Incident
+
+A valid incident:
+
+1. Identifies a specific behavior and the Code of Conduct clause it violates,
+2. Is filed in good faith (see [Resolve Peacefully](https://github.com/randsleadershipslack/documents-and-resources/blob/main/code-of-conduct.md#resolve-peacefully)), and
+3. Has been preceded by an attempt at peer resolution, unless the behavior is severe, ongoing, or peer resolution would be unsafe or futile.
+
+Administrators may decline to investigate filings that do not meet these criteria and will tell the filer why. Declining a filing is not a strike against the filer; repeated invalid filings may be.
+
 **Incident Timelines**
 
 The Administrators are committed to the following timelines for formal complaints:
