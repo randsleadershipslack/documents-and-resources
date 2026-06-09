@@ -17,8 +17,8 @@ The Rands Leadership Slack ("RLS") is an online community dedicated to the craft
   * [Don't Be a Troll](#dont-be-a-troll)
   * [Content Review Process](#content-review-process)
 - [Additional Situations](#additional-situations)
-  * [Incident Process](https://github.com/randsleadershipslack/documents-and-resources/blob/master/incident-process.md)
-  * [Deleting Content](https://github.com/randsleadershipslack/documents-and-resources/blob/master/deleting-content.md)
+  * [Incident Process](https://github.com/randsleadershipslack/documents-and-resources/blob/main/incident-process.md)
+  * [Deleting Content](https://github.com/randsleadershipslack/documents-and-resources/blob/main/deleting-content.md)
 - [Administrators](#administrators)
 
 # The Short Version
@@ -133,7 +133,7 @@ Some geographically focused channels have a higher tolerance for specific kinds 
 
 * In channels where commercial activity is allowed, it is just as unwelcome to post an unrelated commercial offering as it is to post in non-commercial channels.
 * Commercial requests via direct messages ("DM") without prior and apparent consent from the receiver are prohibited.
-* If you feel a message should be deleted, please refer to our overview of [Deleting Content](https://github.com/randsleadershipslack/documents-and-resources/blob/master/deleting-content.md).
+* If you feel a message should be deleted, please refer to our overview of [Deleting Content](https://github.com/randsleadershipslack/documents-and-resources/blob/main/deleting-content.md).
 
 ### Surveys
 
@@ -182,7 +182,7 @@ In the case that the Administrator's action is required because of a lack of res
 
 ## Additional Situations
 
-If you cannot resolve a situation peacefully, please refer to our [Incident Process](https://github.com/randsleadershipslack/documents-and-resources/blob/master/incident-process.md) and choose a course that suits the situation.
+If you cannot resolve a situation peacefully, please refer to our [Incident Process](https://github.com/randsleadershipslack/documents-and-resources/blob/main/incident-process.md) and choose a course that suits the situation.
 
 Suppose the Administrators determine that a member is violating any part of this Code of Conduct. In that case, they may take appropriate action, including expulsion and exclusion from the Rands Leadership Slack. Results of Administrator action are shared with involved members only and not the community.
 
