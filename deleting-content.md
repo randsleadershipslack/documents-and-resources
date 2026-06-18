@@ -21,7 +21,7 @@ Content posted in this fashion results in a no-warning expulsion of the offendin
 
 # Content Review Process
 
-Admins may come across or be notified of content on RLS that violates the Code of Conduct. In some situations, this may lead to an Administrator deleting the message (or messages) that violate the CoC. Messages that are most likely to be deleted are commercial solicitations, disrespectful messages to other members, or links to disturbing or distressing content without appropriate measures to warn of or hide the content (including image uploads and unfurls).
+Admins may come across or be notified of content on RLS that violates the Code of Conduct. In some situations, this may lead to an Administrator deleting the message (or messages) that violate the CoC. Messages that are most likely to be deleted are commercial solicitations, self-promotional messages, disrespectful messages to other members, or links to disturbing or distressing content without appropriate measures to warn of or hide the content (including image uploads and unfurls).
 
 Ideally, another RLS member notices this content and contacts the original poster, who then modifies or deletes the message so that it is no longer problematic. In this case, no further Administrator action is required. If Administrator action is desired, due to lack of response or any other reason, an Administrator will notify the original poster of the violation and the need to reword or remove the problematic message. The Administrator will also specify a time after which Administrator action will be taken to delete the content if it is not addressed. This time may be as little as a few minutes, or as much as 24 hours.
 
