@@ -69,6 +69,7 @@ Workspace owner is the primary contact for Slack. Workspace owner can:
 - **For the community?** Ask in #how-to-rls
 - **Regarding culture?** Ask in #rls-culture
 - **Regarding continuity?** Ask in #rls-continuity
+- **Regarding tech (Slack Apps, Workflows, etc)?** Ask in #rls-tech
 - **More?** *[Additional channels may be listed here]*
 
 ## Reference
