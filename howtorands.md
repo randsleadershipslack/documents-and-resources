@@ -76,6 +76,6 @@ If a meeting completes its intended purpose before it's scheduled to end, let's 
 
 **Humans stating opinions as facts** are a trigger for me. When I hear this, I will often unexpectedly jump into a conversation to clarify that your opinion is just that… your opinion and not a fact. 
 
-**This document is a [living breathing thing](https://github.com/randsleadershipslack/documents-and-resources/blob/master/howtorands.md)** and likely incomplete. I update it frequently and would appreciate your feedback.
+**This document is a [living breathing thing](https://github.com/randsleadershipslack/documents-and-resources/blob/main/howtorands.md)** and likely incomplete. I update it frequently and would appreciate your feedback.
 
 [^1]: Speculation: This document has an idea you'd like your manager to do. Thesis: Just because I have a practice or a belief doesn't mean it's the proper practice or belief for your manager. Suggestion: Ask your manager if they think my practice or belief is a good idea and see what happens. Feedback is a gift. 

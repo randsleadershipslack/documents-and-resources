@@ -138,4 +138,4 @@ Incidents and their results are confidential to RLS Administrators and those inv
 
 ## Administrators
 
-The current roster of Administrators is maintained in the primary [Code of Conduct](https://github.com/randsleadershipslack/documents-and-resources/blob/master/code-of-conduct.md#administrators) document.
+The current roster of Administrators is maintained in the primary [Code of Conduct](https://github.com/randsleadershipslack/documents-and-resources/blob/main/code-of-conduct.md#administrators) document.
