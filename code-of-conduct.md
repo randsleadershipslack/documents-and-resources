@@ -198,7 +198,6 @@ The Administrator(s) of Rands Leadership as of November 2025:
 * @okterok (Renews term on November 30th, 2026)
 * @alden (Renews term on November 30th, 2026)
 * @erin.disselhorst (Renews term on November 30th, 2026)
-* @Andrew Murphy (Renews term on November 30th, 2026)
 * @angelariggs (Renews term on November 30th, 2026)
 * @Brendan Smithyman (Renews term on November 30th, 2026)
 * @rands (workspace owner)
