@@ -93,6 +93,10 @@ With this information in hand, the Administrator will determine a consequence. C
    * A member may not contact (in any fashion, messages, or emoji) either publicly or privately one or more other members of Slack for a predetermined period.
 3. Temporary suspension
    * A member is suspended from RLS for a predetermined period determined by the administrators.
+   * **Readmission is a one-year probation.** Every temporary suspension carries it. A member returning from a temporary suspension is told so explicitly in their readmission note: for one year from readmission they are on probation, and a similar violation of the Code of Conduct during that year will result in a permanent ban. Whether a violation is similar is the Administrators' judgment. Readmission is a last chance, not a reset, and the bar is stated in writing at readmission so the member knows it has changed.
+   * A probation violation does not require a new formal complaint or the full investigation described above, and there is no guarantee the member will be heard before the ban; Administrators may talk to the member at their discretion. The member has already been through the process once and has been told what happens next. The Administrators confirm the behavior, agree it is a repeat of the kind that led to the suspension, and vote on the ban as with any suspension (see below). The member is informed of the ban.
+   * Unrelated or minor issues during the probation year, and any issue after it ends, go through the normal process, with the prior suspension considered as history.
+   * Probation applies to readmissions from September 2026 onward.
 4. Permanent suspension
    * A member is permanently banned from RLS.
 
@@ -106,7 +110,7 @@ With the defined incident and consequence in hand, the Administrator will presen
 * This is what I decided in terms of consequence. In the case of a non-ban action, explain the terms of Do Not Contact, Strikes, Etc.
   * For strikes, members will be alerted to the strike policy and the number of current strikes.
   * For Do Not Contact, members will receive the period when they can not contact member(s).
-  * For Temporary Suspension, members will have their account deactivated. After the suspension period, members can reapply for membership. Their applications will be considered on a case by case basis.
+  * For Temporary Suspension, members will have their account deactivated. After the suspension period, members can reapply for membership. Their applications will be considered on a case by case basis. A readmitted member is told in their readmission note that they are on probation for one year: a similar violation during that year results in a permanent ban (see Temporary suspension above).
   * Members will receive the content above for Permanent Suspension and then be permanently removed from RLS.
 
 When the conversation with the accused member is complete, the Administrator will share the following with the reporting member:
