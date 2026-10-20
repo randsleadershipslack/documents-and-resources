@@ -39,5 +39,4 @@ Direct messages between one or more members are private. Administators have no a
 
 ## Administrators
 
-The current roster of Administrators is maintained in the primary [Code of Conduct](https://github.com/randsleadershipslack/documents-and-resources/blob/master/code-of-conduct.md) document.
-
+The current roster of Administrators is maintained in the primary [Code of Conduct](https://github.com/randsleadershipslack/documents-and-resources/blob/main/code-of-conduct.md) document.

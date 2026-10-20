@@ -22,25 +22,43 @@ Ideally, the above discussion can help resolve the situation. It often does. If 
 
 ## Involving Admins
 
-[Administrators](https://github.com/randsleadershipslack/documents-and-resources/blob/main/code-of-conduct.md#administrators) can be contacted directly or in the #rls-admins channel. Please choose the path most comfortable for you.
+Administrators can be contacted directly or in the #rls-admins channel. Please choose the path most comfortable for you.
 
 When you contact an Administrator(s), provide the following:
 
 1. The activity you saw that you have an issue with,
 2. If applicable, the CoC violation.
 
-Once you’ve contacted an Administrator, they’ll help you triage the incident.
+Once you've contacted an Administrator, they'll help you triage the incident.
 
 Things to know:
 
-* The Administrators are committed to a first response within 24 hours. Usually faster. Directly contacting a single Admin could be longer due to time zone differences and work schedules.
-* #rls-admins contains all the Administrators and is public. If you're filing a formal incident, we suggest directly contacting an Administrator, as formal incidents are confidential to the admins.
-* Administrators will discuss which Administrator is most appropriate to drive a particular incident in cases where an Administrator is too close to a situation to be considered neutral.
-* In cases where multiple incidents are filed on the same situation, the investigating admin may choose to act on only one, usually the first report. Subsequent filings will be informed that an existing incident has been filed. Admin may choose to gather information from multiple incidents and may use the existence of multiple incidents to determine consequences. 
+1. The Administrators are committed to a first response within 24 hours. Usually faster. Directly contacting a single Admin could be longer due to time zone differences and work schedules.
+2. #rls-admins contains all the Administrators and is public. If you're filing a formal incident, we suggest directly contacting an Administrator, as formal incidents are confidential to the admins.
+3. Administrators will discuss which Administrator is most appropriate to drive a particular incident in cases where an Administrator is too close to a situation to be considered neutral.
+4. In cases where multiple incidents are filed on the same situation, the investigating admin may choose to act on only one, usually the first report. Subsequent filings will be informed that an existing incident has been filed. Admin may choose to gather information from multiple incidents and may use the existence of multiple incidents to determine consequences.
 
-## Proactive Administration
+## What Makes a Valid Incident
 
-In most incidents, Administrators will not proactively identify and act on incidents primarily because they are unaware of an individual situation in a community of 30,000+. As such, most incidents are initiated by the community. However, in heinous situations, Administrators will act unprompted. Obvious spammers and apparent threats to member safety are two types of incidents where Administrators will act immediately.
+A valid incident:
+
+1. Identifies a specific behavior and the Code of Conduct clause it violates,
+2. Is filed in good faith (see [Resolve Peacefully](https://github.com/randsleadershipslack/documents-and-resources/blob/main/code-of-conduct.md#resolve-peacefully)), and
+3. Has been preceded by an attempt at peer resolution, unless the behavior is severe, ongoing, or peer resolution would be unsafe or futile.
+
+Administrators may decline to investigate filings that do not meet these criteria and will tell the filer why. Declining a filing is not a strike against the filer; repeated invalid filings may be.
+
+## Incident Timelines
+
+The Administrators are committed to the following timelines for formal complaints:
+* **First response:** Within 24 hours of receiving the report.
+* **Initial update:** Within 72 hours of the initial report, the Administrator driving the incident will provide the reporter with a status update. This update will include confirmation that the investigation is underway and, where possible, an indication of expected next steps.
+* **Ongoing updates:** The Administrator will provide the reporter with a status update at least once per week until the incident is resolved.
+* **Resolution:** While the Administrators cannot commit to a fixed resolution timeline -- as incidents vary significantly in complexity -- they are committed to resolving incidents as expediently as thoroughness allows.
+
+If a reporter has not received an update within the expected timeframe, they should feel comfortable following up with the Administrator or reaching out to another Administrator via [#rls-admins](https://rands-leadership.slack.com/archives/CQC5BGPAB).
+
+These timelines apply to formal complaints. Raised concerns, by their nature, may not require ongoing communication beyond acknowledgment.
 
 ## The Incident Process
 
@@ -65,17 +83,26 @@ With this information in hand, the Administrator will:
 5. Talk to the accused member(s) for additional perspective if necessary.
 6. Talk with their fellow administrators to gather perspective.
 
-With this information in hand, the Administrator will determine a consequence. Consequences include but are not limited to:
+With this information in hand, the Administrator will determine a consequence. Consequences are a ladder; Administrators use judgment about which rung fits and may skip rungs for egregious behavior. They include but are not limited to:
 
-1. A Strike
+1. Watchlist
+   * An internal note that a member's behavior is off but has not earned a warning: a pattern that is not a Code of Conduct violation on its own, a report that did not hold up but should be remembered, or job posts that look wrong. Nothing is communicated to the member, and nothing places a member on the watchlist automatically; it is an Administrator's call every time.
+   * A watchlist entry is history for the next Administrator, not a consequence for the member. A later report against a watchlisted member should move up the ladder rather than add another entry.
+2. Warning
+   * The member is told in writing what they did and that a repeat is a strike. A warning is not a strike.
+3. A Strike
    * RLS operates on a three-strike system whereby non-suspending CoC violations can result in one or more strikes. Administrators will use their judgment and historical precedent in determining what constitutes a strike. When a member receives three strikes, they will be suspended from RLS for a period of time or permanently, depending on the violation. Multiple strikes can be assessed depending on the violation.
    * We do not define what does and does not constitute a strike. However, as of November 2019, we are keeping a record of all administrative activity to help calibrate strikes.
    * Strikes do not expire, but the period between strikes will be considered as part of future administration action.
-2. Do Not Contact
+4. Do Not Contact
    * A member may not contact (in any fashion, messages, or emoji) either publicly or privately one or more other members of Slack for a predetermined period.
-3. Temporary suspension
+5. Temporary suspension
    * A member is suspended from RLS for a predetermined period determined by the administrators.
-4. Permanent suspension
+   * **Readmission is a one-year probation.** Every temporary suspension carries it. A member returning from a temporary suspension is told so explicitly in their readmission note: for one year from readmission they are on probation, and a similar violation of the Code of Conduct during that year will result in a permanent ban. Whether a violation is similar is the Administrators' judgment. Readmission is a last chance, not a reset, and the bar is stated in writing at readmission so the member knows it has changed.
+   * A probation violation does not require a new formal complaint or the full investigation described above, and there is no guarantee the member will be heard before the ban; Administrators may talk to the member at their discretion. The member has already been through the process once and has been told what happens next. The Administrators confirm the behavior, agree it is a repeat of the kind that led to the suspension, and vote on the ban as with any suspension (see below). The member is informed of the ban.
+   * Unrelated or minor issues during the probation year, and any issue after it ends, go through the normal process, with the prior suspension considered as history.
+   * Probation applies to readmissions from September 2026 onward.
+6. Permanent suspension
    * A member is permanently banned from RLS.
 
 The Admins (not including @rands) will conduct a private vote based on the incident for any suspension. Majority wins. In the event of a tie due to abstention, @rands will cast the deciding vote.
@@ -86,9 +113,10 @@ With the defined incident and consequence in hand, the Administrator will presen
 * This incident is confidential.
 * This is how I confirmed what occurred.
 * This is what I decided in terms of consequence. In the case of a non-ban action, explain the terms of Do Not Contact, Strikes, Etc.
+  * For a warning, members are told the specific behavior and that a repeat is a strike.
   * For strikes, members will be alerted to the strike policy and the number of current strikes.
   * For Do Not Contact, members will receive the period when they can not contact member(s).
-  * For Temporary Suspension, members will have their account deactivated. After the suspension period, members can reapply for membership. Their applications will be considered on a case by case basis.
+  * For Temporary Suspension, members will have their account deactivated. After the suspension period, members can reapply for membership. Their applications will be considered on a case by case basis. A readmitted member is told in their readmission note that they are on probation for one year: a similar violation during that year results in a permanent ban (see Temporary suspension above).
   * Members will receive the content above for Permanent Suspension and then be permanently removed from RLS.
 
 When the conversation with the accused member is complete, the Administrator will share the following with the reporting member:
@@ -97,6 +125,18 @@ When the conversation with the accused member is complete, the Administrator wil
 * The consequence is determined by the administrators. In the case of a “Do Not Contact” scenario, the period the member may not contact the other member.
 
 The Administrators are committed to resolving incidents **within five working days**.
+
+**Statute of Limitations**
+
+Incidents should be reported within 45 days of the behavior or content in question. Reports filed beyond this window may be declined at the Administrator’s discretion, as the passage of time can reduce the availability of evidence and context necessary for a fair assessment.
+
+However, Administrators retain discretion to act on older incidents in the following circumstances:
+
+* The reported behavior is part of a **pattern** that includes recent activity within the 45-day window.
+* The severity of the behavior warrants action regardless of when it occurred.
+
+Additionally, content older than 45 days **may be referenced as supporting context** when evaluating a current incident. For example, if a member is reported for a recent Code of Conduct violation, prior messages or behavior — even outside the reporting window — can be considered by Administrators when assessing the incident and determining appropriate consequences.
+To be clear: old content alone cannot trigger a new formal complaint outside the 45-day window, but it can inform how Administrators evaluate and respond to a current one.
 
 ## Privacy
 
@@ -108,4 +148,4 @@ Incidents and their results are confidential to RLS Administrators and those inv
 
 ## Administrators
 
-The current roster of Administrators is maintained in the primary [Code of Conduct](https://github.com/randsleadershipslack/documents-and-resources/blob/master/code-of-conduct.md#administrators) document.
+The current roster of Administrators is maintained in the primary [Code of Conduct](https://github.com/randsleadershipslack/documents-and-resources/blob/main/code-of-conduct.md#administrators) document.

@@ -18,7 +18,7 @@ At the time of this writing, RLS has just under 38,000 members. These are not al
 
 We have a deliberately laborious process by which new members are added. This is to both make sure about a new member's commitment while also keeping out the robots. This process has increased in friction over time. This is how it works:
 
-1. A member sends an email to our invite address (invites@randsinrepose.com) with a set of required information.
+1. A member sends an email with a set of required information documented here: https://randsinrepose.com/welcome-to-rands-leadership-slack/
 2. If they fail to supply all the information, we request the same information again.
 3. If they succeed in supplying the information, we send them an invite with onboarding guidance.
 

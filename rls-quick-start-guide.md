@@ -52,6 +52,10 @@ Rands Leadership Slack has many (many) channels. We could not hope to describe a
 
 ## Discovering New Channels
 
+RLS has over 1,100 active public channels, so there's a channel for nearly everything - the trick is finding it!
+
+**Ask Floyd for recommendations.** Floyd is a bot built by Rands that can suggest channels tailored to you. DM @Floyd the word `recommend` and he'll suggest channels based on your interests and the channels you've already joined, or try `recommend channels about <topic>` if you're looking for something specific.
+
 Here are some channels to join that are good for helping you discover other channels (plus some of these are just nice channels to be in!):
 
 - `#rls-gratitude` 

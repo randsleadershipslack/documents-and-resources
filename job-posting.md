@@ -1,9 +1,13 @@
-Here's the complete list of details we like to see in a job post: 
+Every job post in #jobs or #jobs-consulting should include:
 
-* A brief description of your company, and the title/role of the job.
-* Distributed friendliness: Permanently distributed, just pandemic-distributed, in-office or blend.
-* Location and timezone expectations: US-only? West Coast preferred? Some other arrangement?
-* Your (the job poster) relation to this position: Are you the hiring manager? The recruiter? Or someone else?
-* Does your company provide Visa sponsorship?
-* Salary range for this role: this is now a legal requirement for job posting in parts of the US.
-* Are you OK being contacted by contracting agencies? 
+* **Company name** and a brief description of what the company does.
+* **Role title** and a short summary of the position.
+* **Salary range** — Salary transparency is now required by law in a growing number of jurisdictions worldwide. Include a specific range (e.g., "$150k-$180k"), not "competitive" or "great compensation."
+* **Remote status** — Remote, hybrid, or onsite.
+* **Location** — Where the role is based, including timezone expectations if applicable.
+* **Visa sponsorship** — Whether or not your company sponsors visas.
+* **OK to contact** — Whether interested members can DM you directly.
+* **Your relationship to the role** — Are you the hiring manager, a recruiter, an employee, or sharing on behalf of someone?
+* **Link to the listing** — A link to the full job description on your careers page or ATS is helpful.
+
+For posts in #jobs-consulting, also specify whether the engagement is **full-time or contract**.
